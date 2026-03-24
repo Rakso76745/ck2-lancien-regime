@@ -1417,7 +1417,7 @@
 }
 
 100614 = {
-	name = "Diana"
+	name = "Diana" # Diana Kirke
 	dynasty = 179
 	religion = protestant
 	culture = english
@@ -1428,6 +1428,7 @@
 
 100615 = {
 	name = "Diana" # Diana Beauclerk, Duchess of St Albans
+	female = yes
 	dynasty = 29
 	religion = protestant
 	culture = english
