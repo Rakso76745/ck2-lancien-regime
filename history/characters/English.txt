@@ -1418,6 +1418,7 @@
 
 100614 = {
 	name = "Diana" # Diana Kirke
+	female = yes
 	dynasty = 179
 	religion = protestant
 	culture = english
@@ -1444,8 +1445,8 @@
 	dynasty = 178
 	religion = protestant
 	culture = english
-	father = 100082
-	mother = 100614
+	father = 100452
+	mother = 100615
 	1696.4.6 = {
 		birth = yes 
     }
@@ -1456,8 +1457,8 @@
 	dynasty = 178
 	religion = protestant
 	culture = english
-	father = 100082
-	mother = 100614
+	father = 100452
+	mother = 100615
 	1698.5.22 = {
 		birth = yes 
     }
