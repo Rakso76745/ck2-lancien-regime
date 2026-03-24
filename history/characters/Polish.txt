@@ -2,7 +2,7 @@
 	name = "August" # Augustus II the Strong
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	father = 100133
 	mother = 100134
 	martial = 4
@@ -46,7 +46,7 @@
 	female = yes
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	father = 100095
 	mother = 100096
 	1676.3.4 = {
@@ -58,7 +58,7 @@
 	name = "Jan" # John III Sobieski
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	1629.8.17 = {
 	  birth = yes  
 	}
@@ -74,7 +74,7 @@
 	name = "Jakub Ludwik Henryk" # James Louis Sobieski
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	father = 100095
 	mother = 100096
 	1667.11.2 = {
@@ -89,7 +89,7 @@
 	name = "Aleksander Benedykt" # Aleksander Benedykt Sobieski
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	father = 100095
 	mother = 100096
 	1677.7.9 = {
@@ -98,10 +98,10 @@
   }
 
   100099 = {
-	name = "Konstanty W?adys?aw" # Konstanty W?adys?aw
+	name = "Konstanty Wladyslaw" # Konstanty Wladyslaw
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	father = 100095
 	mother = 100096
 	1680.5.1 = {
@@ -114,7 +114,7 @@
 	female = yes
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100304
 	mother  = 100305
 	1619.8.7 = {
@@ -130,7 +130,7 @@
 	female = yes
 	religion = catholic
 	culture = polish
-	dynasty = 100034
+	dynasty = 35
 	father = 100097
 	mother = 100166
 	1697.1.25 = {
@@ -139,10 +139,10 @@
 }
 
   100193 = {
-	name = "Micha? Korybut" # Micha? Korybut Wi?niowiecki
+	name = "Michal Korybut" # Michal Korybut Wi?niowiecki
 	religion = catholic
 	culture = polish
-	dynasty = 100052
+	dynasty = 52
 	1640.5.31 = {
 	  birth = yes
 	} 
@@ -158,7 +158,7 @@
 	name = "Jan Kazimierz" # John II Casimir Vasa
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100303
 	mother  = 100305
 	1609.3.22 = {
@@ -170,10 +170,10 @@
   }
 
   100307 = {
-	name = "W?adys?aw" # W?adys?aw IV Vasa
+	name = "Wladyslaw" # Wladyslaw IV Vasa
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100304
 	mother  = 100302
 	1595.6.9 = {
@@ -191,7 +191,7 @@
 	name = "Jan Albert" # John Albert Vasa
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100304
 	mother  = 100305
 	1612.6.25 = {
@@ -206,7 +206,7 @@
 	name = "Karol Ferdynand" # Karol Ferdynand Vasa
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100304
 	mother  = 100305
 	1613.10.13 = {
@@ -221,7 +221,7 @@
 	name = "Zygmunt Kazimierz" # Sigismund Casimir Vasa
 	religion = catholic
 	culture = polish
-	dynasty = 100049
+	dynasty = 49
 	father = 100307
 	mother = 100320
 	1640.4.1 = {

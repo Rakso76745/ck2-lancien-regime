@@ -1,6 +1,6 @@
 100057 = {
 	name = "Mustafa II"
-	dynasty = 100045
+	dynasty = 45
 	religion = sunni
 	culture = turkish
 	trait="poet"
@@ -13,7 +13,7 @@
 	name = "Devlet"
 	religion = sunni
 	culture = turkish
-	dynasty = 100069
+	dynasty = 69
 	1670.12.4 = {
 	  birth = yes
 	}
@@ -42,7 +42,7 @@
 
   100601 = {
 	name = "Hüseyin"
-	dynasty = 100180
+	dynasty = 167
 	religion = sunni
 	culture = turkish
 	trait = "charitable"

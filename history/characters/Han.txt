@@ -2,7 +2,7 @@
 	name = "Kangxi"
 	religion = buddhist
 	culture = han
-	dynasty = 100190
+	dynasty = 177
 	1654.5.4 = {
 	  birth = yes
 	}

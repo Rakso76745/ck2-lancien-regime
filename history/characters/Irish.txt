@@ -16,7 +16,7 @@
 	religion = protestant
 	culture = irish
 	trait = "brilliant_strategist"
-	dynasty = 100024
+	dynasty = 25
 	mother = 100074
 	father = 100073
 	1665.4.29 = {
@@ -31,7 +31,7 @@
 	name = "Thomas"
 	religion = protestant
 	culture = irish
-	dynasty = 100024
+	dynasty = 25
 	1634.7.8 = {
 	  birth = yes 
 	}
@@ -50,7 +50,7 @@
 	name = "Charles"
 	religion = protestant
 	culture = irish
-	dynasty = 100024
+	dynasty = 25
 	mother = 100074
 	father = 100073  
 	1671.9.4 = {
@@ -63,7 +63,7 @@
 	female = yes
 	religion = protestant
 	culture = irish
-	dynasty = 100024
+	dynasty = 25
 	mother = 100074
 	father = 100073  
 	1660.1.1 = {
@@ -76,7 +76,7 @@
 	female = yes
 	religion = protestant
 	culture = irish
-	dynasty = 100024
+	dynasty = 25
 	mother = 100074
 	father = 100073  
 	1658.1.1 = {
@@ -89,7 +89,7 @@
 	female = yes
 	religion = protestant
 	culture = irish
-	dynasty = 100024
+	dynasty = 25
 	mother = 100074
 	father = 100073  
 	1673.1.1 = {
@@ -99,7 +99,7 @@
 
   100454 = {
 	name = "Basil" 
-	dynasty = 100106
+	dynasty = 105
 	religion = protestant
 	culture = irish
 	1668.1.1 = {
@@ -112,7 +112,7 @@
 	female = yes
 	religion = catholic
 	culture = irish
-	dynasty = 100112
+	dynasty = 112
 	1675.1.1 = {
 	  birth = yes
 	}
@@ -125,7 +125,7 @@
 	name = "Patrick"
 	religion = catholic
 	culture = irish
-	dynasty = 100113
+	dynasty = 113
 	1655.1.1 = {
 	  birth = yes
 	}
@@ -143,7 +143,7 @@
 	name = "James"
 	religion = catholic
 	culture = irish
-	dynasty = 100113
+	dynasty = 113
 	father = 100471
 	mother = 100470
 	1693.1.1 = {
@@ -155,7 +155,7 @@
 	name = "Richard"
 	religion = catholic
 	culture = irish
-	dynasty = 100009
+	dynasty = 10
 	1630.1.1 = {
 	  birth = yes
 	}

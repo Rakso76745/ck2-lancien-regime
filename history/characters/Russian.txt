@@ -2,7 +2,7 @@
 	name = "Pyotr" # Peter the Great
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100534
 	dna="chckg00faa0"
@@ -40,7 +40,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100048
+	dynasty = 48
 	1669.8.9 = {
 	  birth = yes
 	}
@@ -50,7 +50,7 @@
 	name = "Alexei Petrovich" # Alexei Petrovich, Tsarevich of Russia
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100060
 	mother = 100157
 	1690.2.28 = {
@@ -62,7 +62,7 @@
 	name = "Alexis" # Alexis of Russia
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	1629.3.29 = {
 	  birth = yes
 	}
@@ -82,7 +82,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100134
+	dynasty = 131
 	1624.4.1 = {
 	  birth = yes
 	}  
@@ -96,7 +96,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1650.2.17 = {
@@ -109,7 +109,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1650.8.26 = {
@@ -121,7 +121,7 @@
 	name = "Alexei" # Tsarevich Alexei Alexeyevich of Russia
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1654.1.15 = {
@@ -137,7 +137,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1657.9.27 = {
@@ -150,7 +150,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1658.11.27 = {
@@ -163,7 +163,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1660.1.18 = {
@@ -175,7 +175,7 @@
 	name = "Ivan" # Ivan V of Russia
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1666.9.6 = {
@@ -191,7 +191,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100534
 	1673.8.22 = {
@@ -204,7 +204,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100135
+	dynasty = 132
 	1651.9.1 = {
 	  birth = yes
 	}   
@@ -218,7 +218,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1660.1.18 = {
@@ -230,7 +230,7 @@
 	name = "Fyodor" # Feodor III of Russia
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1661.6.9 = {
@@ -246,7 +246,7 @@
 	female = yes
 	religion = orthodox
 	culture = russian
-	dynasty = 100018
+	dynasty = 19
 	father = 100524
 	mother = 100525
 	1662.3.29 = {

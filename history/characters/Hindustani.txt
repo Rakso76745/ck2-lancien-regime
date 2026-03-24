@@ -2,7 +2,7 @@
 	name = "Aurangzeb" 
 	religion = sunni
 	culture = hindustani
-	dynasty = 100044
+	dynasty = 44
 	1618.1.1 = {
 	  birth = yes          
 	}   

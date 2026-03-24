@@ -3,7 +3,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100298
 	mother = 100297  
 	1609.9.10 = {
@@ -18,7 +18,7 @@
 	name = "Philippe" # Philippe I, Duke of Orléans
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100039
 	mother = 100040
 	trait = "skilled_tactician"
@@ -40,7 +40,7 @@
 	religion = catholic
 	culture = french
 	give_nickname = nick_the_just
-	dynasty = 100013
+	dynasty = 14
 	father = 100298
 	mother = 100297
 	trait = "homosexual"
@@ -62,7 +62,7 @@
 	dna="0aaak0j0ab0"
 	properties="0e0b0k00000000000000000000000000000000"
 	give_nickname = nick_the_great
-	dynasty = 100013
+	dynasty = 14
 	father = 100039
 	mother = 100040
 	trait = "grey_eminence"
@@ -103,7 +103,7 @@
 	name = "Louis" # Louis, Grand Dauphin
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100042
 	trait = "grey_eminence"
@@ -123,7 +123,7 @@
 	name = "Louis" # Louis, Duke of Burgundy
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100043
 	mother = 100044  
 	1682.8.6 = {
@@ -138,7 +138,7 @@
 	name = "Philippe" # Philip V of Spain
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100043
 	mother = 100044  
 	trait = "depressed"
@@ -157,7 +157,7 @@
 	name = "Charles" # Charles, Duke of Berry
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100043
 	mother = 100044  
 	1686.7.31 = {
@@ -170,7 +170,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100298
 	mother = 100297
 	1602.11.22 = {
@@ -186,7 +186,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100035
+	dynasty = 36
 	1641.6.28 = {
 		birth = yes         
 	} 
@@ -196,7 +196,7 @@
 	name = "Charles Maurice" # Charles Maurice Le Tellier
 	religion = catholic
 	culture = french
-	dynasty = 100040
+	dynasty = 41
 	1642.7.18 = {
 		birth = yes          
 	}   
@@ -207,7 +207,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100038
 	mother = 100145
 	1662.3.26 = {
@@ -225,7 +225,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100038
 	mother = 100145
 	1669.8.27 = {
@@ -238,7 +238,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100014
+	dynasty = 14
 	father = 100038
 	mother = 100149
 	1676.9.13 = {
@@ -250,7 +250,7 @@
 	name = "Leopold" # Leopold, Duke of Lorraine
 	religion = catholic
 	culture = french
-	dynasty = 100047
+	dynasty = 47
 	father = 100194
 	mother = 100191
 	1679.9.11 = {
@@ -265,7 +265,7 @@
 	name = "Philippe" # Philippe II, Duke of Orléans
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100038
 	mother = 100149
 	1674.8.2 = {
@@ -281,7 +281,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100154
 	trait = "bastard"  
@@ -299,7 +299,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100185
+	dynasty = 172
 	1640.10.5 = {
 		birth = yes
 	}
@@ -310,7 +310,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100152
 	mother = 100153
 	1695.8.20 = {
@@ -323,7 +323,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100152
 	mother = 100153
 	1698.8.13 = {
@@ -335,7 +335,7 @@
 	name = "Charles Léopold" # Charles V, Duke of Lorraine
 	religion = catholic
 	culture = french
-	dynasty = 100047
+	dynasty = 47
 	1643.4.3 = {
 		birth = yes
 	} 
@@ -352,7 +352,7 @@
 	name = "Charles Joseph" # Charles Joseph of Lorraine
 	religion = catholic
 	culture = french
-	dynasty = 100047
+	dynasty = 47
 	father = 100194
 	mother = 100191
 	1680.11.24 = {
@@ -364,7 +364,7 @@
 	name = "François" # Francis I of France
 	religion = catholic
 	culture = french
-	dynasty = 100073
+	dynasty = 73
 	1494.9.12 = {
 		birth = yes
 	}
@@ -380,7 +380,7 @@
 	name = "Henri" # Henry IV of France
 	religion = reformed
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	1553.13.12 = {
 		birth = yes 
 	}
@@ -417,7 +417,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100073
+	dynasty = 73
 	1546.4.2 = {
 		birth = yes 
 	}
@@ -430,7 +430,7 @@
 	name = "François" # Francis I, Duke of Lorraine
 	religion = catholic
 	culture = french
-	dynasty = 100047
+	dynasty = 47
 	1517.8.23 = {
 		birth = yes 
 	}
@@ -446,7 +446,7 @@
 	name = "Louis-Auguste" # Louis Auguste, Duke of Maine
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100154
 	trait = "bastard"
@@ -467,7 +467,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	trait = "fair"
 	1676.11.8 = {
 		birth = yes 
@@ -478,7 +478,7 @@
 	name = "Louis Joseph" # Louis Joseph, Duke of Vendôme
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	trait = "homosexual"
 	1654.7.1 = {
 		birth = yes
@@ -490,7 +490,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100089
+	dynasty = 89
 	1625.3.5 = {
 		birth = yes
 	}
@@ -500,7 +500,7 @@
 	name = "Louis" # Louis III, Prince of Condé
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	1668.11.10 = {
 		birth = yes
 	}
@@ -513,7 +513,7 @@
 	name = "Louis Alexandre" # Louis Alexandre, Count of Toulouse
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100154
 	trait = "bastard"
@@ -531,7 +531,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	1587.4.30 = {
 		birth = yes    
 	}
@@ -559,7 +559,7 @@
 	female = yes
 	religion = reformed
 	culture = french
-	dynasty = 100099
+	dynasty = 99
 	1546.1.1 = {
 		birth = yes    
 	}
@@ -573,7 +573,7 @@
 	female = yes
 	religion = reformed
 	culture = french
-	dynasty = 100100
+	dynasty = 100
 	1555.9.23 = {
 		birth = yes    
 	}
@@ -587,7 +587,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	1645.7.28 = {
 		birth = yes 
 	}
@@ -595,7 +595,7 @@
 
 100584 = {
 	name = "Pierre-Eléonor" # Pierre-Eléonor de La Ville de Férolles
-	dynasty = 100166
+	dynasty = 153
 	religion = catholic
 	culture = french
 	1650.1.1 = {
@@ -605,7 +605,7 @@
 
 100589 = {
 	name = "Louis-Hector" # Louis-Hector de Callière
-	dynasty = 100172
+	dynasty = 159
 	religion = catholic
 	culture = french
 	1648.11.12 = {
@@ -617,7 +617,7 @@
 	name = "Louis" # Louis Phélypeaux 
 	dna="0bhfa0c0000"
     properties="0h0000000000000000000000000000000000"
-	dynasty = 100177
+	dynasty = 164
 	religion = catholic
 	culture = french
 	1643.3.29 = {
@@ -636,7 +636,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100154
 	trait = "bastard"
@@ -654,7 +654,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100181
+	dynasty = 168
 	1644.8.6 = {
 		birth = yes  
 	}
@@ -665,7 +665,7 @@
 	female = yes
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100603
 	trait = "bastard"
@@ -682,7 +682,7 @@
 	name = "Louis Armand" # Louis Armand I, Prince of Conti
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	1661.4.30 = {
 		birth = yes  
 	}
@@ -698,7 +698,7 @@
 	name = "Louis" # Louis, Count of Vermandois
 	religion = catholic
 	culture = french
-	dynasty = 100013
+	dynasty = 14
 	father = 100041
 	mother = 100603
 	trait = "bastard"

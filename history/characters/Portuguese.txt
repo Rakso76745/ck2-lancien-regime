@@ -4,7 +4,7 @@
 	properties="0i0i0k00000000000000000000000000000000"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100041
+	dynasty = 42
 	1648.4.26 = {
 	  birth = yes  
 	}
@@ -18,7 +18,7 @@
 	female = yes
 	religion = catholic
 	culture = portuguese
-	dynasty = 100041
+	dynasty = 42
 	1638.11.25 = {
 	  birth = yes
 	}
@@ -28,7 +28,7 @@
 	name = "Manuel"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	  give_nickname = nick_the_lucky
 	1469.5.31 = {
 	  birth = yes
@@ -49,7 +49,7 @@
 	female = yes
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100267
 	mother = 100266
 	1521.6.18 = {
@@ -65,7 +65,7 @@
 	female = yes
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100267
 	mother = 100272
 	1500.2.24 = {
@@ -80,7 +80,7 @@
 	name = "Joao"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100267
 	mother = 100272
 	  give_nickname = nick_the_pious
@@ -100,7 +100,7 @@
 	female = yes
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100280
 	mother = 100279
 	1527.10.15 = {
@@ -115,7 +115,7 @@
 	name = "Henrique"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100267
 	mother = 100272
 	trait  = "crowned_by_bishop"
@@ -134,7 +134,7 @@
 	name = "Joao"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100280
 	mother = 100279
 	1537.6.3 = {
@@ -152,7 +152,7 @@
 	name = "Sebastiao"
 	religion = catholic
 	culture = portuguese
-	dynasty = 100072
+	dynasty = 72
 	father = 100404
 	mother = 100275
 	1554.1.20 = {
@@ -167,7 +167,7 @@
 
 	100558 = {
 	  name = "Pietro"
-	  dynasty = 100041
+	  dynasty = 42
 	  father = 100137
 	  mother = 100168
 	  religion = catholic
@@ -179,7 +179,7 @@
 
 	100559 = {
 	  name = "Joao"
-	  dynasty = 100041
+	  dynasty = 42
 	  father = 100137
 	  mother = 100168
 	  religion = catholic
@@ -191,7 +191,7 @@
 
 	100560 = {
 	  name = "Antonio"
-	  dynasty = 100041
+	  dynasty = 42
 	  father = 100137
 	  mother = 100168
 	  religion = catholic
@@ -203,7 +203,7 @@
 
 	100561 = {
 	  name = "Antonio"
-	  dynasty = 100041
+	  dynasty = 42
 	  father = 100137
 	  mother = 100168
 	  religion = catholic
@@ -216,7 +216,7 @@
 	100562 = {
 	  name = "Francisca Josefa"
 	  female = yes
-	  dynasty = 100041
+	  dynasty = 42
 	  father = 100137
 	  mother = 100168
 	  religion = catholic
@@ -228,7 +228,7 @@
 	
 	100582 = {
 	  name = "João"
-	  dynasty = 100167
+	  dynasty = 154
 	  religion = catholic
 	  culture = portuguese
 	  1650.1.1 = {

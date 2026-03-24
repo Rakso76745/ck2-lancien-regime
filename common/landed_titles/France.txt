@@ -2682,6 +2682,7 @@ e_france = {
 			255
 			255
 		  }
+		  holy_site = reformed
 		  german = Genfergau
 		  italian = Ginevresi
 		  b_geneve = {

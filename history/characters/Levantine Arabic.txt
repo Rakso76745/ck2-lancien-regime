@@ -1,6 +1,6 @@
 100556 = {
 	name = "Bashir"
-	dynasty = 100146
+	dynasty = 142
 	religion = sunni
 	culture = levantine_arabic
 	1672.1.1 = {
@@ -9,7 +9,7 @@
   }
   100610 = {
 	name = "Cyril"
-	dynasty = 100184
+	dynasty = 171
 	religion = orthodox
 	culture = levantine_arabic
 	1655.1.1 = {

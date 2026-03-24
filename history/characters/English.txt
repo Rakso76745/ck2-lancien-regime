@@ -2,7 +2,7 @@
 	name = "Charles" # Charles Sackville, 6th Earl of Dorset
 	religion = protestant
 	culture = english
-	dynasty = 100001
+	dynasty = 2
 	trait = "poet"
 	trait = "is_fat"
 	father = 100007
@@ -17,7 +17,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100004
 	mother = 100005
 	1662.4.30 = {
@@ -34,7 +34,7 @@
 	properties="0d0i0k00000000000000000000000000000000"
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100034
 	mother = 100036
 	trait = "zealous"
@@ -71,7 +71,7 @@
 	female = yes
 	religion = catholic
 	culture = english
-	dynasty = 100009
+	dynasty = 10
 	1637.3.12 = {
 		birth = yes
 	}    
@@ -84,7 +84,7 @@
 	name = "Richard" # Richard Sackville, 5th Earl of Dorset
 	religion = protestant
 	culture = english
-	dynasty = 100001
+	dynasty = 2
 	trait = "poet"
 	1622.9.16 = {
 		birth = yes
@@ -115,7 +115,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100034
 	mother = 100036
 	1631.11.4 = {
@@ -131,7 +131,7 @@
 	religion = protestant
 	secret_religion = catholic
 	culture = english
-	dynasty = 100004
+	dynasty = 5
 	1655.1.11 = {
 		birth = yes
 	}
@@ -172,7 +172,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100004
 	mother = 100005
 	trait = "charitable"
@@ -192,7 +192,7 @@
 	name = "Henry" # Henry Compton
 	religion = protestant
 	culture = english
-	dynasty = 100008
+	dynasty = 9
 	1632.1.1 = {
 		birth = yes
 	}
@@ -211,7 +211,7 @@
 	name = "James Francis Edward" # James Francis Edward Stuart
 	religion = catholic
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100004
 	mother = 100003
 	1688.6.10 = {
@@ -227,7 +227,7 @@
 	name = "Thomas" # Thomas Lennard, 1st Earl of Sussex
 	religion = protestant
 	culture = english
-	dynasty = 100104
+	dynasty = 104
 	1654.5.13 = {
 		birth = yes
 	}
@@ -240,7 +240,7 @@
 	name = "Charles" # Charles II of England
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100034
 	mother = 100036
 	1630.5.20 = {
@@ -272,7 +272,7 @@
 	name = "Charles" # Charles I of England
 	religion = catholic
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100215
 	mother = 100216  
 	1600.11.19 = {
@@ -293,7 +293,7 @@
 	name = "Oliver" # Oliver Cromwell
 	religion = protestant
 	culture = english
-	dynasty = 100012
+	dynasty = 13
 	trait = "cruel"
 	1599.4.25 = {
 		birth = yes
@@ -307,7 +307,7 @@
 	name = "Henry" # Henry Stuart, Duke of Gloucester
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100034
 	mother = 100036
 	1640.7.8 = {
@@ -322,7 +322,7 @@
 	name = "Anthony" # Anthony Grey, 11th Earl of Kent
 	religion = protestant
 	culture = english
-	dynasty = 100022
+	dynasty = 23
 	1645.1.1 = {
 		birth = yes
 	}
@@ -334,7 +334,7 @@
 100065 = {
 	name = "Mary" # Mary Grey, Countess of Kent
 	female = yes
-	dynasty = 100187
+	dynasty = 174
 	religion = protestant
 	culture = english
 	1650.1.1 = {
@@ -346,7 +346,7 @@
 	name = "Henry" # Henry Grey, 1st Duke of Kent
 	religion = protestant
 	culture = english
-	dynasty = 100022
+	dynasty = 23
 	father = 100064
 	mother = 100065
 	1671.1.1 = {
@@ -362,7 +362,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100023
+	dynasty = 24
 	1675.1.1 = {
 		birth = yes 
 	}
@@ -406,7 +406,7 @@
 	name = "William" # William Stanley, 9th Earl of Derby
 	religion = protestant
 	culture = english
-	dynasty = 100025
+	dynasty = 26
 	1655.1.1 = {
 		birth = yes   
 	}
@@ -419,7 +419,7 @@
 	name = "William" # William Cavendish, 1st Duke of Devonshire
 	religion = protestant
 	culture = english
-	dynasty = 100026
+	dynasty = 27
 	1640.1.25 = {
 		birth = yes   
 	}
@@ -442,7 +442,7 @@
 	name = "John" # John Somers, 1st Baron Somers
 	religion = protestant
 	culture = english
-	dynasty = 100027
+	dynasty = 28
 	1651.3.4 = {
 		birth = yes   
 	}
@@ -464,20 +464,23 @@
 	name = "Aubrey" # Aubrey de Vere, 20th Earl of Oxford
 	religion = protestant
 	culture = english
-	dynasty = 100028
+	dynasty = 29
 	1627.2.28 = {
 		birth = yes   
 	}
 	1651.1.1 = {
 		effect = {add_rival = 100035} 
-	} 
+	}
+	1672.1.1 = {
+		add_spouse = 100614
+	}
 }
 
 100083 = {
 	name = "Algernon" # Algernon Capell, 2nd Earl of Essex
 	religion = protestant
 	culture = english
-	dynasty = 100029
+	dynasty = 30
 	1670.12.28 = {
 		birth = yes   
 	} 
@@ -487,7 +490,7 @@
 	name = "Charles" # Charles Paulet, 2nd Duke of Bolton
 	religion = protestant
 	culture = english
-	dynasty = 100030
+	dynasty = 31
 	1661.1.1 = {
 		birth = yes   
 	} 
@@ -497,7 +500,7 @@
 	name = "Henry" # Henry Howard, 5th Earl of Suffolk
 	religion = protestant
 	culture = english
-	dynasty = 100004
+	dynasty = 5
 	1627.7.18 = {
 		birth = yes   
 	} 
@@ -507,7 +510,7 @@
 	name = "Robert" # Robert Sidney, 4th Earl of Leicester
 	religion = protestant
 	culture = english
-	dynasty = 100032
+	dynasty = 33
 	1649.12.17 = {
 		birth = yes   
 	} 
@@ -518,7 +521,7 @@
 	female = yes
 	religion = catholic
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100034
 	mother = 100036
 	1644.6.30 = {
@@ -536,7 +539,7 @@
 	female = yes
 	religion = catholic
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100004
 	mother = 100003
 	1692.6.28 = {
@@ -561,7 +564,7 @@
 	name = "James Scott" # James Scott, 1st Duke of Monmouth
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100033
 	mother = 100202
 	trait = "bastard"
@@ -584,7 +587,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100215
 	mother = 100216
 	1596.8.19 = {
@@ -599,7 +602,7 @@
 	name = "Thomas" # Thomas Tenison
 	religion = protestant
 	culture = english
-	dynasty = 100123
+	dynasty = 121
 	1636.9.29 = {
 		birth = yes  
 	}
@@ -615,7 +618,7 @@
 	name = "William" # Prince William, Duke of Gloucester
 	religion = protestant
 	culture = english
-	dynasty = 100005
+	dynasty = 6
 	father = 100020
 	mother = 100019
 	1689.7.24 = {
@@ -628,7 +631,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100088
+	dynasty = 88
 	1533.9.7 = {
 		birth = yes    
 	}
@@ -641,7 +644,7 @@
 	name = "Charles" # Charles Seymour, 6th Duke of Somerset
 	religion = protestant
 	culture = english
-	dynasty = 100093
+	dynasty = 93
 	trait = "fair"
 	1662.8.13 = {
 		birth = yes    
@@ -656,7 +659,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100094
+	dynasty = 94
 	1667.1.26 = {
 		birth = yes      
 	} 
@@ -666,7 +669,7 @@
 	name = "Algernon" # Algernon Seymour, 7th Duke of Somerset
 	religion = protestant
 	culture = english
-	dynasty = 100093
+	dynasty = 93
 	father = 100409
 	mother = 100410
 	1684.11.11 = {
@@ -679,7 +682,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100093
+	dynasty = 93
 	father = 100409
 	mother = 100410
 	1685.1.1 = {
@@ -692,7 +695,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100093
+	dynasty = 93
 	father = 100409
 	mother = 100410
 	1693.1.1 = {
@@ -704,7 +707,7 @@
 	name = "George" # George FitzRoy, Duke of Northumberland
 	religion = protestant
 	culture = english
-	dynasty = 100188
+	dynasty = 175
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -718,7 +721,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100102
+	dynasty = 102
 	1640.11.27 = {
 		birth = yes    
 	} 
@@ -729,7 +732,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100188
+	dynasty = 175
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -742,7 +745,7 @@
 	name = "Charles" # Charles FitzRoy, 2nd Duke of Cleveland
 	religion = protestant
 	culture = english
-	dynasty = 100188
+	dynasty = 175
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -755,7 +758,7 @@
 	name = "Henry"  
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 3
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -774,7 +777,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100188
+	dynasty = 175
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -787,7 +790,7 @@
 	name = "Edward" # Edward Lee, 1st Earl of Lichfield
 	religion = protestant
 	culture = english
-	dynasty = 100105
+	dynasty = 105
 	1663.2.4 = {
 		birth = yes    
 	}
@@ -801,7 +804,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100105
+	dynasty = 105
 	father = 100448
 	mother = 100447
 	1678.3.23 = {
@@ -813,7 +816,7 @@
 	name = "George" # George Lee, 2nd Earl of Lichfield
 	religion = protestant
 	culture = english
-	dynasty = 100105
+	dynasty = 105
 	father = 100448
 	mother = 100447
 	1690.3.20 = {
@@ -826,7 +829,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100188
+	dynasty = 175
 	father = 100033
 	mother = 100442
 	trait = "bastard"  
@@ -839,13 +842,16 @@
 	name = "Charles" # Charles Beauclerk, 1st Duke of St Albans 
 	religion = protestant
 	culture = english
-	dynasty = 100002
+	dynasty = 178
 	father = 100033
 	mother = 100453
 	trait = "bastard"  
 	1670.5.8 = {
 		birth = yes    
-	} 
+	}
+	1694.4.17 = {
+		add_spouse = 100615
+	}
 }
 
 100453 = {
@@ -865,7 +871,7 @@
 	name = "John" # John Churchill, 1st Duke of Marlborough
 	dna="0db0b0f0b00"
 	properties="0d000k00000000000000000000000000000000"
-	dynasty = 100107
+	dynasty = 107
 	father = 100463
 	mother = 100464
 	religion = protestant
@@ -891,7 +897,7 @@
 100456 = {
 	name = "Sarah" # Sarah Churchill, Duchess of Marlborough
 	female = yes 
-	dynasty = 100108
+	dynasty = 108
 	religion = protestant
 	culture = english
 	1660.6.5 = {
@@ -905,7 +911,7 @@
 100457 = {
 	name = "Henrietta" # Henrietta Godolphin, 2nd Duchess of Marlborough
 	female = yes 
-	dynasty = 100107
+	dynasty = 107
 	father = 100455
 	mother = 100456
 	religion = protestant
@@ -917,7 +923,7 @@
 
 100458 = {
 	name = "Francis" # Francis Godolphin, 2nd Earl of Godolphin
-	dynasty = 100109
+	dynasty = 109
 	religion = protestant
 	culture = english
 	trait = "charitable"
@@ -931,7 +937,7 @@
 
 100459 = {
 	name = "William" # William Godolphin, Marquess of Blandford
-	dynasty = 100109
+	dynasty = 109
 	religion = protestant
 	culture = english
 	father = 100458
@@ -944,7 +950,7 @@
 100460 = {
 	name = "Anne" # Anne Spencer, Countess of Sunderland
 	female = yes 
-	dynasty = 100107
+	dynasty = 107
 	father = 100455
 	mother = 100456
 	religion = protestant
@@ -956,7 +962,7 @@
 
 100461 = {
 	name = "John" # John Churchill, Marquess of Blandford
-	dynasty = 100107
+	dynasty = 107
 	father = 100455
 	mother = 100456
 	religion = protestant
@@ -969,7 +975,7 @@
 100462 = {
 	name = "Mary" # Mary Montagu, Duchess of Montagu
 	female = yes 
-	dynasty = 100107
+	dynasty = 107
 	father = 100455
 	mother = 100456
 	religion = protestant
@@ -981,7 +987,7 @@
 
 100463 = {
 	name = "Winston" # Winston Churchill 
-	dynasty = 100107
+	dynasty = 107
 	religion = protestant
 	culture = english
 	1620.4.18 = {
@@ -998,7 +1004,7 @@
 100464 = {
 	name = "Elizabeth" # Elizabeth Drake
 	female = yes
-	dynasty = 100110
+	dynasty = 110
 	religion = protestant
 	culture = english
 	1625.1.1 = {
@@ -1011,7 +1017,7 @@
 
 100465 = {
 	name = "George" # George Churchill
-	dynasty = 100107
+	dynasty = 107
 	father = 100463
 	mother = 100464
 	religion = protestant
@@ -1023,7 +1029,7 @@
 
 100466 = {
 	name = "Charles" # Charles Churchill 
-	dynasty = 100107
+	dynasty = 107
 	father = 100463
 	mother = 100464
 	religion = protestant
@@ -1036,7 +1042,7 @@
 100467 = {
 	name = "Arabella" # Arabella Churchill 
 	female = yes
-	dynasty = 100107
+	dynasty = 107
 	father = 100463
 	mother = 100464
 	religion = protestant
@@ -1051,7 +1057,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100111
+	dynasty = 111
 	father = 100004
 	mother = 100467
 	trait = "bastard"  
@@ -1064,7 +1070,7 @@
 	name = "James" # James FitzJames, 1st Duke of Berwick
 	religion = catholic
 	culture = english
-	dynasty = 100189
+	dynasty = 176
 	father = 100004
 	mother = 100467
 	trait = "bastard"  
@@ -1080,7 +1086,7 @@
 	name = "James" # James Fitz-James Stuart, 2nd Duke of Berwick
 	religion = catholic
 	culture = english
-	dynasty = 100189
+	dynasty = 176
 	father = 100469
 	mother = 100470
 	1696.10.21 = {
@@ -1092,7 +1098,7 @@
 	name = "Henry" # Charles de Fitz-James, 4th Duke of Fitz-James
 	religion = catholic
 	culture = english
-	dynasty = 100111
+	dynasty = 111
 	father = 100004
 	mother = 100467
 	trait = "bastard"  
@@ -1105,7 +1111,7 @@
 	name = "Edward" # Edward Rich, 6th Earl of Warwick
 	religion = protestant
 	culture = english
-	dynasty = 100115
+	dynasty = 114
 	1673.1.1 = {
 		birth = yes
 	}
@@ -1115,7 +1121,7 @@
 	name = "William" # William Herbert, 2nd Marquess of Powis
 	religion = protestant
 	culture = english
-	dynasty = 100116
+	dynasty = 115
 	1665.1.1 = {
 		birth = yes
 	}
@@ -1131,7 +1137,7 @@
 	name = "Edward" # Edward Hyde, 1st Earl of Clarendon
 	religion = protestant
 	culture = english
-	dynasty = 100009
+	dynasty = 10
 	1609.2.18 = {
 		birth = yes
 	}
@@ -1171,7 +1177,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100117
+	dynasty = 116
 	1617.8.25 = {
 		birth = yes
 	}
@@ -1184,7 +1190,7 @@
 	name = "Henry" # Henry Hyde, 2nd Earl of Clarendon
 	religion = protestant
 	culture = english
-	dynasty = 100009
+	dynasty = 10
 	father = 100477
 	mother = 100479
 	1638.6.2 = {
@@ -1196,7 +1202,7 @@
 	name = "Laurence" # Laurence Hyde, 1st Earl of Rochester
 	religion = protestant
 	culture = english
-	dynasty = 100009
+	dynasty = 10
 	father = 100477
 	mother = 100479
 	1642.3.1 = {
@@ -1208,7 +1214,7 @@
 	name = "William" # William Russell, 1st Duke of Bedford
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	1616.8.1 = {
 		birth = yes
 	}
@@ -1222,7 +1228,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	1615.12.9 = {
 		birth = yes
 	}
@@ -1235,7 +1241,7 @@
 	name = "William" # William Russell, Lord Russell
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	father = 100483
 	mother = 100484
 	1639.9.29 = {
@@ -1255,7 +1261,7 @@
 	name = "Edward" # Lord Edward Russell
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	father = 100118
 	mother = 100484
 	1643.1.1 = {
@@ -1268,7 +1274,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100120
+	dynasty = 118
 	1636.1.1 = {
 		birth = yes
 	}
@@ -1279,7 +1285,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	father = 100485
 	mother = 100487
 	1674.1.1 = {
@@ -1291,7 +1297,7 @@
 	name = "William" # William Cavendish, 2nd Duke of Devonshire
 	religion = protestant
 	culture = english
-	dynasty = 100026
+	dynasty = 27
 	father = 100080
 	mother = 100490
 	1672.1.1 = {
@@ -1307,7 +1313,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100024
+	dynasty = 25
 	1646.1.1 = {
 		birth = yes
 	}
@@ -1317,7 +1323,7 @@
 	name = "Henry" # Lord Henry Cavendish
 	religion = protestant
 	culture = english
-	dynasty = 100026
+	dynasty = 27
 	father = 100080
 	mother = 100490
 	1673.1.1 = {
@@ -1329,7 +1335,7 @@
 	name = "William" # William Cavendish, 3rd Duke of Devonshire
 	religion = protestant
 	culture = english
-	dynasty = 100026
+	dynasty = 27
 	father = 100489
 	mother = 100488
 	1698.9.26 = {
@@ -1341,7 +1347,7 @@
 	name = "Wriothesley" # Wriothesley Russell, 2nd Duke of Bedford
 	religion = protestant
 	culture = english
-	dynasty = 100118
+	dynasty = 117
 	father = 100485
 	mother = 100487
 	1680.11.1 = {
@@ -1357,7 +1363,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100121
+	dynasty = 119
 	1682.1.1 = {
 		birth = yes
 	}
@@ -1367,7 +1373,7 @@
 	name = "Charles" # Charles Montagu, 1st Duke of Manchester
 	religion = protestant
 	culture = english
-	dynasty = 100126 
+	dynasty = 123 
 	1662.1.1 = {
 		birth = yes
 	}
@@ -1381,7 +1387,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100127
+	dynasty = 124
 	1672.2.20 = {
 		birth = yes 
 	}
@@ -1392,7 +1398,7 @@
 	female = yes
 	religion = protestant
 	culture = english
-	dynasty = 100126
+	dynasty = 123
 	father = 100498
 	mother = 100499
 	1694.1.1 = {
@@ -1400,13 +1406,58 @@
 	}
 }
 
-
 100597 = {
 	name = "George" # George Compton, 4th Earl of Northampton
-	dynasty = 100178
+	dynasty = 165
 	religion = protestant
 	culture = english
 	1664.10.18 = {
+		birth = yes 
+    }
+}
+
+100614 = {
+	name = "Diana"
+	dynasty = 179
+	religion = protestant
+	culture = english
+	1655.1.1 = {
+		birth = yes 
+    }
+}
+
+100615 = {
+	name = "Diana" # Diana Beauclerk, Duchess of St Albans
+	dynasty = 29
+	religion = protestant
+	culture = english
+	father = 100082
+	mother = 100614
+	1679.1.1 = {
+		birth = yes 
+    }
+}
+
+100616 = {
+	name = "Charles" # Charles Beauclerk, 2nd Duke of St Albans
+	dynasty = 178
+	religion = protestant
+	culture = english
+	father = 100082
+	mother = 100614
+	1696.4.6 = {
+		birth = yes 
+    }
+}
+
+100617 = {
+	name = "William" # Lord William Beauclerk
+	dynasty = 178
+	religion = protestant
+	culture = english
+	father = 100082
+	mother = 100614
+	1698.5.22 = {
 		birth = yes 
     }
 }

@@ -1,6 +1,6 @@
 100545 = {
 	name = "Danilo" # Danilo I, Metropolitan of Cetinje
-	dynasty = 100138
+	dynasty = 135
 	religion = orthodox
 	culture = serbian
 	1670.1.1 = {

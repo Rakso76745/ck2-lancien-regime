@@ -4,7 +4,7 @@
 	culture = german
 	dna="0hdia0bb000"
 	properties="0n00dk00000000000000000000000000000000"
-	dynasty = 100006
+	dynasty = 7
 	father = 100055
 	mother = 100101
 	martial = 7
@@ -45,7 +45,7 @@
 	female = yes  
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100317
 	mother = 100318
 	trait = "erudite"
@@ -64,7 +64,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100055
 	mother = 100101
 	1634.12.23 = {
@@ -79,7 +79,7 @@
 	name = "Ferdinand" # Ferdinand III, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100313
 	mother = 100314
 	1608.7.13 = {
@@ -103,7 +103,7 @@
 	name = "Friedrich" # Frederick I of Prussia
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107  
 	1657.7.11 = {
@@ -121,7 +121,7 @@
 	name = "Georg" # George I of Great Britain
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100220
 	mother = 100219
 	1660.5.28 = {
@@ -139,7 +139,7 @@
 	name = "Maximilian" # Maximilian II Emanuel
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100317
 	mother = 100318
 	1662.7.11 = {
@@ -158,7 +158,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100100
 	trait = "inbred"
@@ -174,7 +174,7 @@
 	name = "Joseph Ferdinand" # Joseph Ferdinand of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100088
 	mother = 100090
 	1692.10.28 = {
@@ -189,7 +189,7 @@
 	name = "Karl" # Charles VII, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100088
 	mother = 100092
 	1697.8.6 = {
@@ -201,7 +201,7 @@
 	name = "Ferdinand Maria Innocenz" # Ferdinand Maria Innocenz of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100088
 	mother = 100092
 	1699.8.5 = {
@@ -214,7 +214,7 @@
 	female = yes 
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother = 100302
 	1584.12.25 = {
@@ -229,7 +229,7 @@
 	name = "Friedrich Wilhelm" # Frederick William, the Great Elector
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	trait = "is_fat"
 	1620.2.16 = {
 		birth = yes   
@@ -249,7 +249,7 @@
 	name = "Karl Emil" # Charles, Electoral Prince of Brandenburg
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	1655.2.16 = {
 		birth = yes   
 	}    
@@ -263,7 +263,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100036
+	dynasty = 37
 	1636.8.28 = {
 		birth = yes   
 	}
@@ -279,7 +279,7 @@
 	name = "Philipp Wilhelm" # Philip William, Margrave of Brandenburg-Schwedt
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107
 	1669.5.19 = {
@@ -304,7 +304,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107
 	1670.11.26 = {
@@ -316,7 +316,7 @@
 	name = "Karl" # Karl, Hereditary Prince of Mecklenburg-Güstrow
 	religion = protestant
 	culture = german
-	dynasty = 100037
+	dynasty = 38
 	1682.4.6 = {
 		birth = yes          
 	}
@@ -332,7 +332,7 @@
 	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	1664.3.12 = {
 		birth = yes          
 	}
@@ -346,7 +346,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	father = 100112
 	mother = 100110
 	1691.3.20 = {
@@ -358,7 +358,7 @@
 	name = "Albrecht Friedrich" # Albert Frederick of Brandenburg-Schwedt
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107
 	trait = "tough_soldier"
@@ -372,7 +372,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107
 	1674.4.5 = {
@@ -384,7 +384,7 @@
 	name = "Friedrich Casimir" # Frederick Casimir Kettler
 	religion = protestant
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	father = 100119
 	mother = 100129
 	1650.7.6 = {
@@ -402,7 +402,7 @@
 	name = "Friedrich Wilhelm" # Frederick William, Duke of Courland
 	religion = protestant
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	father = 100116
 	mother = 100115
 	1692.7.19 = {
@@ -414,7 +414,7 @@
 	name = "Christian Ludwig" # Margrave Christian Ludwig of Brandenburg-Schwedt
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100104
 	mother = 100107
 	trait = "erudite"
@@ -427,7 +427,7 @@
 	name = "Jakob" # Jacob Kettler
 	religion = protestant
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	1610.10.28 = {
 		birth = yes          
 	}
@@ -443,7 +443,7 @@
 	name = "Ferdinand" # Ferdinand Kettler
 	religion = protestant
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	father = 100119
 	mother = 100129
 	1655.11.1 = {
@@ -456,7 +456,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	father = 100119
 	mother = 100129
 	1646.8.23 = {
@@ -472,7 +472,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100038
+	dynasty = 39
 	father = 100119
 	mother = 100129
 	1653.6.12 = {
@@ -484,7 +484,7 @@
 	name = "Karl" # Charles I, Landgrave of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	1654.8.3 = {
 		birth = yes          
 	}
@@ -497,7 +497,7 @@
 	name = "Friedrich" # Frederick I of Sweden
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	father = 100123
 	mother = 100122
 	1676.4.28 = {
@@ -510,7 +510,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	father = 100123
 	mother = 100122
 	1678.7.16 = {
@@ -523,7 +523,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	father = 100123
 	mother = 100122
 	1688.2.7 = {
@@ -535,7 +535,7 @@
 	name = "Maximilian" # Maximilian of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	father = 100123
 	mother = 100122
 	1689.5.28 = {
@@ -547,7 +547,7 @@
 	name = "Georg Karl" # George Charles of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	father = 100123
 	mother = 100122
 	1691.1.8 = {
@@ -560,7 +560,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	1617.9.13 = {
 		birth = yes          
 	}    
@@ -574,8 +574,9 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	father = 100132
+	mother = 100612
 	trait = "zealous"
 	1671.12.19 = {
 		birth = yes          
@@ -586,7 +587,7 @@
 	name = "August" # Augustus III of Poland
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	father = 100061
 	mother = 100130
 	1696.10.17 = {
@@ -597,19 +598,25 @@
 
 100132 = {
 	name = "Christian Ernst" # Christian Ernst, Margrave of Brandenburg-Bayreuth
-	religion = reformed
+	religion = protestant
 	culture = german
-	dynasty = 100016
+	dynasty = 17
 	1644.8.6 = {
 		birth = yes          
-	}   
+	}
+	1662.10.29 = {
+		add_spouse=100611   
+	}
+	1671.2.8 = {
+		add_spouse=100612   
+	} 
 }
 
 100133 = {
 	name = "Johann Georg" # John George III, Elector of Saxony
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	1647.6.20 = {
 		birth = yes          
 	}
@@ -625,7 +632,7 @@
 	name = "Johann Georg" # John George IV
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	father = 100133
 	mother = 100134
 	1668.6.20 = {
@@ -640,7 +647,7 @@
 	name = "Alexander Sigismund" # Alexander Sigismund von der Pfalz-Neuburg
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163  
 	1663.4.16 = {
@@ -652,7 +659,7 @@
 	name = "Leopold" # Leopold I, Prince of Anhalt-Dessau
 	religion = reformed
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	father = 100207
 	mother = 100206
 	1676.7.3 = {
@@ -665,7 +672,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	1652.5.27 = {
 		birth = yes
 	}
@@ -676,7 +683,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100327
 	trait = "zealous"
 	1653.5.30 = {
@@ -692,7 +699,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	trait = "zealous"
@@ -707,7 +714,7 @@
 	name = "Philipp Wilhelm" # Philip William, Elector Palatine
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100375
 	mother = 100376  
 	1615.11.24 = {
@@ -729,7 +736,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100050
+	dynasty = 50
 	1635.3.20 = {
 		birth = yes   
 	}
@@ -742,7 +749,7 @@
 	name = "Johann Wilhelm" # Johann Wilhelm, Elector Palatine
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1658.4.19 = {
@@ -761,7 +768,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1667.10.28 = {
@@ -774,7 +781,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1673.7.16 = {
@@ -787,7 +794,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1666.8.6 = {
@@ -802,7 +809,7 @@
 	name = "Karl" # Charles III Philip
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1661.11.4 = {
@@ -814,7 +821,7 @@
 	name = "Ludwig Anton" # Ludwig Anton von Pfalz-Neuburg
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1660.5.9 = {
@@ -826,7 +833,7 @@
 	name = "Franz Ludwig" # Francis Louis of Palatinate-Neuburg
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1664.7.18 = {
@@ -838,7 +845,7 @@
 	name = "Friedrich Wilhelm" # Frederick Wilhelm von Pfalz-Neuburg
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1665.6.20 = {
@@ -853,7 +860,7 @@
 	name = "Philipp Wilhelm August" # Philip William August, Count Palatine of Neuburg
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1668.11.19 = {
@@ -872,7 +879,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	1672.6.13 = {
 		birth = yes
 	}
@@ -883,7 +890,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100173
 	mother = 100174
 	1693.1.30 = {
@@ -896,7 +903,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1670.7.5 = {
@@ -909,7 +916,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100161
 	mother = 100163
 	1679.5.27 = {
@@ -929,7 +936,7 @@
 	name = "Joseph" # Joseph I, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1678.7.26 = {
@@ -945,7 +952,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100518
 	mother = 100519
 	1673.4.21 = {
@@ -958,7 +965,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100179
 	mother = 100180
 	1699.12.8 = {
@@ -971,7 +978,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1680.12.13 = {
@@ -984,7 +991,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1683.9.7 = {
@@ -997,7 +1004,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1684.9.7 = {
@@ -1014,7 +1021,7 @@
 	name = "Karl" # Charles VI, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1685.10.1 = {
@@ -1032,7 +1039,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1687.3.6 = {
@@ -1045,7 +1052,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100022
 	mother = 100160
 	1689.3.26 = {
@@ -1058,7 +1065,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100325
 	mother = 100326
 	1632.4.6 = {
@@ -1073,7 +1080,7 @@
 	name = "Karl Joseph" # Archduke Charles Joseph of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100055
 	mother = 100188
 	1649.7.7 = {
@@ -1089,7 +1096,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100055
 	mother = 100190
 	1653.5.21 = {
@@ -1105,7 +1112,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100055
 	mother = 100190
 	1654.12.20 = {
@@ -1121,7 +1128,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	1628.3.24 = {
 		birth = yes
 	} 
@@ -1135,7 +1142,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100039
+	dynasty = 40
 	1650.4.27 = {
 		birth = yes
 	}
@@ -1146,7 +1153,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100031
+	dynasty = 32
 	1602.8.31 = {
 		birth = yes
 	} 
@@ -1159,7 +1166,7 @@
 	name = "Johann Georg" # John George II, Prince of Anhalt-Dessau
 	religion = reformed
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	1627.11.17 = {
 		birth = yes
 	}
@@ -1176,7 +1183,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	father = 100207
 	mother = 100206
 	1664.5.1 = {
@@ -1189,7 +1196,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	father = 100207
 	mother = 100206
 	1666.8.16 = {
@@ -1201,7 +1208,7 @@
 	name = "Heinrich Casimir" # Henry Casimir II, Prince of Nassau-Dietz
 	religion = protestant
 	culture = german
-	dynasty = 100000
+	dynasty = 1
 	father = 100213
 	mother = 100212
 	1657.1.18 = {
@@ -1220,7 +1227,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	father = 100207
 	mother = 100206
 	1682.4.6 = {
@@ -1232,7 +1239,7 @@
 	name = "Friedrich" # Frederick V of the Palatinate
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100433
 	mother = 100432
 	1596.8.19 = {
@@ -1251,7 +1258,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1630.10.14 = {
@@ -1263,7 +1270,7 @@
 	name = "Ernst August" # Ernest Augustus, Elector of Hanover
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	1629.11.20 = {
 		birth = yes
 	}
@@ -1279,7 +1286,7 @@
 	name = "Maximilian Wilhelm" # Maximilian William of Brunswick-Lüneburg 
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100220
 	mother = 100219
 	1664.12.13 = {
@@ -1295,7 +1302,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100220
 	mother = 100219
 	1668.10.30 = {
@@ -1307,7 +1314,7 @@
 	name = "Ernst August" # Ernest Augustus, Duke of York and Albany
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100220
 	mother = 100219
 	1674.9.17 = {
@@ -1319,7 +1326,7 @@
 	name = "Heinrich Friedrich" # Frederick Henry, Hereditary Prince of the Palatinate
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1614.1.1 = {
@@ -1334,7 +1341,7 @@
 	name = "Karl" # Charles I Louis
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1617.12.22 = {
@@ -1349,7 +1356,7 @@
 	name = "Moritz" # Maurice of the Palatinate
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1621.1.16 = {
@@ -1364,7 +1371,7 @@
 	name = "Louise Hollandine" # Louise Hollandine of the Palatinate
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1622.4.8 = {
@@ -1381,7 +1388,7 @@
 	name = "Eduard" # Edward, Count Palatine of Simmern
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1625.10.5 = {
@@ -1400,7 +1407,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1626.7.17 = {
@@ -1415,7 +1422,7 @@
 	name = "Philipp" # Philip Frederick of the Palatinate
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100218
 	mother = 100217
 	1627.9.16 = {
@@ -1433,7 +1440,7 @@
    female = yes
    religion = reformed
    culture = german
-   dynasty = 100014
+   dynasty = 15
    father = 100218
    mother = 100217
    1628.12.19 = {
@@ -1448,7 +1455,7 @@
   name = "Gustavus Adolphus" # Gustavus Adolphus of the Palatinate
   religion = reformed
   culture = german
-  dynasty = 100014
+  dynasty = 15
   father = 100218
   mother = 100217
   1632.12.19 = {
@@ -1464,7 +1471,7 @@
   female = yes
   religion = protestant
   culture = german
-  dynasty = 100017
+  dynasty = 18
   1666.9.15 = {
 	birth = yes
   }
@@ -1479,7 +1486,7 @@
   culture = german
   father = 100058
   mother = 100233
-  dynasty = 100017
+  dynasty = 18
   1683.10.30 = {
 	birth = yes
 	}
@@ -1492,7 +1499,7 @@
   culture = german
   father = 100058
   mother = 100233
-  dynasty = 100017
+  dynasty = 18
   1687.4.16 = {
 	birth = yes
 	}
@@ -1502,7 +1509,7 @@
 	name = "Joseph Clemens" # Joseph Clemens of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100317
 	mother = 100318
 	1671.12.3 = {
@@ -1515,7 +1522,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100057
+	dynasty = 57
 	1679.3.8 = {
 		birth = yes
 	 }
@@ -1525,7 +1532,7 @@
 	name = "Eberhard Ludwig" # Eberhard Louis, Duke of Württemberg
 	religion = protestant
 	culture = german
-	dynasty = 100058
+	dynasty = 58
 	1676.9.18 = {
 		birth = yes
 	 }
@@ -1535,7 +1542,7 @@
 	name = "Ludwig Wilhelm" # Louis William, Margrave of Baden-Baden
 	religion = catholic
 	culture = german
-	dynasty = 100059
+	dynasty = 59
 	1655.4.8 = {
 		birth = yes
 	}
@@ -1549,7 +1556,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100043
+	dynasty = 43
 	1655.4.8 = {
 		birth = yes
 	}
@@ -1559,7 +1566,7 @@
 	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	1664.3.12 = {
 		birth = yes
 	}
@@ -1569,7 +1576,7 @@
 	name = "Johann Philipp" # Johann Philipp von Greifenclau zu Vollraths
 	religion = catholic
 	culture = german
-	dynasty = 100065
+	dynasty = 65
 	1652.2.13 = {
 		birth = yes
 	}
@@ -1579,7 +1586,7 @@
 	name = "Friedrich Wilhelm" # Frederick William, Duke of Mecklenburg-Schwerin
 	religion = protestant
 	culture = german
-	dynasty = 100037
+	dynasty = 38
 	1675.3.28 = {
 		birth = yes
 	}
@@ -1589,7 +1596,7 @@
 	name = "Frederick Christian" # Friedrich Christian von Plettenberg
 	religion = catholic
 	culture = german
-	dynasty = 100060
+	dynasty = 60
 	1644.8.8 = {
 		birth = yes
 	}
@@ -1599,7 +1606,7 @@
 	name = "Hermann Werner"
 	religion = catholic
 	culture = german
-	dynasty = 100061
+	dynasty = 61
 	1625.8.16 = {
 		birth = yes
 	}
@@ -1609,7 +1616,7 @@
 	name = "Johann Hugo" # Johann Hugo von Orsbeck
 	religion = catholic
 	culture = german
-	dynasty = 100062
+	dynasty = 62
 	1634.1.30 = {
 		birth = yes
 	}
@@ -1619,7 +1626,7 @@
 	name = "Johann Erasmus Seyffart"
 	religion = catholic
 	culture = german
-	dynasty = 100063
+	dynasty = 63
 	1634.1.30 = {
 		birth = yes
 	}
@@ -1629,7 +1636,7 @@
     name = "Lothar Franz" # Lothar Franz von Schönborn
     religion = catholic
     culture = german
-    dynasty = 100064
+    dynasty = 64
     1655.10.4 = {
         birth = yes
     }
@@ -1645,7 +1652,7 @@
 	name = "Wilhelm Egon" # Wilhelm Egon von Fürstenberg
 	religion = catholic
 	culture = german
-	dynasty = 100066
+	dynasty = 66
 	1629.12.2 = {
 		birth = yes
 	}
@@ -1655,7 +1662,7 @@
 	name = "Felipe" # Philip the Handsome
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100414
 	mother = 100415
 	give_nickname = nick_the_handsome
@@ -1674,7 +1681,7 @@
 	name = "Karl" # Charles V, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1500.2.24 = {
@@ -1692,7 +1699,7 @@
 	name = "Felipe" # Philip II of Spain
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100270
 	mother = 100272
 	1527.5.21 = {
@@ -1717,7 +1724,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100270
 	mother = 100272
 	1528.6.21 = {
@@ -1732,7 +1739,7 @@
 	name = "Johanna" # Joanna of Austria, Princess of Portugal
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100270
 	mother = 100272
 	1535.6.24 = {
@@ -1748,7 +1755,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1501.7.18 = {
@@ -1763,7 +1770,7 @@
 	name = "Ferdinand" # Ferdinand I, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1503.3.10 = {
@@ -1782,7 +1789,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1505.9.15 = {
@@ -1798,7 +1805,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1507.1.14 = {
@@ -1817,7 +1824,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1526.6.9 = {
@@ -1832,7 +1839,7 @@
 	name = "Maximilian" # Maximilian II, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1527.7.31 = {
@@ -1851,7 +1858,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	1549.11.2 = {
@@ -1866,7 +1873,7 @@
 	name = "Ernest" # Archduke Ernest of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	1553.6.15 = {
@@ -1882,7 +1889,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	1554.7.5 = {
@@ -1897,7 +1904,7 @@
 	name = "Albrecht" # Albert VII, Archduke of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	1559.11.13 = {
@@ -1915,7 +1922,7 @@
 	name = "Wenzel" # Archduke Wenceslaus of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	1561.3.9 = {
@@ -1931,7 +1938,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274
 	trait = "nun"
@@ -1948,7 +1955,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1547.1.24 = {
@@ -1964,7 +1971,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	trait = "nun"
@@ -1980,7 +1987,7 @@
 	name = "Karl" # Charles II, Archduke of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1540.6.3 = {
@@ -1999,7 +2006,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	trait = "charitable"
 	1551.3.21 = {
 		birth = yes 
@@ -2014,7 +2021,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1573.8.16 = {
@@ -2030,7 +2037,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1588.12.24 = {
@@ -2046,7 +2053,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1574.11.10 = {
@@ -2062,7 +2069,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1581.5.22 = {
@@ -2078,7 +2085,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1576.1.4 = {
@@ -2093,7 +2100,7 @@
 	name = "Ferdinand" # Ferdinand II, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1578.7.9 = {
@@ -2112,7 +2119,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100349
 	mother = 100351
 	1574.12.18 = {
@@ -2128,7 +2135,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100313
 	mother = 100314
 	1610.1.13 = {
@@ -2143,7 +2150,7 @@
 	name = "Maximilian" # Maximilian I, Elector of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100349
 	mother = 100351
 	give_nickname = nick_the_great
@@ -2165,7 +2172,7 @@
 	name = "Ferdinand Maria" # Ferdinand Maria, Elector of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100316
 	mother = 100315
 	1636.10.31 = {
@@ -2184,7 +2191,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100015
+	dynasty = 16
 	father = 100317
 	mother = 100318
 	1673.1.23 = {
@@ -2197,7 +2204,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100313
 	mother = 100314
 	1611.7.16 = {
@@ -2212,7 +2219,7 @@
 	name = "Leopold Wilhelm" # Archduke Leopold Wilhelm of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100313
 	mother = 100314
 	trait = "skilled_tactician"
@@ -2231,7 +2238,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1582.9.25 = {
@@ -2246,7 +2253,7 @@
 	name = "Maximilian Ernest" # Archduke Maximilian Ernest of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1583.11.17 = {
@@ -2261,7 +2268,7 @@
 	name = "Leopold" # Leopold V, Archduke of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100301
 	mother  = 100302
 	1586.10.9 = {
@@ -2281,7 +2288,7 @@
 	culture = german
 	father = 100325
 	mother = 100326
-	dynasty = 100006
+	dynasty = 7
 	1628.5.17 = {
 		birth = yes 
 	}
@@ -2297,7 +2304,7 @@
 	culture = german
 	father = 100325
 	mother = 100326
-	dynasty = 100006
+	dynasty = 7
 	1629.8.12 = {
 		birth = yes 
 	  }
@@ -2312,7 +2319,7 @@
 	culture = german
 	father = 100325
 	mother = 100326
-	dynasty = 100021
+	dynasty = 22
 	1630.11.27 = {
 		birth = yes 
 	}
@@ -2326,7 +2333,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100303
 	mother = 100302
 	1589.10.7 = {
@@ -2341,7 +2348,7 @@
 	name = "Karl" # Charles of Austria, Bishop of Wroclaw
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100303
 	mother = 100302
 	1590.8.7 = {
@@ -2357,7 +2364,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1533.9.15 = {
@@ -2373,7 +2380,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100047
+	dynasty = 47
 	1574.10.9 = {
 		birth = yes 
 	}
@@ -2386,7 +2393,7 @@
 	name = "Rudolf" # Rudolf II, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274  
 	1552.7.18 = {
@@ -2401,7 +2408,7 @@
 	name = "Matthias" # Matthias, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274  
 	1557.2.24 = {
@@ -2416,7 +2423,7 @@
 	name = "Maximilian" # Maximilian III, Archduke of Austria
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100287
 	mother  = 100274  
 	1558.10.12 = {
@@ -2432,7 +2439,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285  
 	1528.7.7 = {
@@ -2447,7 +2454,7 @@
 	name = "Wilhelm" # William V, Duke of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100350
 	mother = 100348
 	1548.9.29 = {
@@ -2465,7 +2472,7 @@
 	name = "Albrecht" # Albert V, Duke of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	1528.2.29 = {
 		birth = yes 
 	}
@@ -2482,7 +2489,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100047
+	dynasty = 47
 	father = 100352
 	mother  = 100339  
 	1544.4.20 = {
@@ -2497,7 +2504,7 @@
 	name = "Philipp" # Philipp of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100349
 	mother = 100351
 	1576.9.22 = {
@@ -2512,7 +2519,7 @@
 	name = "Albrecht" # Albert VI, Duke of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100349
 	mother = 100351
 	1584.2.26 = {
@@ -2527,7 +2534,7 @@
 	name = "Ferdinand" # Ferdinand of Bavaria
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100349
 	mother = 100351
 	1577.10.8 = {
@@ -2543,7 +2550,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1531.5.15 = {
@@ -2559,7 +2566,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1532.8.14 = {
@@ -2575,7 +2582,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100277
 	mother  = 100285
 	1539.4.30 = {
@@ -2591,7 +2598,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100077
+	dynasty = 77
 	1673.5.29 = {
 		birth = yes 
 	  }
@@ -2601,7 +2608,7 @@
 	name = "Charles Henri" # Charles Henri, Prince of Commercy
 	religion = catholic
 	culture = german
-	dynasty = 100047
+	dynasty = 47
 	1649.4.17 = {
 		birth = yes 
 	}
@@ -2611,7 +2618,7 @@
 	name = "Ludwig Kraft" # Louis Crato, Count of Nassau-Saarbrücken
 	religion = catholic
 	culture = german
-	dynasty = 100086
+	dynasty = 86
 	1663.3.28 = {
 		birth = yes 
 	}
@@ -2621,7 +2628,7 @@
 	name = "Wolfgang Wilhelm" # Wolfgang Wilhelm, Count Palatine of Neuburg
 	religion = protestant
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	1578.11.4 = {
 		birth = yes 
 	}
@@ -2641,7 +2648,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	father = 100287
 	mother = 100274
 	1587.7.4 = {
@@ -2656,7 +2663,7 @@
 	name = "Georg" # George of Hesse-Darmstadt
 	religion = protestant
 	culture = german
-	dynasty = 100050
+	dynasty = 50
 	trait = "skilled_tactician"
 	1669.4.25 = {
 		birth = yes    
@@ -2670,7 +2677,7 @@
 	name = "Maximilian" # Maximilian I, Holy Roman Emperor
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	1459.3.22 = {
 		birth = yes    
 	}
@@ -2699,7 +2706,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100006
+	dynasty = 7
 	father = 100414
 	mother = 100415
 	1480.1.10 = {
@@ -2714,7 +2721,7 @@
 	name = "Wilhelm" # William, Duke of Jülich-Cleves-Berg
 	religion = catholic
 	culture = german
-	dynasty = 100098
+	dynasty = 98
 	1516.7.28 = {
 		birth = yes    
 	}    
@@ -2728,7 +2735,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	1544.12.23 = {
 		birth = yes    
 	}
@@ -2741,7 +2748,7 @@
 	name = "Friedrich" # Frederick IV, Elector Palatine
 	religion = reformed
 	culture = german
-	dynasty = 100014
+	dynasty = 15
 	1574.3.5 = {
 		birth = yes    
 	}
@@ -2757,7 +2764,7 @@
 	name = "Moritz" # Maurice de Saxe
 	religion = protestant
 	culture = german
-	dynasty = 100019
+	dynasty = 20
 	father = 100061
 	mother = 100496
 	trait = "bastard"  
@@ -2771,7 +2778,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	father = 100518
 	mother = 100519
 	1671.3.6 = {
@@ -2783,7 +2790,7 @@
 	name = "Johann Friedrich" # John Frederick, Duke of Brunswick
 	religion = protestant
 	culture = german
-	dynasty = 100017
+	dynasty = 18
 	1625.4.25 = {
 		birth = yes
 	}
@@ -2803,7 +2810,7 @@
 	female = yes
 	religion = catholic
 	culture = german
-	dynasty = 100133
+	dynasty = 130
 	1652.3.14 = {
 		birth = yes
 	} 
@@ -2823,7 +2830,7 @@
 
 100538 = {
 	name = "Johann Ernst"
-	dynasty = 100136
+	dynasty = 133
 	religion = protestant
 	culture = german
 	1650.9.22 = {
@@ -2834,7 +2841,7 @@
 100539 = {
 	name = "Louise"
 	female = yes
-	dynasty = 100037
+	dynasty = 38
 	religion = protestant
 	culture = german
 	1667.8.28 = {
@@ -2844,7 +2851,7 @@
 
   100598 = {
 	name = "Johann"
-	dynasty = 100179
+	dynasty = 166
 	religion = protestant
 	culture = german
 	1639.9.22 = {
@@ -2861,5 +2868,42 @@
 	}   
 	1670.1.1 = {
 	  death = yes
+	} 
+}
+
+  100611 = {
+	name = "Erdmuthe Sophie" # Erdmuthe Sophie of Saxony
+	female = yes
+	dynasty = 20
+	religion = protestant
+	culture = german
+	1644.2.24 = {
+	  birth = yes
+	}   
+	1670.6.22 = {
+	  death = yes
+	} 
+}
+
+  100612 = {
+	name = "Sophie Luise" # Erdmuthe Sophie of Saxony
+	female = yes
+	dynasty = 58
+	religion = protestant
+	culture = german
+	1642.2.19 = {
+	  birth = yes
+	} 
+}
+
+  100613 = {
+	name = "Georg Wilhelm" # George William, Margrave of Brandenburg-Bayreuth
+	dynasty = 17
+	religion = protestant
+	culture = german
+	father = 100132
+	mother = 100612
+	1678.11.26 = {
+	  birth = yes
 	} 
 }

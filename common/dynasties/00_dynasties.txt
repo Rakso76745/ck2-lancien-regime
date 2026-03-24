@@ -1,4 +1,4 @@
-100000 = {
+1 = {
   name = "Orange-Nassau"
   culture = "dutch"
   religion="reformed"
@@ -39,28 +39,28 @@
         }
     }
 }
-100001 = {
+2 = {
   name = "Sackville"
   culture = "english"
   religion="protestant"
 }
-100002 = {
+3 = {
   name = "Stuart"
   culture = "scottish"
   religion="protestant"
+  used_for_random=no
 }
-100003 ={
+4 ={
   name = "Heinsius"
   culture = "dutch"
   religion="reformed"
-	used_for_random=no
 }
-100004 ={
+5 ={
   name = "Howard"
   culture = "english"
   religion="catholic"
 }
-100005 ={
+6 ={
   name = "Oldenburg"
   culture = "danish"
   religion="protestant"
@@ -76,7 +76,7 @@
         }
     }
 }
-100006 ={
+7 ={
   name = "Habsburg"
   culture = "german"
   religion="catholic"
@@ -89,22 +89,22 @@
 	}
 	used_for_random=no
 }
-100007 ={
+8 ={
   name = "Pignatelli"
   culture = "italian"
   religion="catholic"
 }
-100008 ={
+9 ={
   name = "Compton"
   culture = "english"
   religion="protestant"
 }
-100009 ={
+10 ={
   name = "Hyde"
   culture = "english"
   religion="protestant"
 }
-100010 ={
+11 ={
   name = "Este"
   culture = "italian"
   religion="catholic"
@@ -120,20 +120,21 @@
         }
     }
 }
-100011 ={
+12 ={
   name = "Mazzarini"
   culture = "italian"
   religion="catholic"
 }
-100012 ={
+13 ={
   name = "Cromwell"
   culture = "english"
   religion="protestant"
 }
-100013 ={
+14 ={
 	name="de Bourbon"
 	culture="french"
 	religion="catholic"
+  used_for_random=no
 	coat_of_arms=
 	{
 		data=
@@ -142,17 +143,24 @@
 		religion="catholic"
 	}
 }
-100014 ={
-  name = "Wittelsbach"
-  culture = "german"
-  religion="catholic"
+15 ={
+	name="Wittelsbach"
+	culture="german"
+	religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 47 0 0 0 			}
+		religion="catholic"
+	}
 }
-100015 ={
+16 ={
   name = "Savoia"
   culture = "italian"
   religion="catholic"
 }
-100016 ={
+17 ={
 	name="von Hohenzollern"
 	culture="german"
 	religion="protestant"
@@ -165,15 +173,17 @@
 	}
 	used_for_random=no
 }
-100017 ={
+18 ={
   name = "Hanover"
   culture = "german"
   religion="protestant"
+  used_for_random=no
 }
-100018 ={
+19 ={
 	name="Romanov"
 	culture="russian"
 	religion="orthodox"
+  used_for_random=no
 	coat_of_arms=
 	{
 		data=
@@ -182,10 +192,11 @@
 		religion="orthodox"
 	}
 }
-100019 ={
+20 ={
   name = "Wettin"
   culture = "german"
   religion="protestant"
+  used_for_random=no
     coat_of_arms = {
         template = 0
         layer = {
@@ -198,112 +209,112 @@
         }
     }
 }
-100020 ={
+21 ={
   name = "Oginskis"
   culture = "lithuanian"
   religion="catholic"
 }
-100021 ={
+22 ={
   name = "Medici"
   culture = "italian"
   religion="catholic"
 }
-100022 ={
+23 ={
   name = "Grey"
   culture = "english"
   religion="protestant"
 }
-100023 ={
+24 ={
   name = "Crew"
   culture = "english"
   religion="protestant"
 }
-100024 ={
+25 ={
   name = "Butler"
   culture = "irish"
   religion="catholic"
 }
-100025 ={
+26 ={
   name = "Stanley"
   culture = "english"
   religion="protestant"
 }
-100026 ={
+27 ={
   name = "Cavendish"
   culture = "english"
   religion="protestant"
 }
-100027 ={
+28 ={
   name = "Somers"
   culture = "english"
   religion="protestant"
 }
-100028 ={
+29 ={
   name = "de Vere"
   culture = "english"
   religion="protestant"
 }
-100029 ={
+30 ={
   name = "Capell"
   culture = "english"
   religion="protestant"
 }
-100030 ={
+31 ={
   name = "Paulet"
   culture = "english"
   religion="protestant"
 }
-100031 ={
+32 ={
   name = "Solms-Braunfels"
   culture = "german"
   religion="protestant"
 }
-100032 ={
+33 ={
   name = "Sidney"
   culture = "english"
   religion="protestant"
 }
-100033 ={
+34 ={
   name = "Kerr"
   culture = "scottish"
   religion="reformed"
 }
-100034 ={
+35 ={
   name = "Sobiewski"
   culture = "polish"
   religion="catholic"
 }
-100035 ={
+36 ={
   name = "La Grange d'Arquien"
   culture = "french"
   religion="catholic"
 }
-100036 ={
+37 ={
   name = "Glücksburg"
   culture = "german"
   religion="protestant"
 }
-100037 ={
+38 ={
   name = "Mecklenburg"
   culture = "german"
   religion="protestant"
 }
-100038 ={
+39 ={
   name = "Kettler"
   culture = "german"
   religion="protestant"
 }
-100039 ={
+40 ={
   name = "Hesse-Kassel"
   culture = "german"
   religion="protestant"
 }
-100040 ={
+41 ={
   name = "Le Tellier"
   culture = "french"
   religion="catholic"
 }
-100041 ={
+42 ={
   name = "Braganza"
   culture = "portuguese"
   religion="catholic"
@@ -319,22 +330,17 @@
         }
     }
 }
-100042 ={
-  name = "Pfalz-Neuburg"
-  culture = "german"
-  religion="catholic"
-}
-100043 ={
+43 ={
   name = "Ascania"
   culture = "german"
   religion="protestant"
 }
-100044 ={
+44 ={
   name = "Mughal"
   culture = "hindustani"
   religion="sunni"
 }
-100045 ={
+45 ={
 	name="Ottoman"
 	culture="turkish"
 	religion="sunni"
@@ -347,12 +353,12 @@
 	}
 	used_for_random=no
 }
-100046 ={
+46 ={
   name = "Nayak"
   culture = "telugu"
   religion="hindu"
 }
-100047 ={
+47 ={
   name = "Lorraine"
   culture = "german"
   religion="catholic"
@@ -368,244 +374,244 @@
         }
     }
 }
-100048 ={
+48 ={
   name = "Lopukhina"
   culture = "russian"
   religion="orthodox"
 }
-100049 ={
+49 ={
   name = "Vasa"
   culture = "swedish"
   religion="protestant"
 }
-100050 ={
+50 ={
   name = "Hesse-Darmstadt"
   culture = "german"
   religion="protestant"
 }
-100051 ={
+51 ={
   name = "Gonzaga"
   culture = "italian"
   religion="catholic"
 }
-100052 ={
+52 ={
   name = "Wisniowiecki"
   culture = "polish"
   religion="catholic"
 }
-100053 ={
+53 ={
   name = "Holstein-Gottorp"
   culture = "danish"
   religion="protestant"
 }
-100054 ={
+54 ={
   name = "Rakoczi"
   culture = "hungarian"
   religion="reformed"
 }
-100055 ={
+55 ={
   name = "Zrinska"
   culture = "croatian"
   religion="catholic"
 }
-100056 ={
+56 ={
   name = "Thokoly"
   culture = "hungarian"
   religion="reformed"
 }
-100057 ={
+57 ={
   name = "Hesse"
   culture = "german"
   religion="protestant"
 }
-100058 ={
-  name = "Wurttemberg"
+58 ={
+  name = "Württemberg"
   culture = "german"
   religion="protestant"
 	used_for_random=no
 }
-100059 ={
+59 ={
   name = "Zahringen"
   culture = "german"
   religion="catholic"
 	used_for_random=no
 }
-100060 ={
+60 ={
   name = "von Plettenberg"
   culture = "german"
   religion="catholic"
 }
-100061 ={
+61 ={
   name = "von Wolff-Metternich"
   culture = "german"
   religion="catholic"
 }
-100062 ={
+62 ={
   name = "von Orsbeck"
   culture = "german"
   religion="catholic"
 }
-100063 ={
+63 ={
   name = "von Klettenberg"
   culture = "german"
   religion="catholic"
 }
-100064 ={
+64 ={
   name = "von Schonborn"
   culture = "german"
   religion="catholic"
 }
-100065 ={
+65 ={
   name = "von Greiffenclau"
   culture = "german"
   religion="catholic"
 }
-100066 ={
+66 ={
   name = "von Furstenberg"
   culture = "german"
   religion="catholic"
 }
-100067 ={
+67 ={
   name = "Brancoveanu"
   culture = "romanian"
   religion="orthodox"
 }
-100068 ={
+68 ={
   name = "Cantemir"
   culture = "romanian"
   religion="orthodox"
 }
-100069 ={
+69 ={
   name = "Giray"
   culture = "mongol"
   religion="sunni"
 }
-100070 ={
+70 ={
   name = "Valier"
   culture = "italian"
   religion="catholic"
 }
-100071 ={
+71 ={
   name = "Trastamara"
   culture = "castillan"
   religion="catholic"
 }
-100072 ={
+72 ={
   name = "Aviz"
   culture = "portuguese"
   religion="catholic"
 }
-100073 ={
+73 ={
   name = "Valois"
   culture = "french"
   religion="catholic"
 }
-100074 ={
+74 ={
   name = "Jagiellon"
   culture = "lithuanian"
   religion="catholic"
 }
-100075 ={
+75 ={
   name = "Batthyany"
   culture = "hungarian"
   religion="catholic"
 }
-100076 ={
+76 ={
   name = "Safavid"
   culture = "persian"
   religion="shiite"
 }
-100077 ={
+77 ={
   name = "von Strattman"
   culture = "german"
   religion="catholic"
 }
-100078 ={
+78 ={
   name = "Esterhazy"
   culture = "hungarian"
   religion="reformed"
 }
-100079 ={
+79 ={
   name = "Dahlbergh"
   culture = "swedish"
   religion="protestant"
 }
-100080 ={
+80 ={
   name = "Tore"
   culture = "mongol"
   religion="sunni"
 }
-100081 ={
+81 ={
   name = "Arabshahid"
   culture = "mongol"
   religion="sunni"
 }
-100082 ={
+82 ={
   name = "Janids"
   culture = "mongol"
   religion="sunni"
 }
-100083 ={
+83 ={
   name = "Choros"
   culture = "mongol"
   religion="buddhist"
 }
-100084 ={
+84 ={
   name = "De Mari"
   culture = "italian"
   religion="catholic"
 }
-100085 ={
+85 ={
   name = "Farnese"
   culture = "italian"
   religion="catholic"
 }
-100086 = {
+86 = {
   name = "Nassau"
   culture = "german"
   religion="catholic"
 }
-100087 = {
+87 = {
   name = "Mazepa"
   culture = "ruthenian"
   religion="orthodox"
 }
-100088 = {
+88 = {
   name = "Tudor"
   culture = "scottish"
   religion="catholic"
 }
-100089 = {
+89 = {
   name = "d'Orleans-Longueville"
   culture = "french"
   religion="catholic"
 }
-100090 = {
+90 = {
   name = "Perellós"
   culture = "castillan"
   religion="catholic"
 }
-100091 = {
+91 = {
   name = "Colón"
   culture = "castillan"
   religion="catholic"
 }
-100092 = {
+92 = {
   name = "de la Cerda"
   culture = "castillan"
   religion="catholic"
 }
-100093 = {
+93 = {
   name = "Seymour"
   culture = "english"
   religion="protestant"
 }
-100094 = {
+94 = {
   name = "Percy"
   culture = "english"
   religion="protestant"
 }
-100095 = {
+95 = {
 	name="de Montfort"
 	culture="french"
 	religion="catholic"
@@ -617,360 +623,340 @@
 		religion="catholic"
 	}
 }
-100096 = {
+96 = {
 	name="Sforza"
   culture = "italian"
   religion="catholic"
 }
-100097 = {
+97 = {
 	name="van Egmond"
 	culture="dutch"
 }
-100098 = {
+98 = {
 	name="La Marck"
 	culture="dutch"
 }
-100099 = {
+99 = {
 	name="Bourbon-Montpensier"
 	culture="french"
 }
-100100 = {
+100 = {
 	name="de Coligny"
 	culture="french"
 }
-100101 = {
+101 = {
 	name="Cirksena"
 	culture="frisian"
 }
-100102 = {
-	name="Villier"
+102 = {
+	name="Villiers"
 	culture="english"
   religion="protestant"
 }
-100103 = {
+103 = {
 	name="'Alawi"
 	culture="maghreb_arabic"
   religion="sunni"
 }
-100104 = {
+104 = {
   name = "Lennard"
   culture = "english"
   religion="protestant"
 }
-100105 = {
+105 = {
   name = "Lee"
   culture = "english"
   religion="protestant"
 }
-100106 = {
+106 = {
   name = "Feilding"
   culture = "english"
   religion="protestant"
 }
-100107 = {
+107 = {
   name = "Churchill"
   culture = "english"
   religion="protestant"
 }
-100108 = {
+108 = {
   name = "Jennings"
   culture = "english"
   religion="protestant"
 }
-100109 = {
+109 = {
   name = "Godolphin"
   culture = "english"
   religion="protestant"
 }
-100110 = {
+110 = {
   name = "Drake"
   culture = "english"
   religion="protestant"
 }
-100111 = {
+111 = {
   name = "FitzJames"
   culture = "english"
   religion="protestant"
 }
-100112 = {
+112 = {
   name = "Burke"
   culture = "irish"
 }
-100113 = {
+113 = {
   name = "Sarsfield"
   culture = "irish"
   religion="catholic"
 }
-100114 = {
-  name = "Aylesbury"
-  culture = "english"
-  religion="protestant"
-}
-100115 = {
+114 = {
   name = "Rich"
   culture = "english"
   religion="protestant"
 }
-100116 = {
+115 = {
   name = "Herbert"
   culture = "english"
   religion="protestant"
 }
-100117 = {
+116 = {
   name = "Talbot"
   culture = "irish"
 }
-100118 = {
+117 = {
   name = "Russell"
   culture = "english"
   religion="protestant"
 }
-100119 = {
-  name = "Carr"
-  culture = "english"
-  religion="protestant"
-}
-100120 = {
+118 = {
   name = "Wriothesley"
   culture = "english"
   religion="protestant"
 }
-100121 = {
+119 = {
   name = "Howland"
   culture = "english"
   religion="protestant"
 }
-100122 ={
+120 ={
   name = "Svebilius"
   culture = "swedish"
   religion="protestant"
 }
-100123 = {
+121 = {
   name = "Tenison"
   culture = "english"
   religion="protestant"
 }
-100124 = {
+122 = {
   name = "von Konigsmarck"
   culture = "swedish"
   religion="protestant"
 }
-100125 = {
-  name = "Berkeley"
-  culture = "english"
-  religion="protestant"
-}
-100126 = {
+123 = {
   name = "Montagu"
   culture = "english"
   religion="protestant"
 }
-100127 = {
+124 = {
   name = "Greville"
   culture = "english"
   religion="protestant"
 }
-100128 = {
+125 = {
   name = "De la Gardie"
   culture = "french"
   religion="protestant"
 }
-100129 = {
+126 = {
   name = "Bagrationi"
   culture = "georgian"
   religion="orthodox"
 }
-100130 = {
+127 = {
   name = "Cholokashvili"
   culture = "georgian"
   religion="orthodox"
 }
-100131 = {
+128 = {
   name = "Farnese"
   culture = "italian"
   religion="catholic"
 }
-100132 = {
+129 = {
   name = "Barberini"
   culture = "italian"
   religion="catholic"
 }
-100133 = {
+130 = {
   name = "Pfalz-Simmern"
   culture = "german"
   religion="catholic"
 }
-100134 = {
+131 = {
   name = "Miloslavsky"
   culture = "russian"
   religion="orthodox"
 }
-100135 = {
+132 = {
   name = "Naryshkina"
   culture = "russian"
   religion="orthodox"
 }
-100136 = {
+133 = {
   name = "Schmieden"
   culture = "german"
   religion="protestant"
 }
-100137 = {
+134 = {
   name = "Sayfawa"
   culture = "kanuri"
   religion="sunni"
 }
-100138 = {
-  name = "Petrovi?-Njegoš"
+135 = {
+  name = "Petrovic-Njegoš"
   culture = "serbian"
   religion="orthodox"
 }
-100139 = {
+136 = {
   name = "Yarubid"
   culture = "bedouin_arabic"
   religion="ibadi"
 }
-100140 = {
+137 = {
   name = "Al Kathiri"
   culture = "bedouin_arabic"
   religion="sunni"
 }
-100141 = {
+138 = {
   name = "Qasimid"
   culture = "bedouin_arabic"
   religion="sunni"
 }
-100142 = {
+139 = {
   name = "Banu Afrar"
-  culture = "bedouin_arabic"
+  culture = "nubian"
   religion="sunni"
 }
-100143 = {
+140 = {
   name = "Solomon"
   culture = "ethiopian"
   religion="miaphysite"
 }
-100144 = {
+141 = {
   name = "Dawud"
   culture = "ethiopian"
   religion="sunni"
 }
-100145 = {
-  name = "Karanle"
-  culture = "ethiopian"
-  religion="sunni"
-}
-100146 = {
+142 = {
   name = "Shihab"
   culture = "levantine_arabic"
   religion="sunni"
 }
-100147 = {
+143 = {
   name = "Gyldenlove"
   culture = "danish"
   religion="protestant"
 }
-100148 = {
+144 = {
   name = "Gabel"
   culture = "danish"
   religion="protestant"
 }
-100149 = {
-  name = "Rehnskiold"
+145 = {
+  name = "Rehnskiöld"
   culture = "swedish"
   religion="protestant"
 }
-100159 = {
+146 = {
   name = "von Mellin"
   culture = "swedish"
   religion="protestant"
 }
-100160 = {
+147 = {
   name = "Gyllenstierna"
   culture = "swedish"
   religion="protestant"
 }
-100161 = {
+148 = {
   name = "Moncada"
   culture = "castillan"
   religion="catholic"
 }
-100162 = {
+149 = {
   name = "test"
   culture = "castillan"
   religion = "catholic"
 }
-100163 = {
+150 = {
   name = "Córdoba Lasso de la Vega"
   culture = "castillan"
   religion="catholic"
 }
-100164 = {
+151 = {
   name = "de Robles Silva"
   culture = "castillan"
   religion = "catholic"
 }
-100165 = {
+152 = {
   name = "van der Veen"
   culture = "dutch"
   religion="reformed"
 }
-100166 = {
+153 = {
   name = "de La Ville"
   culture = "french"
   religion="catholic"
 }
-100167 = {
+154 = {
   name = "de Lencastre"
   culture = "portuguese"
   religion="catholic"
 }
-100168 = {
+155 = {
   name = "de Ponte y Hoyo"
   culture = "castillan"
   religion="catholic"
 }
-100169 = {
+156 = {
   name = "Coote"
   culture = "irish"
   religion="protestant"
 }
-100170 = {
+157 = {
   name = "Winthrop"
   culture = "english"
   religion="protestant"
 }
-100171 = {
+158 = {
   name = "Cranston"
   culture = "english"
   religion="protestant"
 }
-100172 = {
+159 = {
   name = "de Callière"
   culture = "french"
   religion="catholic"
 }
-100173 = {
+160 = {
   name = "de Valladares"
   culture = "castillan"
   religion="catholic"
 }
-100174 = {
+161 = {
   name = "Hamilton"
   culture = "scottish"
   religion="protestant"
 }
-100175 = {
+162 = {
   name = "Penn"
   culture = "english"
   religion="protestant"
 }
-100176 = {
+163 = {
   name = "van der Stel"
   culture = "dutch"
   religion="reformed"
 }
-100177 = {
+164 = {
   name = "Phélypeaux"
   culture = "french"
   religion="catholic"
@@ -1010,68 +996,78 @@
            }
       }
 }
-100178 = {
+165 = {
   name = "Compton"
   culture = "english"
   religion="protestant"
 }
-100179 = {
+166 = {
   name = "Westken"
   culture = "german"
   religion="protestant"
 }
-100180 = {
+167 = {
   name = "Köprülü"
   culture = "turkish"
   religion="sunni"
 }
-100181 = {
+168 = {
   name = "La Baume Le Blanc"
   culture = "french"
   religion="catholic"
 }
-100182 = {
+169 = {
   name = "Notaras"
   culture = "greek"
   religion="orthodox"
 }
-100183 = {
+170 = {
   name = "Palladas"
   culture = "greek"
   religion="orthodox"
 }
-100184 = {
+171 = {
   name = "Zaim"
   culture = "levantine_arabic"
   religion="orthodox"
 }
-100185 = {
+172 = {
   name = "Rochechouart"
   culture = "french"
   religion="catholic"
 }
-100186 = {
+173 = {
   name = "Vellingk"
   culture = "swedish"
   religion="protestant"
 }
-100187 = {
+174 = {
   name = "Lucas"
   culture = "english"
   religion="protestant"
 }
-100188 = {
+175 = {
   name = "FitzRoy"
   culture = "english"
   religion="protestant"
 }
-100189 = {
+176 = {
   name = "FitzJames"
   culture = "english"
   religion="protestant"
 }
-100190 = {
+177 = {
   name = "Qing"
   culture = "han"
   religion="buddhist"
+}
+178 = {
+  name = "Beauclerk"
+  culture = "english"
+  religion="protestant"
+}
+179 = {
+  name = "Kirke"
+  culture = "english"
+  religion="protestant"
 }

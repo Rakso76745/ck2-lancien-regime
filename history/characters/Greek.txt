@@ -8,7 +8,7 @@
   }
 100608 = {
 	name = "Dositheus"
-	dynasty = 100182
+	dynasty = 169
 	religion = orthodox
 	culture = greek
 	1641.5.31 = {
@@ -17,7 +17,7 @@
   }
 100609 = {
 	name = "Gerasimos"
-	dynasty = 100183
+	dynasty = 170
 	religion = orthodox
 	culture = greek
 	1633.1.1 = {

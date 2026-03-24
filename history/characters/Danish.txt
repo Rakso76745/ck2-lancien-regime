@@ -2,7 +2,7 @@
 	name = "Jorgen"
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100196
 	mother = 100197
 	1653.4.2 = {
@@ -17,7 +17,7 @@
 	name = "Frederik"
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100199
 	mother = 100198
 	1671.10.11 = {
@@ -38,7 +38,7 @@
 	name = "Frederik"
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	1609.3.18 = {
 	  birth = yes
 	} 
@@ -54,7 +54,7 @@
 	name = "Christian"
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100196
 	mother = 100197
 	1646.4.15 = {
@@ -73,7 +73,7 @@
 	female = yes
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	1574.12.12 = {
 	  birth = yes
 	} 
@@ -86,7 +86,7 @@
 	name = "Frederik"
 	religion = protestant
 	culture = danish
-	dynasty = 100053
+	dynasty = 53
 	father = 100564
 	mother = 100563
 	1671.10.18 = {
@@ -102,7 +102,7 @@
 	female = yes
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100196
 	mother = 100197
 	1656.9.11 = {
@@ -117,7 +117,7 @@
 	name = "Christian"
 	religion = reformed
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	1481.7.1 = {
 	  birth = yes 
 	}
@@ -133,7 +133,7 @@
 	name = "Hans"
 	religion = catholic
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100336
 	mother = 100276
 	1518.2.21 = {
@@ -149,7 +149,7 @@
 	female = yes
 	religion = catholic
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100336
 	mother = 100276
 	1520.11.10 = {
@@ -165,7 +165,7 @@
 	female = yes
 	religion = catholic
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100336
 	mother = 100276
 	1521.11.1 = {
@@ -180,7 +180,7 @@
 	name = "Christian"
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100021
 	mother = 100539
 	1699.11.30 = {
@@ -193,7 +193,7 @@
 	female = yes
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100196
 	mother = 100197
 	1649.4.11 = {
@@ -205,7 +205,7 @@
 	name = "Christian Albrecht"
 	religion = protestant
 	culture = danish
-	dynasty = 100053
+	dynasty = 53
 	1649.4.11 = {
 	  birth = yes
 	  }
@@ -221,7 +221,7 @@
 	name = "Frederik"
 	religion = protestant
 	culture = danish
-	dynasty = 100053
+	dynasty = 53
 	father = 100564
 	mother = 100563
 	1673.1.11 = {
@@ -234,7 +234,7 @@
 	female = yes
 	religion = protestant
 	culture = danish
-	dynasty = 100053
+	dynasty = 53
 	father = 100564
 	mother = 100563
 	1678.3.21 = {
@@ -246,7 +246,7 @@
 	name = "Ulrik Frederik"
 	religion = protestant
 	culture = danish
-	dynasty = 100147
+	dynasty = 143
 	father = 100564
 	trait = "bastard"
 	1638.7.20 = {
@@ -269,7 +269,7 @@
 
   100570 = {
 	name = "Frederik"
-	dynasty = 100148
+	dynasty = 144
 	religion = protestant
 	culture = danish
 	1645.1.1 = {
@@ -282,7 +282,7 @@
 	female = yes  
 	religion = protestant
 	culture = danish
-	dynasty = 100005
+	dynasty = 6
 	father = 100196
 	mother = 100197
 	1647.9.1 = {

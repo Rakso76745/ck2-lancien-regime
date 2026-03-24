@@ -2,7 +2,7 @@
 	name = "Tsewang Rabtan"
 	religion = buddhist
 	culture = mongol
-	dynasty = 100083
+	dynasty = 83
 	1663.1.1 = {
 	  birth = yes     
 	}

@@ -2,7 +2,7 @@
 	name = "Willem Hendrik" #William III of England
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	dna="bcgff0dc0d0"
 	properties="dd000k00000000000000000000000000000000"
 	martial = 4
@@ -31,14 +31,14 @@
 	name = "Willem" #William II, Prince of Orange
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100204
 	mother = 100205  
 	1626.5.27 = {
 	  birth = yes
-	  }
-	  1641.5.12 = {
-		  add_spouse=100009
+	}
+	1641.5.12 = {
+	  add_spouse=100009
 	}    
 	1651.3.8 = {
 	  death = yes
@@ -49,7 +49,7 @@
 	name = "Anthonie" # Anthonie Heinsius
 	religion = reformed
 	culture = dutch
-	dynasty = 100003
+	dynasty = 4
 	1641.11.23 = {
 	  birth = yes
 	}
@@ -62,7 +62,7 @@
 	name = "Johan Willem Friso"
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100210
 	mother = 100209
 	1687.8.14 = {
@@ -75,7 +75,7 @@
 	female = yes
 	religion = protestant
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	1635.3.4 = {
 	  birth = yes 
 	}
@@ -89,7 +89,7 @@
 	female = yes 
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100204
 	mother = 100205
 	1627.12.7 = {
@@ -104,7 +104,7 @@
 	name = "Frederik Hendrik" # Frederick Henry, Prince of Orange
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100439
 	1584.1.29 = {
@@ -123,7 +123,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100204
 	mother = 100205
 	1637.2.10 = {
@@ -136,7 +136,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100204
 	mother = 100205
 	1634.4.9 = {
@@ -151,7 +151,7 @@
 	name = "Willem Frederik" # William Frederick, Prince of Nassau-Dietz
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	1613.8.7 = {
 	  birth = yes
 	}
@@ -168,7 +168,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100204
 	mother = 100205
 	1642.9.5 = {
@@ -180,11 +180,11 @@
   }
 
   100415 = {
-	name = "Maria"  
+	name = "Maria" # Mary of Burgundy
 	female = yes
 	religion = catholic
 	culture = dutch
-	dynasty = 100073
+	dynasty = 73
 	1457.2.13 = {
 	  birth = yes    
 	}    
@@ -197,7 +197,7 @@
 	name = "Karel" # Charles II, Duke of Guelders
 	religion = catholic
 	culture = dutch
-	dynasty = 100097
+	dynasty = 97
 	1467.11.9 = {
 	  birth = yes    
 	}    
@@ -210,7 +210,7 @@
 	name = "Willem" # William the Silent
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	give_nickname = nick_the_silent
 	1533.3.24 = {
 	  birth = yes    
@@ -243,7 +243,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100097
+	dynasty = 97
 	1533.3.1 = {
 	  birth = yes    
 	}    
@@ -256,7 +256,7 @@
 	name = "Filips Willem" # Philip William, Prince of Orange
 	religion = catholic
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100422
 	1554.12.19 = {
@@ -278,7 +278,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100422
 	1556.2.7 = {
@@ -294,7 +294,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100426
 	1563.11.5 = {
@@ -309,7 +309,7 @@
 	name = "Maurits" # Maurice, Prince of Orange
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100426
 	1567.11.14 = {
@@ -325,7 +325,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100426
 	1569.4.10 = {
@@ -341,7 +341,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	1576.3.1 = {
@@ -357,7 +357,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	1577.4.26 = {
@@ -373,7 +373,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	1578.7.31 = {
@@ -389,7 +389,7 @@
 	female = yes
 	religion = catholic
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	trait = "nun"
@@ -407,7 +407,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	1580.9.17 = {
@@ -423,7 +423,7 @@
 	female = yes
 	religion = reformed
 	culture = dutch
-	dynasty = 100000
+	dynasty = 1
 	father = 100421
 	mother = 100431
 	1581.12.9 = {
@@ -436,7 +436,7 @@
 
   100583 = {
 	name = "Paulus" # Paulus van der Veen
-	dynasty = 100165
+	dynasty = 152
 	religion = reformed
 	culture = dutch
 	1660.1.1 = {
@@ -446,7 +446,7 @@
 
   100595 = {
 	name = "Willem Adriaan" # Willem Adriaan van der Stel
-	dynasty = 100176
+	dynasty = 163
 	religion = reformed
 	culture = dutch
 	trait = "cruel"

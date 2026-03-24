@@ -4,7 +4,7 @@
 	properties="0a0h0k00000000000000000000000000000000"
 	religion = protestant
 	culture = swedish
-	dynasty = 100014
+	dynasty = 15
 	father = 100243
 	mother = 100244
 	martial = 9
@@ -24,7 +24,7 @@
 	name = "Karl" # Charles XI of Sweden
 	religion = protestant
 	culture = swedish
-	dynasty = 100014
+	dynasty = 15
 	1655.11.24 = {
 	  birth = yes
 	}
@@ -41,7 +41,7 @@
 	female = yes
 	religion = protestant
 	culture = swedish
-	dynasty = 100014
+	dynasty = 15
 	father = 100243
 	mother = 100244
 	1681.6.26 = {
@@ -54,7 +54,7 @@
 	female = yes
 	religion = protestant
 	culture = swedish
-	dynasty = 100014
+	dynasty = 15
 	father = 100243
 	mother = 100244
 	1688.1.23 = {
@@ -66,7 +66,7 @@
 	name = "Sigismund" # Sigismund III Vasa
 	religion = catholic
 	culture = swedish
-	dynasty = 100049
+	dynasty = 49
 	father = 100301
 	mother  = 100302
 	1566.6.20 = {
@@ -90,7 +90,7 @@
 	name = "Erik" # Erik Dahlbergh
 	religion = protestant
 	culture = german
-	dynasty = 100079
+	dynasty = 79
 	trait = "brilliant_strategist"
 	trait = "erudite"
 	1625.10.10 = {
@@ -102,7 +102,7 @@
 	name = "Olov Svebilius"
 	religion = protestant
 	culture = swedish
-	dynasty = 100122
+	dynasty = 120
 	trait = "scholarly_theologian"
 	1624.1.1 = {
 	  birth = yes  
@@ -120,7 +120,7 @@
 	female = yes
 	religion = protestant
 	culture = swedish
-	dynasty = 100124
+	dynasty = 122
 	1662.8.28 = {
 	  birth = yes
 	}
@@ -130,7 +130,7 @@
 	name = "Axel Julius" # Axel Julius De la Gardie
 	religion = protestant
 	culture = swedish
-	dynasty = 100128
+	dynasty = 125
 	1637.1.1 = {
 	  birth = yes 
 	}
@@ -140,7 +140,7 @@
 	name = "Otto" # Otto Vellingk
 	religion = protestant
 	culture = swedish
-	dynasty = 100186
+	dynasty = 173
 	martial = 5
 	1649.1.1 = {
 	  birth = yes
@@ -149,7 +149,7 @@
 
   100571 = {
 	name = "Carl Gustav" # Carl Gustav Rehnskiöld
-	dynasty = 100149
+	dynasty = 145
 	martial = 10
 	religion = protestant
 	culture = swedish
@@ -160,7 +160,7 @@
 
   100572 = {
 	name = "Jurgen" # Jurgen Mellin
-	dynasty = 100159
+	dynasty = 146
 	religion = protestant
 	culture = swedish
 	1633.11.2 = {
@@ -170,7 +170,7 @@
   
   100573 = {
 	name = "Nils Carlsson" # Nils Gyllenstierna
-	dynasty = 100160
+	dynasty = 147
 	religion = protestant
 	culture = swedish
 	1648.10.13 = {

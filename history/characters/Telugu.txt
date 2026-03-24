@@ -3,7 +3,7 @@
 	female = yes
 	religion = hindu
 	culture = telugu
-	dynasty = 100046
+	dynasty = 46
 	1652.1.1 = {
 	  birth = yes   
 	}        
@@ -17,7 +17,7 @@
 	name = "Chokkanatha" 
 	religion = hindu
 	culture = telugu
-	dynasty = 100046
+	dynasty = 46
 	1652.1.1 = {
 	  birth = yes   
 	} 

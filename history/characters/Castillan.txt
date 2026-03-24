@@ -3,7 +3,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100052
 	mother = 100053  
 	1638.9.10 = {
@@ -20,7 +20,7 @@
 	culture = castillan
 	dna="ceaad0h0bb0"
 	properties="0l0b0k00000000000000000000000000000000"
-	dynasty = 100006
+	dynasty = 7
 	father = 100052
 	mother = 100054
 	fertility = 0.1
@@ -46,7 +46,7 @@
 	name = "Felipe" # Philip IV of Spain
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100102  
 	mother = 100103
 	1605.4.8 = {
@@ -74,7 +74,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100052
 	mother = 100054
 	1651.7.12 = {
@@ -90,7 +90,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100102  
 	mother = 100103
 	1606.8.18 = {
@@ -105,7 +105,7 @@
 	name = "Felipe" # Philip III of Spain
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100273
 	mother = 100288
 	1578.4.14 = {
@@ -124,7 +124,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100071
+	dynasty = 71
 	give_nickname = nick_the_mad
 	1479.11.6 = {
 	  birth = yes
@@ -139,7 +139,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100264
 	mother = 100265
 	1498.11.15 = {
@@ -155,7 +155,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100071
+	dynasty = 71
 	1482.6.29 = {
 	  birth = yes
 	}
@@ -168,7 +168,7 @@
 	name = "Carlos" # Carlos, Prince of Asturias
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100273
 	mother = 100281
 	trait = "inbred"
@@ -184,8 +184,8 @@
 	name = "Isabella Clara Eugenia"
 	female = yes
 	religion = catholic
-	culture = castilian
-	dynasty = 100006
+	culture = castillan
+	dynasty = 7
 	father = 100273
 	mother = 100342
 	1566.8.12 = {
@@ -200,8 +200,8 @@
 	name = "Catalina Micaela" # Catalina Micaela of Spain
 	female = yes
 	religion = catholic
-	culture = castilian
-	dynasty = 100006
+	culture = castillan
+	dynasty = 7
 	father = 100273
 	mother = 100342
 	1567.10.10 = {
@@ -216,7 +216,7 @@
 	name = "Ramon" # Ramon Perellós
 	religion = catholic
 	culture = castillan
-	dynasty = 100090
+	dynasty = 90
 	1637.9.17 = {
 	  birth = yes  
 	}
@@ -226,7 +226,7 @@
 	name = "Pedro Manuel" # Pedro Manuel Colón de Portugal
 	religion = catholic
 	culture = castillan
-	dynasty = 100091
+	dynasty = 91
 	1651.12.25 = {
 	  birth = yes  
 	}
@@ -236,7 +236,7 @@
 	name = "Luis Francisco" # Luis Francisco de la Cerda, 9th Duke of Medinaceli
 	religion = catholic
 	culture = castillan
-	dynasty = 100092
+	dynasty = 92
 	1660.8.2 = {
 	  birth = yes  
 	}
@@ -262,7 +262,7 @@
 	name = "Juan José"  
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100052
 	mother = 100406
 	trait = "bastard"  
@@ -279,7 +279,7 @@
 	name = "Baltasar Carlos" # Balthasar Charles, Prince of Asturias
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100052
 	mother = 100053
 	1629.10.17 = {
@@ -292,7 +292,7 @@
 
   100557 = {
 	name = "Fernando" # Cardinal-Infante Ferdinand of Austria
-	dynasty = 100006
+	dynasty = 7
 	father = 100102  
 	mother = 100103
 	religion = catholic
@@ -316,7 +316,7 @@
 
   100575 = {
 	name = "Fernando" # Fernando de Moncada y Gaetano
-	dynasty = 100161
+	dynasty = 148
 	religion = catholic
 	culture = castillan
 	1646.10.24 = {
@@ -344,7 +344,7 @@
 
   100578 = {
 	name = "test"
-	dynasty = 100162
+	dynasty = 149
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -354,7 +354,7 @@
 
   100579 = {
 	name = "Diego"
-	dynasty = 100163
+	dynasty = 150
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -364,7 +364,7 @@
 
   100580 = {
 	name = "Gabriel Suárez"
-	dynasty = 100164
+	dynasty = 151
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -374,7 +374,7 @@
 
   100585 = {
 	name = "Nicolás Eugenio"
-	dynasty = 100168
+	dynasty = 155
 	religion = catholic
 	culture = castillan
 	1667.1.1 = {
@@ -384,7 +384,7 @@
   
   100590 = {
 	name = "José Sarmiento" # José Sarmiento de Valladares, 1st Duke of Atrisco
-	dynasty = 100173
+	dynasty = 160
 	religion = catholic
 	culture = castillan
 	1643.5.4 = {
@@ -397,7 +397,7 @@
 	female = yes
 	religion = catholic
 	culture = castillan
-	dynasty = 100006
+	dynasty = 7
 	father = 100102  
 	mother = 100103
 	1601.9.22 = {

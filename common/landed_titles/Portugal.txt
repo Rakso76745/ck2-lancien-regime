@@ -81,8 +81,6 @@ e_portugal = {
           255
           255
         }
-        holy_site = protestant
-        holy_site = reformed
         holy_site = catholic
         b_santiago = {
         }

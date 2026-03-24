@@ -3,7 +3,7 @@
 	female = yes
 	religion = catholic
 	culture = breton
-	dynasty = 100095
+	dynasty = 95
 	1477.1.25 = {
 		birth = yes    
 	}    

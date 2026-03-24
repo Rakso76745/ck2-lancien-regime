@@ -1,6 +1,6 @@
 100553 = {
 	name = "Abdallah"
-	dynasty = 100142
+	dynasty = 139
 	religion = sunni
 	culture = nubian
 	1680.1.1 = {

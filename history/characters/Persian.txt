@@ -2,7 +2,7 @@
 	name = "Soltan Hoseyn" 
 	religion = shiite
 	culture = persian
-	dynasty = 100076
+	dynasty = 76
 	1668.1.1 = {
 	  birth = yes          
 	}   

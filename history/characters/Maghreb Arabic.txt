@@ -2,7 +2,7 @@
 	name = "Ismail Ibn Sharif"  
 	religion = sunni
 	culture = maghreb_arabic
-	dynasty = 100103
+	dynasty = 103
 	1645.1.1 = {
 	  birth = yes    
 	 } 

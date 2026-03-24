@@ -2,7 +2,7 @@
 	name = "Grigalius Antanas"
 	religion = catholic
 	culture = lithuanian
-	dynasty = 100020
+	dynasty = 21
 	1654.6.23 = {
 	  birth = yes   
 	}
