@@ -1,7 +1,7 @@
 title = c_gorlitz
 max_settlements = 3
 b_gorlitz = tribal
-culture = sorbian
+culture = german
 religion = slavic_pagan
 800.1.1 = {
   b_gorlitz = castle
