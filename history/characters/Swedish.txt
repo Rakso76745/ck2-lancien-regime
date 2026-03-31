@@ -67,8 +67,6 @@
 	religion = catholic
 	culture = swedish
 	dynasty = 49
-	father = 100301
-	mother  = 100302
 	1566.6.20 = {
 	  birth = yes 
 	}

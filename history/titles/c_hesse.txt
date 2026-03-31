@@ -1,4 +1,10 @@
+1637.9.21 = {
+  liege = d_hesse
+  holder = 100623
+}
+1663.7.16 = {
+  holder = 100625
+}
 1670.11.21 = {
-  liege = e_hre
   holder = 100123
 }

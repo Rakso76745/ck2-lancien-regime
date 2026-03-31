@@ -1,4 +1,4 @@
-1682.5.7 = {
-  liege = d_lithuanians
-  holder = 100061
+1697.9.15 = {
+  liege = 0
+  holder = 0
 }

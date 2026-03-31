@@ -16,7 +16,6 @@ christian = {
       GOD_GOD
       GOD_THE_LORD
       GOD_JESUS
-      GOD_THE_BLESSED_VIRGIN
     }
     evil_god_names = {
       SATAN
@@ -57,7 +56,6 @@ christian = {
       GOD_GOD
       GOD_THE_LORD
       GOD_JESUS
-      GOD_THE_BLESSED_VIRGIN
     }
     evil_god_names = {
       SATAN
@@ -67,6 +65,7 @@ christian = {
     character_modifier = {
       stewardship = 1
     }
+    hard_to_convert = yes
 		can_excommunicate = no
     can_call_crusade = no
     priests_can_inherit = no
@@ -104,7 +103,10 @@ christian = {
       SATAN
       LUCIFER
       THE_DEVIL
-    }
+		}
+    character_modifier = {
+			reformed_opinion = 5
+		}	
 		investiture = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
@@ -118,5 +120,29 @@ christian = {
     intermarry = catholic  
     intermarry = reformed    
     intermarry = protestant    
+}
+
+	old_believer = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 7
+		
+		color = { 0.7 0 0.2 }
+		parent = orthodox
+
+    unit_modifier = {
+      land_morale = 0.15
+    }
+		
+		crusade_name = CRUSADE
+
+		can_retire_to_monastery = yes
+    hard_to_convert = yes
+
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+		
+    intermarry = orthodox
   }
 }

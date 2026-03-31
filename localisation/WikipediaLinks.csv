@@ -23,6 +23,7 @@ W_L_100065;https://en.wikipedia.org/wiki/Mary_Grey,_Countess_of_Kent ;;;;;;;;;;;
 W_L_100067;https://en.wikipedia.org/wiki/Henry_Grey,_1st_Duke_of_Kent ;;;;;;;;;;;;x
 W_L_100068;https://en.wikipedia.org/wiki/Jemima_Yorke,_2nd_Marchioness_Grey ;;;;;;;;;;;;x
 W_L_100069;https://en.wikipedia.org/wiki/Anthony_Grey,_Earl_of_Harold ;;;;;;;;;;;;x
+W_L_100077;https://en.wikipedia.org/wiki/William_Stanley,_9th_Earl_of_Derby ;;;;;;;;;;;;x
 W_L_100080;https://en.wikipedia.org/wiki/William_Cavendish,_1st_Duke_of_Devonshire ;;;;;;;;;;;;x
 W_L_100081;https://en.wikipedia.org/wiki/John_Somers,_1st_Baron_Somers ;;;;;;;;;;;;x
 W_L_100082;https://en.wikipedia.org/wiki/Aubrey_de_Vere,_20th_Earl_of_Oxford ;;;;;;;;;;;;x
@@ -84,6 +85,9 @@ W_L_100492;https://en.wikipedia.org/wiki/William_Cavendish,_3rd_Duke_of_Devonshi
 W_L_100493;https://en.wikipedia.org/wiki/Wriothesley_Russell,_2nd_Duke_of_Bedford ;;;;;;;;;;;;x
 W_L_100498;https://en.wikipedia.org/wiki/Charles_Montagu,_1st_Duke_of_Manchester ;;;;;;;;;;;;x
 W_L_100597;https://en.wikipedia.org/wiki/George_Compton,_4th_Earl_of_Northampton ;;;;;;;;;;;;x
+W_L_100615;https://en.wikipedia.org/wiki/Diana_Beauclerk,_Duchess_of_St_Albans ;;;;;;;;;;;;x
+W_L_100616;https://en.wikipedia.org/wiki/Charles_Beauclerk,_2nd_Duke_of_St_Albans ;;;;;;;;;;;;x
+W_L_100617;https://en.wikipedia.org/wiki/Lord_William_Beauclerk ;;;;;;;;;;;;x
 
 #### FRENCH ####
 W_L_100036;https://en.wikipedia.org/wiki/Henrietta_Maria_of_France ;;;;;;;;;;;;x
@@ -321,6 +325,14 @@ W_L_100539;https://en.wikipedia.org/wiki/Louise_of_Mecklenburg-G%C3%BCstrow ;;;;
 W_L_100611;https://en.wikipedia.org/wiki/Erdmuthe_Sophie_of_Saxony ;;;;;;;;;;;;x
 W_L_100612;https://en.wikipedia.org/wiki/Sophie_Luise_of_W%C3%BCrttemberg ;;;;;;;;;;;;x
 W_L_100613;https://en.wikipedia.org/wiki/George_William,_Margrave_of_Brandenburg-Bayreuth ;;;;;;;;;;;;x
+W_L_100618;https://en.wikipedia.org/wiki/Johanna_Elisabeth_of_Baden-Durlach ;;;;;;;;;;;;x
+W_L_100619;https://en.wikipedia.org/wiki/Friedrich_Ludwig,_Hereditary_Prince_of_W%C3%BCrttemberg ;;;;;;;;;;;;x
+W_L_100623;https://en.wikipedia.org/wiki/William_VI,_Landgrave_of_Hesse-Kassel ;;;;;;;;;;;;x
+W_L_100624;https://en.wikipedia.org/wiki/Princess_Hedwig_Sophie_of_Brandenburg ;;;;;;;;;;;;x
+W_L_100625;https://en.wikipedia.org/wiki/William_VII,_Landgrave_of_Hesse-Kassel ;;;;;;;;;;;;x
+W_L_100626;https://en.wikipedia.org/wiki/Philip,_Landgrave_of_Hesse-Philippsthal ;;;;;;;;;;;;x
+W_L_100627;https://en.wikipedia.org/wiki/Elisabeth_Henriette_of_Hesse-Kassel ;;;;;;;;;;;;x
+W_L_100628;https://en.wikipedia.org/wiki/Princess_Luise_Dorothea_of_Prussia ;;;;;;;;;;;;x
 
 ### CASTILLAN ###
 W_L_100042;https://en.wikipedia.org/wiki/Maria_Theresa_of_Spain ;;;;;;;;;;;;x
@@ -466,3 +478,6 @@ W_L_100540;https://en.wikipedia.org/wiki/Feodosia_Alekseyevna_of_Russia ;;;;;;;;
 
 #### SERBIAN ####
 W_L_100545;https://en.wikipedia.org/wiki/Danilo_I,_Metropolitan_of_Cetinje ;;;;;;;;;;;;x
+
+#### BAMAR ####
+W_L_100620;https://en.wikipedia.org/wiki/Sanay_Min ;;;;;;;;;;;;x

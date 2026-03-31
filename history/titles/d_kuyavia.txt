@@ -1,4 +1,4 @@
 1697.9.15 = {
-  liege = e_commonwealth
-  holder = 100061
+  liege = 0
+  holder = 0
 }

@@ -1,4 +1,8 @@
-1697.9.15 = {
-  liege = k_poland
+1695.2.6 = {
+  liege = e_arabia
+  holder = 100057
+}
+1699.1.26 = { # Treaty of Karlowitz
+  liege = e_commonwealth
   holder = 100061
 }

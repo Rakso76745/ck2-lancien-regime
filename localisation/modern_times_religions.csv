@@ -7,5 +7,7 @@ reformed;Reformed;;;;;;;;;;;;;x
 reformed_DESC;Reformed tradition, Reformed Protestantism, Reformed Christianity, or simply Reformed, is a major branch of Protestantism that follows the Christian theological tradition and forms of Christian practice set down by John Calvin and other Reformation-era theologians. It emphasizes the sovereignty of God and the authority of the Bible.;;;;;;;;;;;;;x
 create_protestant_papacy;Establish Ecumenical Primate in Rome;;;;;;;;;;;;;x
 create_protestant_papacy_desc;With Rome under Protestant control, pious Protestant ruler can establish Ecumenical Primate as leader of Protestants living in countries without established national churches.;;;;;;;;;;;;;x
-jansenism;Jansenism;;;;;;;;;;;;;x
-jansenism_DESC;Jansenism is modern theological movement within Catholicism, primarily active in the Kingdom of France, that arose in an attempt to reconcile the theological concepts of free will and divine grace;;;;;;;;;;;;;x
+jansenism;Jansenist;;;;;;;;;;;;;x
+jansenism_DESC;Jansenism is modern theological movement within Catholicism, primarily active in the Kingdom of France, that arose in an attempt to reconcile the theological concepts of free will and divine grace.;;;;;;;;;;;;;x
+old_believer;Old Believer;;;;;;;;;;;;;x
+old_believer_DESC;Old Believers or Old Ritualists is the common term for numerous religious communities, which maintain the old liturgical and ritual practices of the Russian Orthodox Church, as they were before the reforms of Patriarch Nikon of Moscow between 1653 and 1656. The old rite and its followers were anathematized in 1667, and Old Belief gradually emerged from the resulting schism.;;;;;;;;;;;;;x

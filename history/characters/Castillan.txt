@@ -307,6 +307,7 @@
 
   100574 = {
 	name = "Baltasar Manrique" # Baltasar Manrique de Mendoza de los Cobos y Luna
+	dynasty = 181
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {
@@ -325,7 +326,8 @@
   }
 
   100576 = {
-	name = "Alfonso Perez de Guzmán y Marañon"
+	name = "Alfonso Perez" # Alfonso Perez de Guzmán y Marañon
+	dynasty = 182
 	religion = catholic
 	culture = castillan
 	1650.1.1 = {

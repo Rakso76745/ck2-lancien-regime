@@ -7,6 +7,7 @@
   holder = 100049
 }
 1698.1.1 = {
+  vice_royalty = yes
   de_jure_liege = e_germany
   holder = 100366
 }

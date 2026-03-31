@@ -1,0 +1,9 @@
+100620 = {
+	name = "Sanay Min"
+	religion = buddhist
+	culture = bamar
+	dynasty = 180
+	1673.4.1 = {
+	  birth = yes   
+	} 
+  }

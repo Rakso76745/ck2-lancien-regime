@@ -109,6 +109,9 @@
 	1657.7.11 = {
 		birth = yes
 	} 
+	1679.1.1 = {
+		add_spouse=100627
+	}
 	1684.10.8 = {
 		add_spouse=100222
 	}
@@ -317,7 +320,7 @@
 	religion = protestant
 	culture = german
 	dynasty = 38
-	1682.4.6 = {
+	1664.11.18 = {
 		birth = yes          
 	}
 	1687.8.10 = {
@@ -484,7 +487,9 @@
 	name = "Karl" # Charles I, Landgrave of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
+	father = 100623
+	mother = 100624
 	1654.8.3 = {
 		birth = yes          
 	}
@@ -497,7 +502,7 @@
 	name = "Friedrich" # Frederick I of Sweden
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
 	father = 100123
 	mother = 100122
 	1676.4.28 = {
@@ -510,7 +515,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
 	father = 100123
 	mother = 100122
 	1678.7.16 = {
@@ -523,7 +528,7 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
 	father = 100123
 	mother = 100122
 	1688.2.7 = {
@@ -535,7 +540,7 @@
 	name = "Maximilian" # Maximilian of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
 	father = 100123
 	mother = 100122
 	1689.5.28 = {
@@ -547,7 +552,7 @@
 	name = "Georg Karl" # George Charles of Hesse-Kassel
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
 	father = 100123
 	mother = 100122
 	1691.1.8 = {
@@ -736,7 +741,7 @@
 	female = yes
 	religion = protestant
 	culture = german
-	dynasty = 50
+	dynasty = 57
 	1635.3.20 = {
 		birth = yes   
 	}
@@ -928,7 +933,7 @@
    		}
 	}
 	1693.3.8 = {
-		birth = yes
+		death = yes
 	}
 }
 
@@ -1142,7 +1147,9 @@
 	female = yes
 	religion = reformed
 	culture = german
-	dynasty = 40
+	dynasty = 57
+	father = 100623
+	mother = 100624
 	1650.4.27 = {
 		birth = yes
 	}
@@ -1535,7 +1542,10 @@
 	dynasty = 58
 	1676.9.18 = {
 		birth = yes
-	 }
+	}
+	1697.1.1 = {  
+		add_spouse = 100618
+	}
 }
 
 100248 = {
@@ -1562,15 +1572,15 @@
 	}
 }
 
-100250 = {
-	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
-	religion = protestant
-	culture = german
-	dynasty = 20
-	1664.3.12 = {
-		birth = yes
-	}
-}
+#100250 = { 
+#	name = "Moritz Wilhelm" # Moritz Wilhelm, Duke of Saxe-Zeitz
+#	religion = protestant
+#	culture = german
+#	dynasty = 20
+#	1664.3.12 = {
+#		birth = yes
+#	}
+#}
 
 100251 = {
 	name = "Johann Philipp" # Johann Philipp von Greifenclau zu Vollraths
@@ -1737,6 +1747,7 @@
 
 100275 = {
 	name = "Johanna" # Joanna of Austria, Princess of Portugal
+	female = yes
 	religion = catholic
 	culture = german
 	dynasty = 7
@@ -2663,7 +2674,7 @@
 	name = "Georg" # George of Hesse-Darmstadt
 	religion = protestant
 	culture = german
-	dynasty = 50
+	dynasty = 57
 	trait = "skilled_tactician"
 	1669.4.25 = {
 		birth = yes    
@@ -2849,7 +2860,7 @@
 	}
   }
 
-  100598 = {
+100598 = {
 	name = "Johann"
 	dynasty = 166
 	religion = protestant
@@ -2859,7 +2870,7 @@
 	}
   }
   
-  100600 = {
+100600 = {
 	name = "Karl"
 	religion = catholic
 	culture = german
@@ -2871,7 +2882,7 @@
 	} 
 }
 
-  100611 = {
+100611 = {
 	name = "Erdmuthe Sophie" # Erdmuthe Sophie of Saxony
 	female = yes
 	dynasty = 20
@@ -2885,7 +2896,7 @@
 	} 
 }
 
-  100612 = {
+100612 = {
 	name = "Sophie Luise" # Erdmuthe Sophie of Saxony
 	female = yes
 	dynasty = 58
@@ -2896,7 +2907,7 @@
 	} 
 }
 
-  100613 = {
+100613 = {
 	name = "Georg Wilhelm" # George William, Margrave of Brandenburg-Bayreuth
 	dynasty = 17
 	religion = protestant
@@ -2904,6 +2915,116 @@
 	father = 100132
 	mother = 100612
 	1678.11.26 = {
+	  birth = yes
+	} 
+}
+
+100618 = {
+	name = "Johanna Elisabeth" # Johanna Elisabeth of Baden-Durlach
+	female = yes
+	dynasty = 59
+	religion = protestant
+	culture = german
+	1680.10.3 = {
+	  birth = yes
+	} 
+}
+
+100619 = {
+	name = "Friedrich Ludwig" # Friedrich Ludwig, Hereditary Prince of Württemberg
+	dynasty = 58
+	religion = protestant
+	culture = german
+	father = 100247
+	mother = 100618
+	1698.12.14 = {
+	  birth = yes
+	} 
+}
+
+100623 = {
+	name = "Wilhelm" # William VI, Landgrave of Hesse-Kassel
+	dynasty = 57
+	religion = reformed
+	culture = german
+	give_nickname = nick_the_just
+	1629.5.23 = {
+	  birth = yes
+	}
+	1649.7.9 = {
+	 add_spouse = 100624
+	}    
+	1663.7.16 = {
+	  death = yes
+	} 
+}
+
+100624 = {
+	name = "Hedwig Sophie" # Princess Hedwig Sophie of Brandenburg
+	female = yes
+	dynasty = 17
+	religion = reformed
+	culture = german
+	1623.7.14 = {
+	  birth = yes
+	}   
+	1683.6.26 = {
+	  death = yes
+	} 
+}
+
+100625 = {
+	name = "Wilhelm" # William VII, Landgrave of Hesse-Kassel
+	dynasty = 57
+	religion = reformed
+	culture = german
+	father = 100623
+	mother = 100624
+	1651.6.21 = {
+	  birth = yes
+	}   
+	1670.11.21 = {
+	  death = yes
+	} 
+}
+
+100626 = {
+	name = "Philipp" # Philip, Landgrave of Hesse-Philippsthal
+	dynasty = 57
+	religion = reformed
+	culture = german
+	father = 100623
+	mother = 100624
+	1655.12.14 = {
+	  birth = yes
+	} 
+}
+
+100627 = {
+	name = "Elisabeth Henriette" # Elisabeth Henriette of Hesse-Kassel
+	female = yes
+	dynasty = 57
+	religion = reformed
+	culture = german
+	father = 100623
+	mother = 100624
+	1661.11.18 = {
+	  birth = yes
+	}  
+	1683.7.7 = {
+	  death = yes
+	} 
+}
+
+100628 = {
+	name = "Luise" # Princess Luise Dorothea of Prussia
+	female = yes
+	dynasty = 17
+	religion = reformed
+	culture = german
+	father = 100056
+	mother = 100627 
+	1680.9.29 = {
 	  birth = yes
 	} 
 }

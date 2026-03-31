@@ -156,9 +156,16 @@
 	}
 }
 16 ={
-  name = "Savoia"
+  name = "di Savoia"
   culture = "italian"
   religion="catholic"
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 40 0 0 0 			}
+		religion="catholic"
+	}
 }
 17 ={
 	name="von Hohenzollern"
@@ -196,18 +203,17 @@
   name = "Wettin"
   culture = "german"
   religion="protestant"
-  used_for_random=no
-    coat_of_arms = {
-        template = 0
-        layer = {
-            texture = 0
-            texture_internal = 8
-            emblem = 0
-            color = 0
-            color = 5
-            color = 13
-        }
-    }
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 21 ={
   name = "Oginskis"
@@ -285,7 +291,7 @@
   religion="catholic"
 }
 36 ={
-  name = "La Grange d'Arquien"
+  name = "la Grange d'Arquien"
   culture = "french"
   religion="catholic"
 }
@@ -298,17 +304,28 @@
   name = "Mecklenburg"
   culture = "german"
   religion="protestant"
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0s
+		}
+	}	
 }
 39 ={
   name = "Kettler"
   culture = "german"
   religion="protestant"
 }
-40 ={
-  name = "Hesse-Kassel"
-  culture = "german"
-  religion="protestant"
-}
+#40 ={
+#  name = "Hesse-Kassel"
+#  culture = "german"
+#  religion="protestant"
+#}
 41 ={
   name = "Le Tellier"
   culture = "french"
@@ -334,6 +351,17 @@
   name = "Ascania"
   culture = "german"
   religion="protestant"
+    coat_of_arms = {
+        template = 0
+        layer = {
+            texture = 0
+            texture_internal = 8
+            emblem = 0
+            color = 0
+            color = 5
+            color = 13
+        }
+    }
 }
 44 ={
   name = "Mughal"
@@ -384,11 +412,11 @@
   culture = "swedish"
   religion="protestant"
 }
-50 ={
-  name = "Hesse-Darmstadt"
-  culture = "german"
-  religion="protestant"
-}
+#50 ={
+#  name = "Hesse-Darmstadt"
+#  culture = "german"
+#  religion="protestant"
+#}
 51 ={
   name = "Gonzaga"
   culture = "italian"
@@ -423,6 +451,17 @@
   name = "Hesse"
   culture = "german"
   religion="protestant"
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0s
+		}
+	}	
 }
 58 ={
   name = "Württemberg"
@@ -431,7 +470,7 @@
 	used_for_random=no
 }
 59 ={
-  name = "Zahringen"
+  name = "Zähringer"
   culture = "german"
   religion="catholic"
 	used_for_random=no
@@ -887,7 +926,7 @@
   religion = "catholic"
 }
 150 = {
-  name = "Córdoba Lasso de la Vega"
+  name = "de Córdoba"
   culture = "castillan"
   religion="catholic"
 }
@@ -996,11 +1035,11 @@
            }
       }
 }
-165 = {
-  name = "Compton"
-  culture = "english"
-  religion="protestant"
-}
+#165 = {
+#  name = "Compton"
+#  culture = "english"
+#  religion="protestant"
+#}
 166 = {
   name = "Westken"
   culture = "german"
@@ -1070,4 +1109,19 @@
   name = "Kirke"
   culture = "english"
   religion="protestant"
+}
+180 = {
+  name = "Toungoo"
+  culture = "bamar"
+  religion="buddhist"
+}
+181 = {
+  name = "de Mendoza"
+  culture = "castillan"
+  religion="catholic"
+}
+182 = {
+  name = "de Guzmán"
+  culture = "castillan"
+  religion="catholic"
 }

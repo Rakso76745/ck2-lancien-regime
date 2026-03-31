@@ -3,7 +3,7 @@
 	religion = sunni
 	culture = hindustani
 	dynasty = 44
-	1618.1.1 = {
+	1618.11.3 = {
 	  birth = yes          
 	}   
   }

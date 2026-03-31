@@ -1,4 +1,4 @@
 1697.9.15 = {
-  liege = k_poland
+  liege = e_commonwealth
   holder = 100061
 }

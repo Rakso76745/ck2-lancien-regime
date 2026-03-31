@@ -1,5 +1,11 @@
-1694.4.27 = {
+1680.8.22 = {
   de_jure_liege = d_saxony
   liege = d_saxony
+  holder = 100133
+}
+1691.9.12 = {
+  holder = 100135
+}
+1694.4.27 = {
   holder = 100061
 }

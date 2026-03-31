@@ -190,9 +190,9 @@
 
 100024 = {
 	name = "Henry" # Henry Compton
+	dynasty = 9
 	religion = protestant
 	culture = english
-	dynasty = 9
 	1632.1.1 = {
 		birth = yes
 	}
@@ -260,9 +260,6 @@
 		effect = { remove_lover = 100442} 
 		effect={c_100453={add_lover=ROOT}}    
 	}  
-	1685.1.1={
-		religion="catholic"
-	}    
 	1685.2.6 = {
 		death = yes    
 	}
@@ -1267,7 +1264,7 @@
 	religion = protestant
 	culture = english
 	dynasty = 117
-	father = 100118
+	father = 100483
 	mother = 100484
 	1643.1.1 = {
 		birth = yes
@@ -1413,7 +1410,7 @@
 
 100597 = {
 	name = "George" # George Compton, 4th Earl of Northampton
-	dynasty = 165
+	dynasty = 9
 	religion = protestant
 	culture = english
 	1664.10.18 = {

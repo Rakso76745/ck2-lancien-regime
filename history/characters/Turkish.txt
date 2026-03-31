@@ -1,11 +1,14 @@
 100057 = {
-	name = "Mustafa II"
+	name = "Mustafa" # Mustafa II
 	dynasty = 45
 	religion = sunni
 	culture = turkish
 	trait="poet"
 	1660.2.6 = {
 	  birth = yes   
+	}
+	1695.1.1={
+	  effect={add_consort=c_100622}
 	}
   }
 
@@ -54,5 +57,27 @@
         effect = {
             give_job_title = job_chancellor
         }
+    }
+}
+
+  100621 = {
+	name = "Sebkati Saliha" # Saliha Sultan
+	female = yes
+	religion = sunni
+	culture = turkish
+	1680.1.1 = {
+	  birth = yes
+    }
+}
+
+  100622 = {
+	name = "Mahmud" # Mahmud I
+	dynasty = 45
+	religion = sunni
+	culture = turkish
+	father = 100057
+	mother = 100621
+	1696.8.2 = {
+	  birth = yes
     }
 }
