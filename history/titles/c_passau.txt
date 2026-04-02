@@ -6,5 +6,8 @@
 }
 1658.7.18 = {
   liege = d_bavaria
+  holder = 100317
+}
+1679.5.26 = {
   holder = 100088
 }

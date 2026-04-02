@@ -1,5 +1,8 @@
-1698.1.23 = {
+1692.12.19 = {
   de_jure_liege = d_brunswick
   liege = d_brunswick
+  holder = 100220
+}
+1698.1.23 = {
   holder = 100058
 }
