@@ -1,15 +1,15 @@
-namespace = ck2expanded
+namespace = lar
 
 narrative_event = {
-	id = ck2expanded.0003
-	title = EVTTITLEck2expanded.0003
-	desc = EVTDESCck2expanded.0003
+	id = lar.01
+	title = EVTTITLElar.01
+	desc = EVTDESClar.01
 	picture = GFX_evt_throne_room
 	border = GFX_event_narrative_frame_diplomacy
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTION1ck2expanded.0003
+		name = EVTOPTION1lar.01
 		hidden_tooltip = {
 			clr_character_flag = event_pause
 		}		
@@ -26,6 +26,71 @@ narrative_event = {
 					de_jure_liege = e_britannia
 				}
 			}
+		}
+	}
+}
+
+character_event = {
+	id = lar.02
+	title = EVTTITLElar.02
+	desc = EVTDESClar.02
+	picture = GFX_evt_charlesii # Need to find a picture 
+	is_triggered_only = yes
+	
+	
+	trigger = {
+		current_heir = { NOT = { dynasty = ROOT } }
+	}
+	
+	option = {
+		name = EVTOPTIONAlar.02 # support Phillip V
+		
+		trigger = {
+			trait = inbred
+			has_landed_title = e_spain
+		}
+		
+		transfer_scaled_wealth = { to = c_100047 value = all }
+		
+		any_artifact = {
+			transfer_artifact = {
+				from = c_100049
+				to = c_100047
+			}
+		}
+		
+		abdicate_to = c_100047
+		
+		set_player_character = c_100047
+
+		c_100049 = {
+			death = yes
+		}
+	}
+	
+	option = {
+		name = EVTOPTIONBlar.02 # support Charles III
+
+		trigger = {
+			trait = inbred
+			has_landed_title = e_spain
+		}
+		
+		transfer_scaled_wealth = { to = c_100185 value = all }
+		
+		any_artifact = {
+			transfer_artifact = {
+				from = c_100049
+				to = c_100185
+			}
+		}
+
+		abdicate_to = c_100185
+		
+		set_player_character = c_100185
+		
+		c_100049 = {
+			death = yes
 		}
 	}
 }
