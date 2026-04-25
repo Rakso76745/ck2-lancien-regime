@@ -4,6 +4,7 @@ e_portugal = {
 	color2={ 220 220 220 }
 
 	capital = 160 # Lisboa
+	name_tier = king
   k_spanish_galicia = {
     color = {
       255
