@@ -1,15 +1,15 @@
-namespace = ck2expanded
+namespace = lar
 
 narrative_event = {
-	id = ck2expanded.0003
-	title = EVTTITLEck2expanded.0003
-	desc = EVTDESCck2expanded.0003
+	id = lar.01
+	title = EVTTITLElar.01
+	desc = EVTDESClar.01
 	picture = GFX_evt_throne_room
 	border = GFX_event_narrative_frame_diplomacy
 	is_triggered_only = yes
 	
 	option = {
-		name = EVTOPTION1ck2expanded.0003
+		name = EVTOPTION1lar.01
 		hidden_tooltip = {
 			clr_character_flag = event_pause
 		}		
@@ -31,8 +31,10 @@ narrative_event = {
 }
 
 character_event = {
-	id = lar.1
-	desc = "Nothing"
+	id = lar.02
+	title = EVTTITLElar.02
+	desc = EVTDESClar.02
+	picture = GFX_evt_charlesii # Need to find a picture 
 	is_triggered_only = yes
 	
 	
@@ -41,7 +43,7 @@ character_event = {
 	}
 	
 	option = {
-		name = "supportPhillipV"
+		name = EVTOPTIONAlar.02 # support Phillip V
 		
 		trigger = {
 			trait = inbred
@@ -67,7 +69,7 @@ character_event = {
 	}
 	
 	option = {
-		name = "supportCharlesIII"
+		name = EVTOPTIONBlar.02 # support Charles III
 
 		trigger = {
 			trait = inbred
