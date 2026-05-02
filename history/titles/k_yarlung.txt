@@ -1,4 +1,4 @@
 1700.1.1 = {
   liege = e_tibet
-  holder = 100547
+  holder = 320000 # Tenzin Wangchuk Khan
 }

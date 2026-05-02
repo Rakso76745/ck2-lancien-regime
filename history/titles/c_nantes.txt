@@ -1,4 +1,9 @@
+1488.9.9 = {
+	liege = d_brittany
+	holder = 308000 # Anne of Montfort
+}
+1514.1.9 = { holder = 0 }
 1643.5.14 = {
-  holder = 100041
-  liege = e_france
+	holder = 100041
+	liege = e_france
 }

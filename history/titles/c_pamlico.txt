@@ -1,4 +1,4 @@
 1699.1.1 = {
-  holder = 100594
-  liege = d_north_carolina
+	holder = 300004 # Henderson Walker
+	liege = d_north_carolina
 }

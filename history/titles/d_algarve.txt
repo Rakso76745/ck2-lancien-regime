@@ -6,7 +6,10 @@
   holder = 100280
 }
 1557.6.11 = {
-  holder = 100282
+	holder = 312009 # Don Carlos
+}
+1568.7.24 = {
+	holder = 0
 }
 1578.8.4 = {
   holder = 100283
@@ -15,10 +18,10 @@
   holder = 100270
 }
 1598.9.13 = {
-  holder = 100102
+  holder = 312005 # Felipe III
 }
 1621.3.31 = {
-  holder = 100052
+  holder = 312002 # Felipe IV
 }
 1683.9.12 = {
   holder = 100137

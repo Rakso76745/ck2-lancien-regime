@@ -15,7 +15,7 @@
   liege = k_denmark
 }
 1699.8.25 = {
-  holder = 100021
+  holder = 318001 # Frederik IV
 }
 1700.1.1 = {
   vice_royalty = no

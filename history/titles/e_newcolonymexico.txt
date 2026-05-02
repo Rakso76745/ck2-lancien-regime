@@ -1,5 +1,5 @@
 1696.12.18 = {
-  holder = 100590
+  holder = 312026 # Jose Sarmiento de Valladares
 	vice_royalty = yes
   set_tribute_suzerain = { who = e_spain type = permanent }
 }

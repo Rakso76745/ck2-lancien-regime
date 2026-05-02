@@ -1,4 +1,4 @@
 1699.1.1 = {
   liege = d_aragon
-  holder = 100574
+  holder = 312019 # Baltasar Manrique de Mendoza
 }

@@ -1,4 +1,4 @@
 1696.12.18 = {
-  holder = 100590
+  holder = 312026 # Jose Sarmiento de Valladares
   liege = e_newcolonymexico
 }

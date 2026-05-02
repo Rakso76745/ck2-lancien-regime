@@ -1,6 +1,6 @@
 1699.1.1 = {
   liege = e_spain
-  holder = 100575
+  holder = 312020 # Fernando de Moncada
 }
 1700.1.1 = {
   vice_royalty = yes

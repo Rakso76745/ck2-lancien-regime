@@ -175,7 +175,7 @@
 }
 1527.11.3 = {
   set_tribute_suzerain = { who = e_hre type = permanent }
-  holder = 100277
+  holder = 312031 # Ferdinand I
 }
 1681.6.13 = {
   holder = 100362

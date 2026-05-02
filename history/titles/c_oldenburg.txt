@@ -1,10 +1,121 @@
-1648.7.6 = {
-  liege = k_denmark
-  holder = 100196
+762.1.1 = {
+	liege = d_angria
+}
+762.1.1 = {
+	holder = 190466 # Lothar
+}
+782.1.1 = {
+	holder = 0
+}
+790.1.1 = {
+	holder = 190467 # Udo
+}
+844.1.1 = {
+	liege = d_saxony
+	holder = 7959
+}
+866.1.1 = {
+	holder = 167785 
+}
+936.1.1 = {
+	holder = 167759
+}
+1066.1.1 = {
+	holder = 20223 # Eglimar I
+}
+1108.1.1 = {
+	holder = 30068 # Eglimar II
+}
+1142.1.1 = {
+	liege = e_hre
+}
+1142.1.1 = {
+	holder = 212915 # Christian I
+}
+1167.1.2 = {
+	holder = 212910 # Moritz I
+}
+1180.9.16 = {
+	liege = e_hre
+}
+1209.1.1 = {
+	holder = 212912 # Christian II
+}
+1220.1.1 = {
+	liege = d_brunswick
+}
+1233.1.1 = {
+	holder = 30063 # Otto I
+	liege = d_brunswick
+}
+1256.7.10 = {
+	holder = 30077 # Johann I
+	liege = e_hre
+}
+1272.1.1 = {
+	holder = 462912 # Christian III
+}
+1285.1.2 = {
+	holder = 462915 # Johann II
+}
+1316.1.20 = {
+	holder = 30083 # Christian IV
+}
+1334.1.1 = {
+	holder = 462917 # Johann III
+}
+1344.1.1 = {
+	holder = 161562 # Johann IV
+}
+1356.1.1 = {
+	holder = 462910 # Konrad I
+}
+1347.1.1 = {
+	holder = 318036 # Konrad II
+}
+1368.1.1 = {
+	holder = 318034 # Christian V
+}
+1399.4.6 = {
+	holder = 318036 # Konrad II
+}
+1401.1.1 = {
+	holder = 318043 # Moritz II
+}
+1420.10.2 = {
+	holder = 318044 # Christian VI
+}
+1421.10.1 = {
+	holder = 318032 # Dietrich
+}
+1440.2.14 = {
+	holder = 318027 # Christian VII (I of Denmark)
+}
+1448.9.1 = {
+	holder = 318041 # Gerhard VI
+}
+1483.1.1 = {
+	holder = 318042 # Adolf
+}
+1500.2.17 = {
+	holder = 318040 # Johann V
+}
+1526.2.10 = {
+	holder = 318039 # Anton I (initially jointly with his brothers)
+}
+1573.1.22 = {
+	holder = 318038 # Johann VII
+}
+1603.11.2 = {
+	holder = 318037 # Anton Gunther
+}
+1667.6.19 = {
+	liege = k_denmark
+	holder = 318002 # Frederik III
 }
 1670.2.9 = {
-  holder = 100199
+	holder = 318003 # Christian V
 }
 1699.8.25 = {
-  holder = 100021
+	holder = 318001 # Frederik IV
 }

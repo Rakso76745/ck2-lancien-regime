@@ -1,4 +1,4 @@
 1687.6.30 = {
-  holder = 100089
-  liege = e_hre
+	holder = 306000 # Johann Ernst von Thun und Hohenstein
+	liege = e_hre
 }

@@ -1,0 +1,491 @@
+312000 = { # 100042
+	name = "María Teresa" # Maria Theresa of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312002 # Felipe IV
+	mother = 100053  # Elisabeth of France
+	1638.9.10 = { birth = yes }
+	1683.7.30 = { death = yes }
+}
+312001 = { # 100049
+	name = Carlos # Charles II of Spain
+	religion = catholic
+	culture = castillan
+	dna = "ceaad0h0bb0"
+	properties = "0l0b0k00000000000000000000000000000000"
+	dynasty = 51 # von Habsburg
+	father = 312002 # Felipe IV
+	mother = 100054 # Mariana of Austria
+	fertility = 0.1
+	health = 1  
+	trait = weak
+	trait = inbred
+	1661.11.6 = { birth = yes }
+	1679.8.30 = { add_spouse = 100138 } # Marie Louise d'Orleans
+	1690.5.14 = { add_spouse = 100165 } # Maria Anna von Neuburg
+	1700.1.1 = {
+		effect = {
+			add_claim = c_artois
+			add_claim = c_yperen
+		}
+	}
+	1700.11.1 = { death = yes }
+}
+312002 = { # 100052
+	name = Felipe # Philip IV of Spain
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312005 # Felipe III
+	mother = 100103 # Margaret of Austria
+	1605.4.8 = { birth = yes }
+	1615.1.1 = { add_spouse = 100053 } # Elisabeth of France
+	1629.1.1 = {
+		effect = {
+			add_lover = 312015 # Maria Calderón
+		}
+	}
+	1630.1.1 = {  
+		effect = {
+			remove_lover = 312015 # Maria Calderón
+		}
+	}
+	1649.10.7 = { add_spouse = 100054 } # Mariana of Austria
+	1659.9.17 = { death = yes }
+}
+312003 = { # 100100
+	name = "Margarita Teresa" # Margaret Theresa of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312002 # Felipe IV
+	mother = 100054 # Mariana of Austria
+	1651.7.12 = { birth = yes }    
+	1673.6.12 = { death = yes } 
+}
+312004 = { # 100101
+	name = "María Ana" # Maria Anna of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312005 # Felipe III
+	mother = 100103 # Margaret of Austria
+	1606.8.18 = { birth = yes }    
+	1646.5.13 = { death = yes } 
+}
+312005 = { # 100102
+	name = Felipe # Philip III of Spain
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312028 # Felipe II
+	mother = 100288 # Anna of Austria
+	1578.4.14 = { birth = yes }
+	1599.4.18 = { add_spouse = 100103 } # Margaret of Austria
+	1621.3.31 = { death = yes } 
+}
+312006 = { # 100265
+	name = Juana # Joanna of Castile
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 13571 # Trastamara
+	father = 312036 # Fernando II
+	mother = 312034 # Isabella I
+	1479.11.6 = { birth = yes }
+	1509.2.1 = { give_nickname = nick_the_mad }
+	1555.3.12 = { death = yes }
+}
+312007 = { # 100266
+	name = Leonor # Eleanor of Austria
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100264 # Philip the Fair
+	mother = 312006 # Juana la Loca
+	1498.11.15 = { birth = yes }
+	1558.2.25 = { death = yes }
+}
+312008 = { # 100272
+	name = Maria # Maria of Aragon, Queen of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 13571 # Trastamara
+	father = 312036 # Fernando II
+	mother = 312034 # Isabella I
+	1482.6.29 = { birth = yes }
+	1517.3.7 = { death = yes }
+}
+312009 = { # 100282
+	name = Carlos # Don Carlos, Prince of Asturias
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312028 # Felipe II
+	mother = 100281 # Maria Manuela of Portugal
+	trait = inbred
+	1545.7.8 = { birth = yes }
+	1568.7.24 = { death = yes }
+}
+312010 = { # 100343
+	name = "Isabella Clara Eugenia"
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312028 # Felipe II
+	mother = 100342 # Elisabeth of Valois
+	1566.8.12 = { birth = yes }
+	1633.12.1 = { death = yes }
+}
+312011 = { # 100344
+	name = "Catalina Micaela" # Catalina Micaela of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312028 # Felipe II
+	mother = 100342 # Elisabeth of Valois
+	1567.10.10 = { birth = yes }
+	1597.11.6 = { death = yes }
+}
+312012 = { # 100401
+	name = "Ramon" # Ramon Perellós
+	religion = catholic
+	culture = castillan
+	dynasty = 13590
+	1637.9.17 = { birth = yes }
+	1720.1.10 = { death = yes }
+}
+312013 = { # 100402
+	name = "Pedro Manuel" # Pedro Manuel Colón de Portugal
+	religion = catholic
+	culture = castillan
+	dynasty = 91 # Colón
+	1651.12.25 = { birth = yes }
+	1710.9.9 = { death = yes }
+}
+312014 = { # 100403
+	name = "Luis Francisco" # Luis Francisco de la Cerda, 9th Duke of Medinaceli
+	religion = catholic
+	culture = castillan
+	dynasty = 92 # de la Cerda
+	1660.8.2 = { birth = yes }
+	1711.1.26 = { death = yes }
+}
+312015 = { # 100406
+	name = María
+	female = yes
+	dynasty = 13686 # Calderón
+	religion = catholic
+	culture = castillan
+	1605.1.1 = { birth = yes }    
+	1642.3.1 = { add_trait = nun }
+	1678.1.1 = { death = yes }
+}
+312016 = { # 100407
+	name = "Juan José"  
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312002 # Felipe IV
+	mother = 312015 # Maria Calderón
+	trait = bastard
+	trait = skilled_tactician
+	1629.4.7 = { birth = yes }    
+	1679.9.17 = { death = yes } 
+}
+312017 = { # 100408
+	name = "Baltasar Carlos" # Balthasar Charles, Prince of Asturias
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312002 # Felipe IV
+	mother = 100053 # Elisabeth of France
+	1629.10.17 = { birth = yes }    
+	1646.10.9 = { death = yes } 
+}
+312018 = { # 100557
+	name = Fernando # Cardinal-Infante Ferdinand of Austria
+	dynasty = 51 # von Habsburg
+	father = 312005 # Felipe III
+	mother = 100103 # Margaret of Austria
+	religion = catholic
+	culture = castillan
+	1609.5.16 = { birth = yes }
+	1641.11.9 = { death = yes  }
+}
+312019 = { # 100574
+	name = "Baltasar Manrique" # Baltasar Manrique de Mendoza de los Cobos y Luna
+	dynasty = 13681 # de Mendoza
+	religion = catholic
+	culture = castillan
+	1650.1.1 = { birth = yes }
+	1715.1.1 = { death = yes }
+}
+312020 = { # 100575
+	name = Fernando # Fernando de Moncada y Gaetano
+	dynasty = 13648 # Moncada
+	religion = catholic
+	culture = castillan
+	1646.10.24 = { birth = yes }
+	1712.1.28 = { death = yes }
+}
+312021 = { # 100576
+	name = Alfonso # Alfonso Perez de Guzmán y Marañon
+	dynasty = 13687 # Perez de Guzmán
+	religion = catholic
+	culture = castillan
+	1637.1.1 = { birth = yes }
+	1708.1.1 = { death = yes }
+}
+312022 = { # 100577
+	name = Domingo # Domingo Pignatelli y Vagher/Vaez
+	dynasty = 13508 # Pignatelli
+	religion = catholic
+	culture = castillan
+	1642.1.1 = { birth = yes }
+	1703.1.1 = { death = yes }
+}
+# 100578 = {
+	# name = "test"
+	# dynasty = 149
+	# religion = catholic
+	# culture = castillan
+	# 1650.1.1 = {
+		 # birth = yes 
+	# }
+# }
+312023 = { # 100579
+	name = Diego # Diego de Córdoba Lasso de la Vega
+	dynasty = 13650 # de Cordoba
+	religion = catholic
+	culture = castillan
+	1650.1.1 = { birth = yes }
+	1720.1.1 = { death = yes }
+}
+312024 = { # 100580
+	name = "Gabriel Suárez"
+#	dynasty = 13651 # de Robles Silva
+	dynasty = 13688 # de Ribera
+	religion = catholic
+	culture = castillan
+	1650.1.1 = { birth = yes }
+	1720.1.1 = { death = yes }
+}
+312025 = { # 100585
+	name = "Nicolás Eugenio"
+	dynasty = 13655 # de Ponte y Hoyo
+	religion = catholic
+	culture = castillan
+	1667.1.1 = { birth = yes }
+	1705.5.18 = { death = yes }
+}
+312026 = { # 100590
+	name = "José Sarmiento" # José Sarmiento de Valladares, 1st Duke of Atrisco
+	dynasty = 13660 # de Valladares
+	religion = catholic
+	culture = castillan
+	1643.5.4 = { birth = yes }
+	1708.9.10 = { death = yes }
+}
+312027 = { # 100040
+	name = Ana # Anne of Austria
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 312005 # Felipe III
+	mother = 100103 # Margaret of Austria
+	1601.9.22 = { birth = yes }
+	1666.1.20 = { death = yes }
+}
+312028 = { # 100273
+	name = Felipe # Philip II of Spain
+	religion = catholic
+	# culture = german
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100270 # Carlos I / Charles V
+	mother = 100272 # Isabella of Portugal
+	1527.5.21 = { birth = yes }
+	1543.11.12 = { add_spouse = 100281 } # Maria Manuela of Portugal
+	# 1554.7.25 = { add_spouse = ??? } # Mary I Tudor of England
+	1559.1.1 = { add_spouse = 100342 } # Elisabeth of Valois
+	1570.6.4 = { add_spouse = 100288 } # Anna of Austria
+	1598.9.13 = { death = yes }
+}
+312029 = { # 100274
+	name = María # Maria of Austria, Holy Roman Empress
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100270 # Carlos I / Charles V
+	mother = 100272 # Isabella of Portugal
+	1528.6.21 = { birth = yes }
+	1603.2.26 = { death = yes }
+}
+312030 = { # 100275
+	name = Juana # Joanna of Austria, Princess of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100270 # Carlos I / Charles V
+	mother = 100272 # Isabella of Portugal
+	1535.6.24 = { birth = yes }
+	1573.9.7 = { death = yes }
+}
+312031 = { # 100277
+	name = Fernando # Ferdinand I, Holy Roman Emperor
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100264 # Philip the Fair
+	mother = 100265 # Juana la Loca
+	1503.3.10 = { birth = yes }
+	1521.5.26 = { add_spouse = 100285 } # Anna of Bohemia and Hungary
+	1564.7.25 = {
+		death = yes
+	}
+}
+312032 = { # 100279
+	name = Catalina # Catherine of Austria, Queen of Portugal
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100264 # Philip the Fair
+	mother = 100265 # Juana la Loca
+	1507.1.14 = { birth = yes }   
+	1557.6.11 = {
+		effect = { give_minor_title = title_regent }
+	}
+	1578.2.12 = { death = yes }
+}
+312033 = { # 100288
+	name = Ana # Anna of Austria, Queen of Spain
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 51 # von Habsburg
+	father = 100287 # Maximilian II
+	mother  = 100274 # Maria of Austria
+	1549.11.2 = { birth = yes }
+	1580.10.26 = { death = yes }
+}
+312034 = { # 1000001
+	name = Isabel # Isabella of Castile
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312040 # Juan II of Castile
+	mother = 1000053 # Isabella of Portugal
+	1451.4.22 = { birth = yes }
+	1494.1.1 = { give_nickname = nick_the_catholicfem }
+	1504.11.26 = { death = yes } 
+}
+312035 = { # 1000053
+	name = Isabel # Isabel of Avis
+	female = yes
+	religion = catholic
+	culture = portuguese
+	dynasty = 72 # Aviz
+	1428.1.1 = { birth = yes }   
+	1496.1.1 = { death = yes } 
+}
+312036 = { # 1000003
+	name = Fernando # Fernando II of Aragon
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312037 # Juan II of Aragon
+	mother = 312038 # Juana Enríquez
+	1452.3.10 = { birth = yes }
+	1494.1.1 = { give_nickname = nick_the_catholic }
+	1469.10.19 = { add_spouse = 312034 } # Isabel of Castile
+	1516.1.23 = { death = yes }
+}
+312037 = { # 1000004
+	name = Juan # Juan II of Aragon
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	1398.6.29 = { birth = yes }
+	1447.1.1 = { add_spouse = 312038 } # Juana Enríquez
+	1479.1.20 = {
+		death = yes            
+		give_nickname = nick_the_great
+	} 
+}
+312038 = { # 1000005
+	name = Juana # Juana Enríquez
+	female = yes
+	religion = catholic
+	culture = castillan
+	dynasty = 13689 # Enríquez
+	1425.1.1 = { birth = yes }   
+	1468.2.13 = { death = yes } 
+}
+312039 = { # 1000006
+	name = Enrique # Enrique IV of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312040 # Juan II of Castile
+	1425.1.5 = { birth = yes }   
+	1474.12.11 = { death = yes } 
+}
+312040 = { # 1000002
+	name = Juan # Juan II of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312041 # Enrique III of Castile
+	# mother = ??? # Catherine of Lancaster
+	1406.3.6 = { birth = yes }
+	# 1420.8.4 = { add_spouse = ??? } # Maria of Aragon
+	1447.10.1 = { add_spouse = 1000053 } # Isabella of Portugal
+	1454.7.21 = { death = yes } 
+}
+312041 = { # 1000007
+	name = Enrique # Enrique III of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312042 # Juan I of Castile
+	1379.10.4 = { birth = yes }   
+	1406.12.25 = { death = yes } 
+}
+312042 = { # 1000008
+	name = Juan # Juan I of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara
+	father = 312043 # Enrique II of Castile
+	# mother = ??? # Juana Manuel
+	1358.8.24 = { birth = yes }   
+	1390.10.9 = { death = yes } 
+}
+312043 = { # 1000009
+	name = Enrique # Enrique II of Castile
+	religion = catholic
+	culture = castillan
+	dynasty = 71 # Trastamara - founder
+	father = 457500 # Alfonso XI
+	# mother = ??? # Eleanor de Guzmán
+	trait = bastard
+	1334.1.13 = { birth = yes }   
+	1379.5.29 = {
+		death = yes            
+		give_nickname = nick_the_generous # really?
+	}
+}

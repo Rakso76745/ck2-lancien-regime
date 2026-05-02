@@ -2,7 +2,7 @@
   vice_royalty = yes
   de_jure_liege = k_aragon
   liege = e_spain
-  holder = 100576
+  holder = 312021 # Alfonso Perez de Guzman
 }
 1700.1.1 = {
   law = investiture_law_0

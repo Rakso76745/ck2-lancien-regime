@@ -1,4 +1,4 @@
 1698.1.1 = {
-  holder = 100587
-  liege = k_england
+	holder = 300001 # Fitz-John Winthrop
+	liege = k_england
 }

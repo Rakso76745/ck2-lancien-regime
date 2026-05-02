@@ -5,7 +5,7 @@
 }
 1555.10.25 = {
   liege = e_spain
-  holder=100273
+  holder=312028 # Felipe II
 }
 1572.1.1 = {
   liege = 0

@@ -1,0 +1,1163 @@
+13501 = {
+	name = "Orange-Nassau"
+	culture = dutch
+	religion = reformed
+	used_for_random = no
+	coat_of_arms = {
+		template = 3
+		layer = {
+			texture = 0
+			texture_internal = 0
+			emblem = 1
+			color = 0
+			color = 2
+			color = 0
+		}
+		layer = {
+			texture = 1
+			texture_internal = 1
+			emblem = 5
+			color = 0
+			color = 0
+			color = 0
+		}
+		layer = {
+			texture = 0
+			texture_internal = 8
+			emblem = 0
+			color = 1
+			color = 3
+			color = 0
+		}
+		layer = {
+			texture = 0
+			texture_internal = 1
+			emblem = 1
+			color = 0
+			color = 3
+			color = 0
+		}
+	}
+}
+13502 = {
+	name = "Sackville"
+	culture = english
+	religion = protestant
+}
+13503 = {
+	name = "Stuart"
+	culture = scottish
+	religion = protestant
+	used_for_random = no
+}
+13504 = {
+	name = "Heinsius"
+	culture = dutch
+	religion = reformed
+}
+13505 = {
+	name = "Howard"
+	culture = english
+	religion = catholic
+}
+13506 = {
+	name = "Oldenburg" # Same as vanilla 224 von Oldenburg? Or 100086 von Oldenburg?
+	culture = danish
+	religion = protestant
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 3
+			color = 3
+		}
+	}
+}
+# 13507 = {
+	# name = "Habsburg" # same as vanilla's von Habsburg, ID 51
+	# culture = german
+	# religion = catholic
+	# coat_of_arms = {
+		# data = { 0 3 0 20 0 0 0 }
+		# religion = catholic
+	# }
+	# used_for_random = no
+# }
+13508 = {
+	name = "Pignatelli"
+	culture = italian
+	religion = catholic
+}
+13509 = {
+	name = "Compton"
+	culture = english
+	religion = protestant
+}
+13510 = {
+	name = "Hyde"
+	culture = english
+	religion = protestant
+}
+13511 = {
+	name = "Este"
+	culture = italian
+	religion = catholic
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 1
+			texture_internal = 0
+			emblem = 22
+			color = 2
+			color = 2
+			color = 2
+		}
+	}
+}
+13512 = {
+	name = "Mazzarini"
+	culture = italian
+	religion = catholic
+}
+13513 = {
+	name = "Cromwell"
+	culture = english
+	religion = protestant
+}
+13514 = {
+	name = "de Bourbon"
+	culture = french
+	religion = catholic
+	used_for_random = no
+	coat_of_arms = {
+		data = { 0 5 0 12 0 0 0 }
+		religion = catholic
+	}
+}
+13515 = {
+	name = "Wittelsbach"
+	culture = german
+	religion = catholic
+	coat_of_arms = {
+		data = { 0 3 0 47 0 0 0 }
+		religion = catholic
+	}
+}
+13516 = {
+	name = "di Savoia"
+	culture = italian
+	religion = catholic
+	coat_of_arms = {
+		data = { 0 3 0 40 0 0 0 }
+		religion = catholic
+	}
+}
+13517 = {
+	name = "von Hohenzollern"
+	culture = german
+	religion = protestant
+	coat_of_arms = {
+		data = { 0 3 0 23 0 0 0 }
+		religion = protestant
+	}
+	used_for_random = no
+}
+13518 = {
+	name = "von Hannover"
+	culture = german
+	religion = protestant
+	used_for_random = no
+}
+13519 = {
+	name = "Romanov"
+	culture = russian
+	religion = orthodox
+	used_for_random = no
+	coat_of_arms = {
+		data = { 1 1 0 21 11 14 14 1 0 21 11 14 14 }
+		religion = orthodox
+	}
+}
+13520 = {
+	name = "Wettin"
+	culture = german
+	religion = protestant
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
+}
+13521 = {
+	name = "Oginskis"
+	culture = lithuanian
+	religion = catholic
+}
+13522 = {
+	name = "Medici"
+	culture = italian
+	religion = catholic
+}
+13523 = {
+	name = "Grey"
+	culture = english
+	religion = protestant
+}
+13524 = {
+	name = "Crew"
+	culture = english
+	religion = protestant
+}
+13525 = {
+	name = "Butler"
+	culture = irish
+	religion = catholic
+}
+13526 = {
+	name = "Stanley"
+	culture = english
+	religion = protestant
+}
+13527 = {
+	name = "Cavendish"
+	culture = english
+	religion = protestant
+}
+13528 = {
+	name = "Somers"
+	culture = english
+	religion = protestant
+}
+13529 = {
+	name = "de Vere"
+	culture = english
+	religion = protestant
+}
+13530 = {
+	name = "Capell"
+	culture = english
+	religion = protestant
+}
+13531 = {
+	name = "Paulet"
+	culture = english
+	religion = protestant
+}
+13532 = {
+	name = "Solms-Braunfels"
+	culture = german
+	religion = protestant
+}
+13533 = {
+	name = "Sidney"
+	culture = english
+	religion = protestant
+}
+13534 = {
+	name = "Kerr"
+	culture = scottish
+	religion = reformed
+}
+13535 = {
+	name = "Sobiewski"
+	culture = polish
+	religion = catholic
+}
+13536 = {
+	name = "la Grange d'Arquien"
+	culture = french
+	religion = catholic
+}
+13537 = {
+	name = "Glücksburg"
+	culture = german
+	religion = protestant
+}
+13538 = {
+	name = "Mecklenburg"
+	culture = german
+	religion = protestant
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0s
+		}
+	}	
+}
+13539 = {
+	name = "Kettler"
+	culture = german
+	religion = protestant
+}
+#40 = {
+# name = "Hesse-Kassel"
+# culture = german
+# religion = protestant
+#}
+13541 = {
+	name = "Le Tellier"
+	culture = french
+	religion = catholic
+}
+13542 = {
+	name = "Braganza"
+	culture = portuguese
+	religion = catholic
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 29
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
+}
+13543 = {
+	name = "Ascania"
+	culture = german
+	religion = protestant
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 0
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 5
+			color = 13
+		}
+	}
+}
+13544 = {
+	name = "Mughal"
+	culture = hindustani
+	religion = sunni
+}
+13545 = {
+	name = "Ottoman"
+	culture = turkish
+	religion = sunni
+	coat_of_arms = {
+		data = { 0 1 0 43 12 3 10 }
+		religion = sunni
+	}
+	used_for_random = no
+}
+13546 = {
+	name = "Nayak"
+	culture = telugu
+	religion = hindu
+}
+13547 = {
+	name = "Lorraine"
+	culture = german
+	religion = catholic
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 1
+			texture_internal = 19
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
+}
+13548 = {
+	name = "Lopukhina"
+	culture = russian
+	religion = orthodox
+}
+13549 = {
+	name = "Vasa"
+	culture = swedish
+	religion = protestant
+}
+#50 = {
+# name = "Hesse-Darmstadt"
+# culture = german
+# religion = protestant
+#}
+13551 = {
+	name = "Gonzaga"
+	culture = italian
+	religion = catholic
+}
+13552 = {
+	name = "Wisniowiecki"
+	culture = polish
+	religion = catholic
+}
+13553 = {
+	name = "Holstein-Gottorp"
+	culture = danish
+	religion = protestant
+}
+13554 = {
+	name = "Rakoczi"
+	culture = hungarian
+	religion = reformed
+}
+13555 = {
+	name = "Zrinski"
+	culture = croatian
+	religion = catholic
+}
+13556 = {
+	name = "Thokoly"
+	culture = hungarian
+	religion = reformed
+}
+13557 = {
+	name = "Hesse"
+	culture = german
+	religion = protestant
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10 # LAR_dynasties.tga
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0s
+		}
+	}	
+}
+13558 = {
+	name = "Württemberg"
+	culture = german
+	religion = protestant
+	used_for_random = no
+}
+13559 = {
+	name = "Zähringer"
+	culture = german
+	religion = catholic
+	used_for_random = no
+}
+13560 = {
+	name = "von Plettenberg"
+	culture = german
+	religion = catholic
+}
+13561 = {
+	name = "von Wolff-Metternich"
+	culture = german
+	religion = catholic
+}
+13562 = {
+	name = "von Orsbeck"
+	culture = german
+	religion = catholic
+}
+13563 = {
+	name = "von Klettenberg"
+	culture = german
+	religion = catholic
+}
+13564 = {
+	name = "von Schonborn"
+	culture = german
+	religion = catholic
+}
+13565 = {
+	name = "von Greiffenclau"
+	culture = german
+	religion = catholic
+}
+13566 = {
+	name = "von Furstenberg"
+	culture = german
+	religion = catholic
+}
+13567 = {
+	name = "Brancoveanu"
+	culture = romanian
+	religion = orthodox
+}
+13568 = {
+	name = "Cantemir"
+	culture = romanian
+	religion = orthodox
+}
+13569 = {
+	name = "Giray"
+	culture = mongol
+	religion = sunni
+}
+13570 = {
+	name = "Valier"
+	culture = italian
+	religion = catholic
+}
+13571 = {
+	name = "Trastamara"
+	culture = castillan
+	religion = catholic
+}
+13572 = {
+	name = "Aviz"
+	culture = portuguese
+	religion = catholic
+}
+13573 = {
+	name = "Valois"
+	culture = french
+	religion = catholic
+}
+13574 = {
+	name = "Jagiellon"
+	culture = lithuanian
+	religion = catholic
+}
+13575 = {
+	name = "Batthyany"
+	culture = hungarian
+	religion = catholic
+}
+13576 = {
+	name = "Safavid"
+	culture = persian
+	religion = shiite
+}
+13577 = {
+	name = "von Strattman"
+	culture = german
+	religion = catholic
+}
+13578 = {
+	name = "Esterhazy"
+	culture = hungarian
+	religion = reformed
+}
+13579 = {
+	name = "Dahlbergh"
+	culture = swedish
+	religion = protestant
+}
+13580 = {
+	name = "Tore"
+	culture = mongol
+	religion = sunni
+}
+13581 = {
+	name = "Arabshahid"
+	culture = mongol
+	religion = sunni
+}
+13582 = {
+	name = "Janids"
+	culture = mongol
+	religion = sunni
+}
+13583 = {
+	name = "Choros"
+	culture = mongol
+	religion = buddhist
+}
+13584 = {
+	name = "De Mari"
+	culture = italian
+	religion = catholic
+}
+13585 = {
+	name = "Farnese"
+	culture = italian
+	religion = catholic
+}
+13586 = {
+	name = "Nassau"
+	culture = german
+	religion = catholic
+}
+13587 = {
+	name = "Mazepa"
+	culture = ruthenian
+	religion = orthodox
+}
+13588 = {
+	name = "Tudor"
+	culture = scottish
+	religion = catholic
+}
+13589 = {
+	name = "d'Orleans-Longueville"
+	culture = french
+	religion = catholic
+}
+13590 = {
+	name = "Perellós"
+	culture = castillan
+	religion = catholic
+}
+13591 = {
+	name = "Colón"
+	culture = castillan
+	religion = catholic
+}
+13592 = {
+	name = "de la Cerda"
+	culture = castillan
+	religion = catholic
+}
+13593 = {
+	name = "Seymour"
+	culture = english
+	religion = protestant
+}
+13594 = {
+	name = "Percy"
+	culture = english
+	religion = protestant
+}
+13595 = { # Montfort-Brittany, not the same as vanilla's de Montfort 4003
+	name = "de Montfort"
+	culture = french
+	religion = catholic
+	coat_of_arms = {
+		data = { 0 3 0 29 0 0 0 }
+		religion = catholic
+	}
+}
+13596 = {
+	name = "Sforza"
+	culture = italian
+	religion = catholic
+}
+13597 = {
+	name = "van Egmond"
+	culture = dutch
+}
+13598 = {
+	name = "La Marck"
+	culture = dutch
+}
+13599 = {
+	name = "Bourbon-Montpensier"
+	culture = french
+}
+13600 = {
+	name = "de Coligny"
+	culture = french
+}
+13601 = {
+	name = "Cirksena"
+	culture = "frisian"
+}
+13602 = {
+	name = "Villiers"
+	culture = english
+	religion = protestant
+}
+13603 = {
+	name = "'Alawi"
+	culture = maghreb_arabic
+	religion = sunni
+}
+13604 = {
+	name = "Lennard"
+	culture = english
+	religion = protestant
+}
+13605 = {
+	name = "Lee"
+	culture = english
+	religion = protestant
+}
+13606 = {
+	name = "Feilding"
+	culture = english
+	religion = protestant
+}
+13607 = {
+	name = "Churchill"
+	culture = english
+	religion = protestant
+}
+13608 = {
+	name = "Jennings"
+	culture = english
+	religion = protestant
+}
+13609 = {
+	name = "Godolphin"
+	culture = english
+	religion = protestant
+}
+13610 = {
+	name = "Drake"
+	culture = english
+	religion = protestant
+}
+13611 = {
+	name = "FitzJames"
+	culture = english
+	religion = catholic
+}
+13612 = {
+	name = "Burke"
+	culture = irish
+}
+13613 = {
+	name = "Sarsfield"
+	culture = irish
+	religion = catholic
+}
+13614 = {
+	name = "Rich"
+	culture = english
+	religion = protestant
+}
+13615 = {
+	name = "Herbert"
+	culture = english
+	religion = protestant
+}
+13616 = {
+	name = "Talbot"
+	culture = irish
+}
+13617 = {
+	name = "Russell"
+	culture = english
+	religion = protestant
+}
+13618 = {
+	name = "Wriothesley"
+	culture = english
+	religion = protestant
+}
+13619 = {
+	name = "Howland"
+	culture = english
+	religion = protestant
+}
+13620 = {
+	name = "Svebilius"
+	culture = swedish
+	religion = protestant
+}
+13621 = {
+	name = "Tenison"
+	culture = english
+	religion = protestant
+}
+13622 = {
+	name = "von Konigsmarck"
+	culture = swedish
+	religion = protestant
+}
+13623 = {
+	name = "Montagu"
+	culture = english
+	religion = protestant
+}
+13624 = {
+	name = "Greville"
+	culture = english
+	religion = protestant
+}
+13625 = {
+	name = "De la Gardie"
+	culture = french
+	religion = protestant
+}
+13626 = {
+	name = "Bagrationi"
+	culture = georgian
+	religion = orthodox
+}
+13627 = {
+	name = "Cholokashvili"
+	culture = georgian
+	religion = orthodox
+}
+13628 = {
+	name = "Farnese"
+	culture = italian
+	religion = catholic
+}
+13629 = {
+	name = "Barberini"
+	culture = italian
+	religion = catholic
+}
+13630 = {
+	name = "Pfalz-Simmern"
+	culture = german
+	religion = catholic
+}
+13631 = {
+	name = "Miloslavsky"
+	culture = russian
+	religion = orthodox
+}
+13632 = {
+	name = "Naryshkina"
+	culture = russian
+	religion = orthodox
+}
+13633 = {
+	name = "Schmieden"
+	culture = german
+	religion = protestant
+}
+13634 = {
+	name = "Sayfawa"
+	culture = kanuri
+	religion = sunni
+}
+13635 = {
+	name = "Petrovic-Njegoš"
+	culture = serbian
+	religion = orthodox
+}
+13636 = {
+	name = "Yarubid"
+	culture = bedouin_arabic
+	religion = ibadi
+}
+13637 = {
+	name = "Al Kathiri"
+	culture = bedouin_arabic
+	religion = sunni
+}
+13638 = {
+	name = "Qasimid"
+	culture = bedouin_arabic
+	religion = sunni
+}
+13639 = {
+	name = "Banu Afrar"
+	culture = nubian
+	religion = sunni
+}
+13640 = {
+	name = "Solomon"
+	culture = ethiopian
+	religion = miaphysite
+}
+13641 = {
+	name = "Dawud"
+	culture = ethiopian
+	religion = sunni
+}
+13642 = {
+	name = "Shihab"
+	culture = levantine_arabic
+	religion = sunni
+}
+13643 = {
+	name = "Gyldenlove"
+	culture = danish
+	religion = protestant
+}
+13644 = {
+	name = "Gabel"
+	culture = danish
+	religion = protestant
+}
+13645 = {
+	name = "Rehnskiöld"
+	culture = swedish
+	religion = protestant
+}
+13646 = {
+	name = "von Mellin"
+	culture = swedish
+	religion = protestant
+}
+13647 = {
+	name = "Gyllenstierna"
+	culture = swedish
+	religion = protestant
+}
+13648 = {
+	name = "Moncada"
+	culture = castillan
+	religion = catholic
+}
+13649 = {
+	name = "test"
+	culture = castillan
+	religion = catholic
+}
+13650 = {
+	name = "de Córdoba"
+	culture = castillan
+	religion = catholic
+}
+13651 = {
+	name = "de Robles Silva"
+	culture = castillan
+	religion = catholic
+}
+13652 = {
+	name = "van der Veen"
+	culture = dutch
+	religion = reformed
+}
+13653 = {
+	name = "de La Ville"
+	culture = french
+	religion = catholic
+}
+13654 = {
+	name = "de Lencastre"
+	culture = portuguese
+	religion = catholic
+}
+13655 = {
+	name = "de Ponte y Hoyo"
+	culture = castillan
+	religion = catholic
+}
+13656 = {
+	name = "Coote"
+	culture = irish
+	religion = protestant
+}
+13657 = {
+	name = "Winthrop"
+	culture = english
+	religion = protestant
+}
+13658 = {
+	name = "Cranston"
+	culture = english
+	religion = protestant
+}
+13659 = {
+	name = "de Callière"
+	culture = french
+	religion = catholic
+}
+13660 = {
+	name = "de Valladares"
+	culture = castillan
+	religion = catholic
+}
+13661 = {
+	name = "Hamilton"
+	culture = scottish
+	religion = protestant
+}
+13662 = {
+	name = "Penn"
+	culture = english
+	religion = protestant
+}
+13663 = {
+	name = "van der Stel"
+	culture = dutch
+	religion = reformed
+}
+13664 = {
+	name = "Phélypeaux"
+	culture = french
+	religion = catholic
+	coat_of_arms = {
+		template = 3
+		layer = {
+			texture = 0
+			texture_internal = 0
+			emblem = 0
+			color = 5
+			color = 1
+			color = 0
+		}
+		layer = {
+			texture = 0
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 2
+			color = 0
+		}
+		layer = {
+			texture = 0
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 2
+			color = 0
+		}
+		layer = {
+			texture = 0
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 2
+			color = 0
+		}
+	}
+}
+#165 = {
+# name = "Compton"
+# culture = english
+# religion = protestant
+#}
+13666 = {
+	name = "Westken"
+	culture = german
+	religion = protestant
+}
+13667 = {
+	name = "Köprülü"
+	culture = turkish
+	religion = sunni
+}
+13668 = {
+	name = "La Baume Le Blanc"
+	culture = french
+	religion = catholic
+}
+13669 = {
+	name = "Notaras"
+	culture = greek
+	religion = orthodox
+}
+13670 = {
+	name = "Palladas"
+	culture = greek
+	religion = orthodox
+}
+13671 = {
+	name = "Zaim"
+	culture = levantine_arabic
+	religion = orthodox
+}
+13672 = {
+	name = "Rochechouart"
+	culture = french
+	religion = catholic
+}
+13673 = {
+	name = "Vellingk"
+	culture = swedish
+	religion = protestant
+}
+13674 = {
+	name = "Lucas"
+	culture = english
+	religion = protestant
+}
+13675 = {
+	name = "FitzRoy"
+	culture = english
+	religion = protestant
+}
+13676 = { # duplicate?
+	name = "FitzJames"
+	culture = english
+	religion = protestant
+}
+13677 = {
+	name = "Qing"
+	culture = han
+	religion = buddhist
+}
+13678 = {
+	name = "Beauclerk"
+	culture = english
+	religion = protestant
+}
+13679 = {
+	name = "Kirke"
+	culture = english
+	religion = protestant
+}
+13680 = {
+	name = "Toungoo"
+	culture = bamar
+	religion = buddhist
+}
+13681 = {
+	name = "de Mendoza"
+	culture = castillan
+	religion = catholic
+}
+13682 = {
+	name = "de Guzmán"
+	culture = castillan
+	religion = catholic
+}
+13683 = {
+	name = "Walker"
+	culture = english
+	religion = protestant
+}
+13684 = {
+	name = "von Thun und Hohenstein"
+	culture = bohemian
+	religion = catholic
+}
+13685 = {
+	name = "Elding"
+	culture = afro_american
+	religion = protestant
+}
+13686 = {
+	name = "Calderón"
+	culture = castillan
+	religion = catholic
+}
+13687 = {
+	name = "Pérez de Guzmán"
+	culture = castillan
+	religion = catholic
+}
+13688 = {
+	name = "de Ribera"
+	culture = castillan
+	religion = catholic
+}
+13689 = {
+	name = "Enríquez"
+	culture = castillan
+	religion = catholic
+}
+13690 = {
+	name = "Keira"
+	culture = daju
+	religion = sunni
+}
+13691 = {
+	name = "von Pape"
+	culture = german
+	religion = protestant
+}
+13692 = {
+	name = "Khoshut" # Cadet branch of Borjigin
+	culture = bodpa
+	religion = buddhist
+}
+13693 = {
+	name = "Nassau-Beverweerd"
+	culture = dutch
+	religion = reformed
+}
+13694 = {
+	name = "van Mechelen"
+	culture = dutch
+	religion = catholic
+}

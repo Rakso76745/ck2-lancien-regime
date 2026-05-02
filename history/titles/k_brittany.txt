@@ -1,6 +1,7 @@
 1488.9.9 = {
-  holder = 100416
+	holder = 308000 # Anne of Montfort
 }
+1514.1.9 = { holder = 0 }
 1700.1.1 = {
   vice_royalty = no
   law = investiture_law_0

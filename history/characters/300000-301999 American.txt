@@ -1,0 +1,40 @@
+300000 = {
+	name = Richard
+	dynasty = 13656 # Coote
+	religion = protestant
+	culture = anglo_american
+	1636.1.1 = { birth = yes }
+	1701.3.5 = { death = yes }
+}
+300001 = {
+	name = "Fitz-John"
+	dynasty = 13657 # Winthrop
+	religion = protestant
+	culture = anglo_american
+	1637.3.14 = { birth = yes }
+	1707.11.27 = { death = yes }
+}
+300002 = {
+	name = "Samuel"
+	dynasty = 13658 # Cranston
+	religion = protestant
+	culture = anglo_american
+	1637.3.14 = { birth = yes }
+	1727.4.26 = { death = yes }
+}
+300003 = {
+	name = "William"
+	dynasty = 13662 # Penn
+	religion = protestant
+	culture = anglo_american 
+	1644.10.24 = { birth = yes }
+	1718.8.10 = { death = yes }
+}
+300004 = {
+	name = Henderson
+	dynasty = 13683 # Walker
+	religion = protestant
+	culture = anglo_american 
+	1659.1.1 = { birth = yes }
+	1704.4.13 = { death = yes }
+}

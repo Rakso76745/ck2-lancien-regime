@@ -1,12 +1,12 @@
-100240 = {
+314000 = {
 	name = "Jelena"
 	female = yes
 	religion = catholic
 	culture = croatian
-	dynasty = 55
+	dynasty = 13555 # Zrinski
 	trait = "erudite"
 	trait = "fair"
 	1649.3.20 = {
-	  birth = yes
+		birth = yes
 	}
-  }
+}

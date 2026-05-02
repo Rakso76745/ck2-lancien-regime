@@ -1,0 +1,8 @@
+388000 = {
+	name = Read
+	dynasty = 13685 # Elding
+	religion = protestant
+	culture = afro_american
+	1650.1.1 = { birth = yes }
+	1739.1.1 = { death = yes }
+}

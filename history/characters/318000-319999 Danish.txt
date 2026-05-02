@@ -1,0 +1,590 @@
+318000 = { # 100020
+	name = Jorgen # Prince George of Denmark, Duke of Cumberland
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318002 # Frederick III
+	mother = 100197 # Sophie Amalie of Brunswick-Luneburg
+	1653.4.2 = { birth = yes }
+	1683.7.28 = { add_spouse = 100019 } # Queen Anne of England and Scotland
+	1708.10.28 = { death = yes }
+}
+318001 = { # 100021
+	name = Frederik # IV of Denmark
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318003 # Christian V
+	mother = 100198 # Charlotte Amalie of Hesse-Kassel
+	1671.10.11 = { birth = yes }
+	1695.12.5 = { add_spouse = 100539 } # Louise of Mecklenburg-Gustrow
+	1699.8.25 = {
+		capital = c_sjaelland
+		add_claim = c_skate
+		add_claim = c_blekinge
+		add_claim = c_halland
+	}
+	1730.10.12 = { death = yes }
+}
+318002 = { # 100196
+	name = Frederik # III of Denmark
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318020 # Christian IV
+	# mother = ??? # Anne Catherine of Brandenburg
+	1609.3.18 = { birth = yes } 
+	1636.1.1 = {
+		effect = {
+			add_lover = 318017 # Margarethe von Pape
+		}
+	}
+	1643.10.1 = { add_spouse = 100197 } # Sophie Amalie of Brunswick-Luneburg
+	1670.2.9 = { death = yes } 
+ }
+318003 = { # 100199
+	name = Christian # V of Denmark
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318002 # Frederik III
+	mother = 100197 # Sophie Amalie of Brunswick-Luneburg
+	1646.4.15 = { birth = yes } 
+	1667.6.15 = { add_spouse = 100198 } # Charlotte Amalie of Hesse-Kassel
+	1699.8.25 = { death = yes }
+}
+318004 = { # 100216
+	name = Anna # Anne of Denmark, wife of James VI/I
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318021 # Frederick II
+	# mother = ??? # Sophie of Mecklenburg-Gustrow
+	1574.12.12 = { birth = yes } 
+	1619.5.13 = { death = yes }
+}
+318005 = { # 100236
+	name = "Frederik" # IV of Holstein-Gottorp
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318013 # Christian Albert
+	mother = 318012 # Frederica Amalia of Denmark
+	1671.10.18 = { birth = yes }
+	1698.5.12 = { add_spouse = 100245 } # Hedvig Sophia of Sweden
+	1702.7.19 = { death = yes }
+}
+318006 = { # 100244
+	name = "Ulrike Eleonore"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318002 # Frederik III
+	mother = 100197 # Sophia Amalia of Brunswick-Luneburg
+	1656.9.11 = { birth = yes }
+	1693.7.26 = { death = yes }
+}
+318007 = { # 100336
+	name = Christian # II of Denmark
+	religion = catholic
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318023 # Hans
+	# mother = ??? # Christina of Saxony
+	1481.7.1 = { birth = yes }
+	1514.6.11 = { add_spouse = 100276 } # Isabella of Austria
+	1559.1.25 = { death = yes }
+}
+318008 = { # 100337
+	name = Hans 
+	religion = catholic
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318007 # Christian II
+	mother = 100276 # Isabella of Austria
+	1518.2.21 = { birth = yes }
+	1532.8.11 = { death = yes }
+}
+318009 = { # 100338
+	name = Dorothea
+	female = yes
+	religion = catholic
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318007 # Christian II
+	mother = 100276 # Isabella of Austria
+	1520.11.10 = { birth = yes }
+	1580.5.31 = { death = yes }
+}
+318010 = { # 100339
+	name = Christine
+	female = yes
+	religion = catholic
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318007 # Christian II
+	mother = 100276 # Isabella of Austria
+	1521.11.1 = { birth = yes }
+	1590.12.10 = { death = yes }
+}
+318011 = { # 100541
+	name = Christian # VI of Denmark
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318001 # Frederik IV
+	mother = 100539 # Louise of Mecklenburg-Gustrow
+	1699.11.30 = { birth = yes }
+	1746.8.6 = { death = yes }
+}
+318012 = { # 100563
+	name = "Frederike Amalie"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318002 # Frederik III
+	mother = 100197 # Sophia Amalia of Brunswick-Luneburg
+	1649.4.11 = { birth = yes }
+	1704.10.30 = { death = yes }
+}
+318013 = { # 100564
+	name = "Christian Albrecht" # of Holstein-Gottorp
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318022 # Frederick III
+	# mother = ??? # Marie Elisabeth of Saxony
+	1649.4.11 = { birth = yes }
+	1667.11.4 = { add_spouse = 318012 } # Frederica Amalia of Denmark
+	1695.10.24 = { death = yes }
+}
+318014 = { # 100565
+	name = Frederik # IV of Holstein-Gottorp
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318013 # Christian Albert
+	mother = 318012 # Frederica Amalia of Denmark
+	1673.1.11 = { birth = yes }
+	1702.7.19 = { death = yes }
+}
+318015 = { # 100567
+	name = "Marie Elisabeth"
+	female = yes
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318013 # Christian Albert
+	mother = 318012 # Frederica Amalia of Denmark
+	1678.3.21 = { birth = yes }
+	1755.7.17 = { death = yes }
+}
+318016 = { # 100568
+	name = "Ulrik Frederik"
+	religion = protestant
+	culture = danish
+	dynasty = 13643 # Gyldenlove
+	father = 318002 # Frederick III of Denmark
+	mother = 318107 # Margrethe von Pape
+	trait = bastard
+	1638.7.20 = { birth = yes }
+	1704.4.17 = { death = yes }
+}
+318017 = { # 100569
+	name = Margrethe
+	female = yes
+	dynasty = 13691 # von Pape
+	religion = protestant
+	culture = danish
+	1620.1.1 = { birth = yes }
+	1684.1.1 = { death = yes }
+}
+318018 = { # 100570
+	name = Frederik
+	dynasty = 13644 # Gabel
+	religion = protestant
+	culture = danish
+	1645.1.1 = { birth = yes }
+	1708.6.21 = { death = yes }
+}
+318019 = { # 100134
+	name = "Anna Sophie" 
+	female = yes  
+	religion = protestant
+	culture = danish
+	dynasty = 244 # von Oldenburg
+	father = 318002 # Frederick III
+	mother = 100197 # Sophia Amalia of Brunswick-Luneburg
+	1647.9.1 = { birth = yes }
+	1717.7.1 = { death = yes }
+}
+318020 = {
+	name = Christian # IV of Denmark
+	dynasty = 244 # von Oldenburg
+	father = 318021 # Frederick II
+	# mother = ??? Sophie of Mecklenburg-Gustrow
+	culture = danish
+	religion = protestant
+	1577.4.12 = { birth = yes }
+	1648.2.28 = { death = yes }
+}
+318021 = {
+	name = Frederik # II of Denmark
+	dynasty = 244 # von Oldenburg
+	father = 318024 # Christian III
+	# mother = ??? # Dorothea of Saxe-Lauenburg
+	culture = danish
+	religion = protestant
+	1534.7.1 = { birth = yes }
+	1588.4.4 = { death = yes }
+}
+318022 = {
+	name = Frederik # III of Holstein-Gottorp
+	dynasty = 244 # von Oldenburg
+	father = 318025 # Johann Adolf
+	mother = 318026 # Augusta of Denmark
+	culture = danish
+	religion = protestant
+	1597.12.22 = { birth = yes }
+	1659.8.10 = { death = yes }
+}
+318023 = {
+	name = Hans # or John of Denmark
+	dynasty = 244 # von Oldenburg
+	father = 318027 # Christian I
+	# mother = ??? # Dorothea of Brandenburg
+	culture = danish
+	religion = catholic
+	1455.2.2 = { birth = yes }
+	1513.2.20 = { death = yes }
+}
+318024 = {
+	name = Christian # III of Denmark
+	father = 318029 # Frederick I
+	# mother = ??? # Anna of Brandenburg
+	culture = danish
+	religion = protestant
+	1503.8.12 = { birth = yes }
+	1559.1.1 = { death = yes }
+}
+318025 = {
+	name = "Johann Adolf" # of Holstein-Gottorp
+	dynasty = 244 # von Oldenburg
+	father = 318030 # Adolf
+	# mother = ??? # Christine of Hesse-Kassel
+	culture = danish
+	religion = protestant
+	1575.2.27 = { birth = yes }
+	1596.8.30 = { add_spouse = 318026 } # Augusta of Denmark
+	1616.3.31 = { death = yes }
+}
+318026 = {
+	name = Augusta
+	female = yes
+	dynasty = 244 # von Oldenburg
+	father = 318021 # Frederick II of Denmark
+	# mother = ??? # Sophie of Mecklenburg-Gustrow
+	culture = danish
+	religion = protestant
+	1580.4.8 = { birth = yes }
+	1639.2.5 = { death = yes }
+}
+318027 = {
+	name = Christian # I of Denmark
+	dynasty = 244 # von Oldenburg
+	father = 318032 # Dietrich of Oldenburg
+	mother = 318050 # Hedvig of Holstein
+	culture = danish
+	religion = catholic
+	1426.2.1 = { birth = yes }
+	1481.5.21 = { death = yes }
+}
+318028 = {
+	name = Christopher # of Denmark
+	dynasty = 55 # Wittelsbach
+	# father = ??? # Johann von Pfalz-Neumarkt
+	# mother = ??? # Catherine of Pomerania
+	culture = german
+	religion = catholic
+	1416.2.26 = { birth = yes }
+	1448.1.6 = { death = yes }
+}
+318029 = {
+	name = Frederik # I of Denmark
+	dynasty = 244 # von Oldenburg
+	father = 318027 # Christian I
+	# mother = ??? # Dorothea of Brandenburg
+	culture = danish
+	religion = catholic
+	1471.10.7 = { birth = yes }
+	1533.4.10 = { death = yes }
+}
+318030 = {
+	name = Adolf # of Holstein-Gottorp
+	dynasty = 244 # von Oldenburg
+	father = 318029 # Frederick I of Denmark
+	# mother = ??? # Sophie of Pomerania
+	culture = danish
+	religion = protestant
+	1526.1.25 = { birth = yes }
+	1586.10.1 = { death = yes }
+}
+318031 = {
+	name = Bogislaw # Eric VII
+	dynasty = 177 # Gryfita
+	# father = ??? # Wartislaw VII of Pomerania
+	# mother = ??? # Maria of Mecklenburg-Schwerin
+	culture = pommeranian
+	religion = catholic
+	1381.1.1 = { birth = yes }
+	1389.1.1 = { name = "Erik" }
+	1459.9.24 = { death = yes }
+}
+318032 = {
+	name = Dietrich # of Oldenburg
+	dynasty = 244 # von Oldenburg
+	# father = ??? # Christian V
+	# mother = ??? # Agnes of Honstein NOT Holstein NB
+	culture = german
+	religion = catholic
+	1398.1.1 = { birth = yes }
+	1417.4.18 = { add_spouse = 318050 } # Hedvig of Holstein
+	1440.2.14 = { death = yes }
+}
+318033 = {
+	name = Margarete # I of Denmark
+	female = yes
+	dynasty = 487 # Estrid
+	father = 451500 # Valdemar IV
+	mother = 451501 # Helvig of Schleswig
+	culture = danish
+	religion = catholic
+	1340.1.1 = {
+		effect_even_if_dead = {
+			c_451500 = { # Valdemar IV
+				give_nickname = nick_atterdag
+				add_spouse = 451501 # Helvig of Schleswig
+			}
+		}
+	}
+	1353.3.1 = { birth = yes }
+	1412.10.28 = { death = yes }
+}
+318034 = {
+	name = Christian # V of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 462910 # Conrad I
+	mother = 462911 # Ingeborg of Holstein-Itzehoe
+	culture = german
+	religion = catholic
+	1313.7.30 = {
+		effect_even_if_dead = {
+			c_462910 = { # Conrad I
+				add_spouse = 462911 # Ingeborg
+			}
+		}
+	}
+	1342.1.1 = { birth = yes }
+	1399.4.6 = { death = yes }
+}
+318035 = {
+	name = Olaf # II of Denmark
+	dynasty = 155 # af Bjälbo
+	# father = ??? # Haakon VI of Norway
+	mother = 318033 # Margarete I of Denmark
+	culture = danish
+	religion = catholic
+	1370.12.1 = { birth = yes }
+	1387.8.3 = { death = yes }
+}
+318036 = {
+	name = Konrad # II of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 462910 # Conrad I
+	mother = 462911 # Ingeborg of Holstein-Itzehoe
+	culture = german
+	religion = catholic
+	1342.1.1 = { birth = yes }
+	1401.1.1 = { death = yes }
+}
+318037 = {
+	name = "Anton Günther" # of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318038 # Johann VII
+	# mother = ??? # Elisabeth of Schwarzburg-Blankenburg
+	culture = danish
+	religion = protestant
+	1583.11.10 = { birth = yes }
+	1667.6.19 = { death = yes }
+}
+318038 = {
+	name = Johann # VII of Oldenburg
+	# the Dike Builder
+	dynasty = 244 # von Oldenburg
+	father = 318039 # Anton I
+	# mother = ??? # Sophie of Saxe-Lauenburg
+	culture = danish
+	religion = protestant
+	1540.9.9 = { birth = yes }
+	1603.11.12 = { death = yes }
+}
+318039 = {
+	name = Anton # I of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318040 # Johann V
+	# mother = ??? # Anna of Anhalt-Zerbst
+	culture = danish
+	religion = protestant
+	1505.1.1 = { birth = yes }
+	1573.1.22 = { death = yes }
+}
+318040 = {
+	name = Johann # V of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318041 # Gerhard VI
+	# mother = ??? # Adelheid of Tecklenburg
+	culture = danish
+	religion = catholic
+	1460.1.1 = { birth = yes }
+	1526.2.10 = { death = yes }
+}
+318041 = {
+	name = Gerhard # VI of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318032 # Dietrich
+	mother = 318050 # Hedvig of Holstein
+	culture = danish
+	religion = catholic
+	1430.1.1 = { birth = yes }
+	1500.2.22 = { death = yes }
+}
+318042 = {
+	name = Adolf # of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318041 # Gerhard VI
+	# mother = ??? # Adelheid of Tecklenburg
+	culture = danish
+	religion = catholic
+	1458.1.1 = { birth = yes }
+	1500.2.17 = {
+		death = {
+			death_reason = death_battle
+			# Battle of Hemmingstedt
+		}
+	}
+}
+318043 = {
+	name = Moritz # II of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318036 # Konrad II
+	# mother = ??? Kunigunde of Diepholz
+	culture = german
+	religion = catholic
+	1381.1.1 = { birth = yes }
+	1420.10.2 = { death = yes }
+}
+318044 = {
+	name = Christian # VI of Oldenburg
+	dynasty = 244 # von Oldenburg
+	father = 318034 # Christian V
+	# mother = ??? # Agnes of Honstein
+	culture = german
+	religion = catholic
+	1380.1.1 = { birth = yes }
+	1421.10.1 = { death = yes }
+}
+318045 = {
+	name = Philip # of Holstein-Gottorp
+	dynasty = 244 # von Oldenburg
+	father = 318030 # Adolf
+	# mother = ??? # Christine of Hesse-Kassel
+	culture = danish
+	religion = protestant
+	1570.8.10 = { birth = yes }
+	1590.10.18 = { death = yes }
+}
+318046 = {
+	name = Frederik # of Holstein-Gottorp
+	dynasty = 244 # von Oldenburg
+	father = 318030 # Adolf
+	# mother = ??? # Christine of Hesse-Kassel
+	culture = danish
+	religion = protestant
+	1568.4.21 = { birth = yes }
+	1587.6.15 = { death = yes }
+}
+318047 = {
+	name = Albrecht # II of Holstein-Rendsburg
+	dynasty = 12463 # von Schauenburg
+	father = 451941 # Heinrich the Iron
+	# mother = ??? # Ingeborg of Mecklenburg
+	culture = german
+	religion = catholic
+	1369.1.1 = { birth = yes }
+	1403.9.28 = { 
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+318048 = {
+	name = Gerhard # VI of Holstein-Rendsburg
+	dynasty = 12463 # von Schauenburg
+	father = 451941 # Heinrich the Iron
+	# mother = ??? # Ingeborg of Mecklenburg
+	culture = german
+	religion = catholic
+	1367.1.1 = { birth = yes }
+	1404.8.4 = { 
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+318049 = {
+	name = Heinrich # IV of Holstein-Rendsburg
+	dynasty = 12463 # von Schauenburg
+	father = 318048 # Gerhard VI
+	# mother = ??? # Catherine Elisabeth of Brunswick-Luneburg
+	culture = german
+	religion = catholic
+	1397.1.1 = { birth = yes }
+	1427.5.28 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+318050 = {
+	name = Hedvig # of Holstein
+	female = yes
+	dynasty = 12463 # von Schauenburg
+	father = 318048 # Gerhard VI of Holstein-Rendsburg
+	# mother = ??? # Catherine Elisabeth of Brunswick-Luneburg
+	culture = german
+	religion = catholic
+	1398.1.1 = { birth = yes }
+	1436.1.1 = { death = yes }
+}
+318051 = {
+	name = Adolf # VIII of Holstein-Rendsburg
+	dynasty = 12463 # von Schauenburg
+	father = 318048 # Gerhard VI
+	# mother = ??? # Catherine Elisabeth of Brunswick-Luneburg
+	culture = german
+	religion = catholic
+	1401.1.1 = { birth = yes }
+	1459.12.4 = { death = yes }
+}
+318052 = {
+	name = Hans # of Schleswig-Holstein-Haderslev, John the Elder
+	father = 318029 # Frederick I
+	# mother = ??? # Sophie of Pomerania
+	culture = danish
+	religion = protestant
+	1521.6.29 = { birth = yes }
+	1580.10.1 = { death = yes }
+}

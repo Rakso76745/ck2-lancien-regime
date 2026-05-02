@@ -1,5 +1,5 @@
 1686.1.1 = {
-  holder = 100550
+	holder = 304001 # Al-Mahdi Muhammad Qasimid
 }
 1700.1.1 = {
   vice_royalty = no

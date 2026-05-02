@@ -18,11 +18,11 @@
   vice_royalty = yes
 }
 1598.9.13 = {
-  holder = 100102
+  holder = 312005 # Felipe III
   vice_royalty = no
 }
 1621.3.31 = {
-  holder = 100052
+  holder = 312002 # Felipe IV
 }
 1683.9.12 = {
   holder = 100137

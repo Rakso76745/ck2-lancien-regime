@@ -46,7 +46,7 @@
 }
 1695.1.1 = {
   liege = e_spain
-  holder = 100403
+  holder = 312014 # Luis Francisco de la Cerda
 }
 1700.1.1 = {
   de_jure_liege = e_italy

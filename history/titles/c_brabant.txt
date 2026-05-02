@@ -6,14 +6,14 @@
   holder = 100270
 }
 1556.1.16 = {
-  holder = 100273
+  holder = 312028 # Felipe II
 }
 1598.9.13 = {
-  holder = 100102
+  holder = 312005 # Felipe III
 }
 1621.3.31 = {
-  holder = 100052
+  holder = 312002 # Felipe IV
 }
 1665.9.17 = {
-  holder = 100049
+  holder = 312001 # Carlos II
 }

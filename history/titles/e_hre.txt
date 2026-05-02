@@ -8,7 +8,7 @@
   holder = 100287
 }
 1564.7.25 = {
-  holder = 100277
+  holder = 312031 # Ferdinand I
 }
 1576.10.12 = {
   holder = 100345

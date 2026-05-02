@@ -1,0 +1,8 @@
+302000 = {
+	name = "Sanay Min"
+	religion = buddhist
+	culture = bamar
+	dynasty = 13680 # Toungoo
+	1673.4.1 = { birth = yes }
+	1714.8.22 = { death = yes }
+}

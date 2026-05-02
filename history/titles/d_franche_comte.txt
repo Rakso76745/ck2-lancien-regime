@@ -7,16 +7,16 @@
 }
 1556.1.16 = {
   liege = e_spain
-  holder = 100273
+  holder = 312028 # Felipe II
 }
 1598.5.6 = {
-  holder = 100102
+  holder = 312005 # Felipe III
 }
 1621.7.13 = {
   holder = 100041
 }
 1665.9.17 = {
-  holder = 100049
+  holder = 312001 # Carlos II
 }
 1678.9.17 = {
   liege = e_france

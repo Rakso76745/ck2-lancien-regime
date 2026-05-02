@@ -63,7 +63,7 @@
 }
 1450.1.1 = {
   liege = 0
-  holder = 100049275
+  holder = 312001 # Carlos II275
 }
 1689.4.11 = {
   holder = 100000

@@ -1,4 +1,4 @@
 1698.1.1 = {
-  holder = 100586
-  liege = d_manhattan
+	holder = 300000 # Richard Coote
+	liege = d_manhattan
 }

@@ -1,4 +1,4 @@
 1689.4.10 = {
-  holder = 100020
-  liege = d_cumbria
+	holder = 318000 # Prince George of Denmark
+	liege = d_cumbria
 }

@@ -1,6 +1,6 @@
 1689.4.10 = {
-  holder = 100020
-  liege = k_england
+	holder = 318000 # Prince George of Denmark
+	liege = k_england
 }
 1700.1.1 = {
   vice_royalty = no

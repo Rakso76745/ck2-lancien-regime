@@ -1,10 +1,10 @@
 1515.10.11 = {
   liege = e_france
-  holder = 100049
+  holder = 100268
 }
 1665.9.17 = {
   liege = e_spain
-  holder = 100049
+  holder = 312001 # Carlos II
 }
 1698.1.1 = {
   vice_royalty = yes

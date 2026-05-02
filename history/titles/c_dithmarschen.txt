@@ -1,4 +1,118 @@
-1695.1.6 = {
-  liege = d_holstein
-  holder = 100236
+761.1.1 = {
+	liege = d_holstein
+}
+761.1.1 = {
+	holder = 190474 #Hesso
+}
+782.1.1 = {
+	holder = 0
+}
+860.1.1 = {
+	liege = d_slesvig
+}
+860.1.1 = {
+	holder = 163113
+}
+936.1.1 = {
+	holder = 260572
+	liege = k_germany
+}
+1066.1.1 = {
+	holder = 101517
+	liege = d_slesvig
+}
+1080.4.17 = {
+	holder = 101521
+}
+1099.1.1 = {
+	holder = 101525
+}
+1100.1.1 = {
+	holder = 101521
+}
+1103.7.10 = {
+	holder = 201513
+}
+1106.1.1 = {
+	liege = d_saxony
+}
+1106.1.1 = {
+	holder = 31750 # Adolf I
+}
+1130.11.13 = {
+	holder = 212362 # Adolf II
+}
+1164.7.6 = {
+	holder = 212360 # Adolf III
+}
+1180.9.16 = {
+	liege = e_hre
+}
+1202.1.1 = {
+	liege = d_holstein
+}
+1225.1.3 = {
+	holder = 31752 # Adolf IV
+}
+1261.7.8 = {
+	holder = 451975 # Gerhard I of Holstein-Itzehoe
+}
+1290.12.21 = {
+	holder = 451972 # Gerhard II of Holstein-Plön
+}
+1312.10.28 = {
+	holder = 451973 # Gerhard IV
+}
+1323.1.2 = {
+	holder = 451970 # Gerhard V
+}
+1350.9.22 = {
+	holder = 451960 # Johann III
+}
+1359.1.1 = {
+	holder = 451963 # Adolf VII or IX
+}
+1390.1.26 = {
+	holder = 451942 # Nikolaus
+}
+1397.5.8 = {
+	holder = 318047 # Albrecht II of Holstein-Rendsburg
+}
+1403.9.28 = {
+	holder = 318049 # Heinrich IV of Holstein-Rendsburg
+}
+1427.5.28 = {
+	holder = 318051 # Adolf VIII
+}
+1447.1.1 = {
+	holder = 0 # Peasant republic
+}
+1500.2.17 = {
+	liege = k_hansa
+}
+1559.6.20 = {
+	liege = d_slesvig
+	holder = 318052 # Hans of Schleswig-Holstein-Haderslev
+}
+1580.10.1 = {
+	liege = d_holstein
+	holder = 318030 # Adolf of Holstein-Gottorp
+}
+1586.10.1 = {
+	holder = 318046 # Frederik of Holstein-Gottorp
+}
+1587.6.15 = {
+	holder = 318045 # Philip of Holstein-Gottorp
+}
+1590.10.18 = {
+	holder = 318025 # Johann Adolf of Holstein-Gottorp
+}
+1616.3.31 = {
+	holder = 318022 # Frederik III
+}
+1659.8.10 = {
+	holder = 318013 # Christian Albrecht of Holstein-Gottorp
+}
+1695.10.24 = {
+	holder = 318005 # Frederik IV of Holstein-Gottorp
 }

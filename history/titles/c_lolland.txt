@@ -57,6 +57,6 @@
   holder = 103206344
 }
 1699.8.25 = {
-  holder = 100021
+  holder = 318001 # Frederik IV
   liege = k_denmark
 }

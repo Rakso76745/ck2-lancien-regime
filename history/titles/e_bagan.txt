@@ -1,5 +1,5 @@
 1698.5.4 = {
 	name = "Toungoo"
 	adjective = "Toungoo"
-	holder = 100620 # Sanay Min
+	holder = 302000 # Sanay Min
 }

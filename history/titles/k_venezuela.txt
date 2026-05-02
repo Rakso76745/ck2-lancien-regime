@@ -1,4 +1,4 @@
-1699.0.0 = {
-  holder = 100585
+1699.1.1 = {
+  holder = 312025 # Nicolas Eugenio de Ponte y Hoyo
   liege = e_newcolonymexico
 }

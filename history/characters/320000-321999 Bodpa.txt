@@ -1,0 +1,8 @@
+320000 = {
+	name = "Tenzin Wangchuk"
+	dynasty = 13692 # Khoshut
+	religion = buddhist
+	culture = bodpa
+	1650.1.1 = { birth = yes }
+	1703.1.1 = { death = yes }
+}

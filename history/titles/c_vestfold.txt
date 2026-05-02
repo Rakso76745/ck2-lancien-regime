@@ -75,5 +75,5 @@
 }
 1699.8.25 = {
   liege = k_norway
-  holder = 100021
+  holder = 318001 # Frederik IV
 }

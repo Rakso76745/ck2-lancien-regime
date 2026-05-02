@@ -1,8 +1,9 @@
-100543 = {
+316000 = {
 	name = "Ahmad Bakr ibn Musa"
+	dynasty = 13690 # Keira
 	religion = sunni
 	culture = daju
 	1650.1.1 = {
-	  birth = yes
+		birth = yes
 	}
-  }
+}

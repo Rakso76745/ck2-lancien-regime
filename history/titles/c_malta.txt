@@ -13,5 +13,5 @@
 	law = centralization_3
 }
 1697.2.7 = {
-	holder = 100401
+	holder = 312012 # Ramon Perellos
 }

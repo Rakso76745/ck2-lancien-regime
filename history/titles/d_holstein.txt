@@ -1,7 +1,100 @@
-1659.8.10 = {
-  holder = 100564
+700.1.1 = {
+	de_jure_liege = k_saxony
+	liege = k_saxony
 }
-1695.1.6 = {
-  liege = k_denmark
-  holder = 100236
+761.1.1 = {
+	holder = 190474 # Hesso
+}
+782.1.1 = {
+	holder = 0
+	liege = 0
+	de_jure_liege = k_denmark
+}
+1129.7.1 = {
+	liege = k_denmark
+	#law = agnatic_succession
+	#law = succ_primogeniture
+}
+1129.7.1 = {
+	holder = 201513 # Knud Lavard
+}
+1131.1.13 = {
+	holder = 0
+}
+1131.1.13 = {
+	liege = 0
+}
+
+1202.1.1 = {
+	liege = k_denmark
+}
+1202.1.1 = {
+	holder = 31795 # Albrecht Askanien
+}
+1227.7.22 = {
+	liege = e_hre
+	de_jure_liege = k_germany
+}
+1227.7.22 = {
+	holder = 31752 # Adolf IV
+}
+1261.7.8 = {
+	holder = 451975 # Gerhard I
+}
+1290.12.21 = {
+	holder = 451945 # Heinrich I
+}
+1304.8.5 = {
+	holder = 451940 # Gerhard II
+}
+1340.4.1 = {
+	holder = 451941 # Henry the Iron of Holstein-Rendsburg
+}
+1384.10.16 = {
+	holder = 451942 # Nikolaus of Holstein-Rendsburg
+}
+1386.1.1 = {
+	holder = 318048 # Gerhard VI of Holstein-Rendsburg
+}
+1404.8.4 = {
+	holder = 318049 # Heinrich IV of Holstein-Rendsburg
+}
+1427.5.28 = {
+	holder = 318051 # Adolf VIII of Holstein-Rendsburg
+}
+1459.12.4 = {
+	holder = 318027 # Christian I of Denmark
+}
+1481.5.21 = {
+	holder = 318023 # Hans
+}
+1513.2.20 = {
+	holder = 318007 # Christian II
+}
+1523.1.20 = {
+	holder = 318029 # Frederik I
+}
+1533.4.10 = {
+	holder = 318024 # Christian III
+}
+1544.1.1 = {
+	holder = 318030 # Adolf of Holstein-Gottorp
+}
+1586.10.1 = {
+	holder = 318046 # Frederik of Holstein-Gottorp
+}
+1587.6.15 = {
+	holder = 318045 # Philip of Holstein-Gottorp
+}
+1590.10.18 = {
+	holder = 318025 # Johann Adolf of Holstein-Gottorp
+}
+1616.3.31 = {
+	holder = 318022 # Frederik III
+}
+1659.8.10 = {
+	holder = 318013 # Christian Albrecht of Holstein-Gottorp
+}
+1695.10.24 = {
+	holder = 318005 # Frederik IV of Holstein-Gottorp
 }

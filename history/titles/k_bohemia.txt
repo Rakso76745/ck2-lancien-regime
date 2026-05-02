@@ -1,7 +1,7 @@
 1526.2.24 = {
   de_jure_liege = e_hre
   liege = e_hre
-  holder = 100277
+  holder = 312031 # Ferdinand I
 }
 1619.8.26 = {
   holder = 100218

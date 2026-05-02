@@ -1,34 +1,185 @@
-1513.7.22 = {
-  holder = 100336
+100.1.1 = {
+	effect = {
+		disable_prepared_invasion = norse_pagan ## Important Viking age effect
+		disable_prepared_invasion = norse_pagan_reformed ## Important Viking age effect
+	}
 }
-1648.7.6 = {
-  holder = 100196
+
+793.1.1 = {
+	effect = {
+		if = {
+			limit = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+			enable_prepared_invasion = norse_pagan ## Important Viking age effect
+		}
+		if = {
+			limit = { NOT = { has_dlc = "Holy Fury" } }
+			enable_prepared_invasion = norse_pagan_reformed ## Important Viking age effect
+		}
+	}
+}
+
+917.1.1 = {
+	law = succ_feudal_elective
+	law = investiture_law_1
+	holder = 101549 # Hardeknud
+}
+934.1.1 = {
+	holder = 101500 # Gorm the Old
+}
+958.1.1 = {
+	holder = 101502 # Harald Blåtand
+}
+986.1.1 = {
+	holder = 101505 # Svend Tveskägg
+}
+1014.2.3 = {
+	holder = 101507 # Harald II
+}
+1018.1.1 = {
+	holder = 101510 # Knud the Great
+}
+1035.11.12 = {
+	holder = 101511 # Knud III Hardeknud
+}
+1042.6.8 = {
+	holder = 102529 # Magnus den Gode
+}
+1047.10.25 = {
+	holder = 101515 # Svend Estridsen
+}
+1074.4.28 = {
+	holder = 101517 # Harald Hein
+}
+1080.4.17 = {
+	holder = 101519 # Knud den Helige
+}
+1086.7.10 = {
+	holder = 101520 # Olaf Hunger
+}
+1095.8.18 = {
+	holder = 101521 # Erik Ejegod
+}
+1103.7.10 = {
+	holder = 101530 # Nils Svendsen
+}
+1134.6.25 = {
+	holder = 201517 # Erik Emune
+}
+1137.7.18 = {
+	holder = 201514 # Erik Lamm
+}
+1146.8.27 = {
+	holder = 201508 # Knud V
+}
+1157.8.9 = {
+	holder = 201518 # Svend Grathe
+}
+1157.10.23 = {
+	holder = 201510 # Valdemar the Great
+}
+1182.5.12 = {
+	holder = 201500 # Knud VI
+}
+1202.11.12 = {
+	holder = 201501 # Valdemar Sejr
+}
+1241.3.28 = {
+	holder = 451510 # Erik Plogpenning
+}
+1250.8.9 = {
+	holder = 451524 # Abel
+}
+1252.6.29 = {
+	holder = 451513 # Christoffer I
+}
+1259.5.29 = {
+	holder = 451514 # Erik Klipping
+}
+1286.11.22 = {
+	holder = 451515 # Erik Menved
+}
+1319.11.13 = {
+	holder = 451520 # Christoffer II
+}
+1326.6.7 = {
+	holder = 451530 # Valdemar III
+}
+1329.2.23 = {
+	holder = 451520 # Christoffer II (restored)
+}
+1332.8.2 = {
+	holder = 451500 # Valdemar Atterdag
+}
+1375.10.24 = {
+	holder = 0 # interregnum
+}
+1376.5.3 = {
+	holder = 318035 # Olaf II
+}
+1387.8.3 = {
+	holder = 318033 # Margarete I
+}
+1412.10.28 = {
+	holder = 318031 # Erik VII
+}
+1439.7.1 = {
+	holder = 318028 # Christoffer III
+}
+1448.1.6 = {
+	holder = 0 # interregnum
+}
+1448.9.1 = {
+	holder = 318027 # Christian I
+}
+1481.5.21 = {
+	holder = 318023 # Hans
+}
+1513.2.20 = {
+	holder = 318007 # Christian II
+}
+1523.1.20 = {
+	holder = 318029 # Frederik I
+}
+1533.4.10 = {
+	holder = 0 # interregnum
+}
+1534.7.4 = {
+	holder = 318024 # Christian III
+}
+1559.1.1 = {
+	holder = 318021 # Frederik II
+}
+1588.4.4 = {
+	holder = 318020 # Christian IV
+}
+1648.2.28 = {
+	holder = 318002 # Frederik III
 }
 1670.2.9 = {
-  holder = 100199
+	holder = 318003 # Christian V
 }
 1699.8.25 = {
-  holder = 100021
+	holder = 318001 # Frederik IV
 }
 1700.1.1 = {
-  name = Denmark
-  adjective = Danish
-  vice_royalty = no
-  law = out_of_realm_inheritance_law_1
-  law = ze_administration_laws_2
-  law = revoke_title_law_2
-  law = investiture_law_1
-  law = succ_primogeniture
-  law = cognatic_succession
-  law = crown_authority_1
-  law = centralization_4
-  law = law_voting_power_0
-  law = vassal_wars_law_2
-  law = revoke_title_voting_power_0
-  law = grant_title_voting_power_0
-  law = execution_voting_power_0
-  law = war_voting_power_0
-  law = imprison_voting_power_0
-  law = banish_voting_power_0
-  law = succession_voting_power_0
+	name = Denmark
+	adjective = Danish
+	vice_royalty = no
+	law = out_of_realm_inheritance_law_1
+	law = ze_administration_laws_2
+	law = revoke_title_law_2
+	law = investiture_law_1
+	law = succ_primogeniture
+	law = cognatic_succession
+	law = crown_authority_1
+	law = centralization_4
+	law = law_voting_power_0
+	law = vassal_wars_law_2
+	law = revoke_title_voting_power_0
+	law = grant_title_voting_power_0
+	law = execution_voting_power_0
+	law = war_voting_power_0
+	law = imprison_voting_power_0
+	law = banish_voting_power_0
+	law = succession_voting_power_0
 }

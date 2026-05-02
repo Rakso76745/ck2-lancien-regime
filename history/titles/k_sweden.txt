@@ -1,33 +1,159 @@
-1520.11.1 = {
-  holder = 100336
+
+970.1.1 = {
+	holder = 100504 # Erik Segersäll
+	law = succ_feudal_elective
+	law = cognatic_succession
+	law = investiture_law_1
 }
+995.1.2 = {
+	holder = 100506 # Olof Skötkonung
+}
+1022.1.7 = {
+	holder = 100508 # Anund Jakob "Kolbränna"
+}
+1050.1.16 = {
+	holder = 100509 # Emund den Gamle, aka "Emund Slemme"
+}
+
+1060.8.2 = {
+	holder = 100522 # Stenkil
+}
+1066.9.25 = {
+	holder = 100525 # Erik
+}
+1067.12.20 = {
+	holder = 100523 # Halsten
+}
+1070.12.1 = {
+	holder = 100526 # Håkan Röde
+}
+1080.12.1 = {
+	holder = 100524 # Inge the Older
+}
+1100.1.8 = {
+	holder = 100550 # Filip, son of 100523 (Halsten)
+}
+1118.6.6 = {
+	holder = 100551 # Inge the Younger, son of 100523 (Halsten)
+}
+1125.6.6 = {
+	holder = 100552 # Ragnvald "Knaphövde", possibly a son of 100524 (Inge the Older)
+}
+1126.6.6 = {
+	holder = 101531 # Magnus Nilsson, son of Danish King Nils and Inge the Older's daughter Margareta
+}
+1134.6.4 = {
+	holder = 200600 # Sverker the Older
+}
+1156.12.25 = {
+	holder = 200490 # Erik "the Holy"
+}
+1160.6.6 = {
+	holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
+}
+1161.6.6 = {
+	holder = 200602 # Karl Sverkersson, son of Sverker the Older
+}
+1167.4.12 = {
+	holder = 200608 # Kol Sverkersson, son of Sverker the Older
+}
+1173.1.1 = {
+	holder = 200500 # Knut Eriksson
+}
+1195.1.1 = {
+	holder = 200604 # Sverker den Yngre, son of 200602 - Karl Sverkersson
+}
+1208.1.31 = {
+	holder = 200504 # Erik Knutsson, son of 200500, Knut Eriksson
+}
+1216.4.10 = {
+	holder = 200609 # Johan, son of Sverker (200604)
+}
+1222.3.10 = {
+	holder = 200507 # Erik 'den Läspe och Halte'
+}
+1229.11.29 = {
+	holder = 200508 # Knut Holmgersson 'den Långe'
+}
+1234.6.6 = {
+	holder = 200507 # Erik 'den Läspe och Halte', reinstated
+}
+1250.2.2 = {
+	holder = 450506 # Valdemar Birgersson
+}
+1275.7.22 = {
+	holder = 450502 # Magnus 'Ladulås'
+}
+1290.12.18 = {
+	holder = 450504 # Birger Magnusson
+}
+1319.7.8 = {
+	holder = 450500 # Magnus Eriksson
+}
+1364.2.15 = {
+	holder = 0 # For now - house of Bjalbo continues here
+}
+1389.2.24 = {
+	holder = 318033 # Margarete
+}
+1412.10.28 = {
+	holder = 318031 # Erik XIII
+}
+1439.9.24 = {
+	holder = 0 # interregnum
+}
+1441.9.1 = {
+	holder = 318028 # Christopher
+}
+1448.1.6 = {
+	holder = 0 # interregnum followed by Karl Bonde
+}
+1457.6.23 = {
+	holder = 318027 # Christian I
+}
+1464.6.23 = {
+	holder = 0 # Karl Bonde returns
+}
+1497.10.6 = {
+	holder = 318023 # Johan / Hans
+}
+1501.8.1 = {
+	holder = 0 # Sten Sture as regent
+}
+1520.11.1 = {
+	holder = 318007 # Christian II
+}
+1521.8.23 = {
+	holder = 0 # Gustav Vasa, first as regent and then as king, followed by his heirs
+}
+
 1592.11.17 = {
-  holder = 100304
+	holder = 100304
 }
 1660.2.13 = {
-  holder = 100243
+	holder = 100243
 }
 1697.4.5 = {
-  holder = 100059
+	holder = 100059
 }
 1700.1.1 = {
-  vice_royalty = no
-  law = out_of_realm_inheritance_law_1
-  law = ze_administration_laws_2
-  law = revoke_title_law_2
-  law = investiture_law_1
-  law = succ_primogeniture
-  law = cognatic_succession
-  law = crown_authority_1
-  law = centralization_4
-  law = law_voting_power_0
-  law = vassal_wars_law_2
-  law = revoke_title_voting_power_0
-  law = grant_title_voting_power_0
-  law = execution_voting_power_0
-  law = war_voting_power_0
-  law = imprison_voting_power_0
-  law = banish_voting_power_0
-  law = succession_voting_power_0
+	vice_royalty = no
+	law = out_of_realm_inheritance_law_1
+	law = ze_administration_laws_2
+	law = revoke_title_law_2
+	law = investiture_law_1
+	law = succ_primogeniture
+	law = cognatic_succession
+	law = crown_authority_1
+	law = centralization_4
+	law = law_voting_power_0
+	law = vassal_wars_law_2
+	law = revoke_title_voting_power_0
+	law = grant_title_voting_power_0
+	law = execution_voting_power_0
+	law = war_voting_power_0
+	law = imprison_voting_power_0
+	law = banish_voting_power_0
+	law = succession_voting_power_0
 }
 

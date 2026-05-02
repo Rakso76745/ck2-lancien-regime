@@ -1,0 +1,3 @@
+# This space is reserved due to vanilla characters existing in this range
+
+# If a small extra space is needed, 333000-333999 may be used; if so, please create a separate file

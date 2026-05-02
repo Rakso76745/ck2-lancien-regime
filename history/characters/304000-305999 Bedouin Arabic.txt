@@ -1,0 +1,32 @@
+304000 = {
+	name = Saif # bin Sultan
+	dynasty = 13636 # Yarubid
+	religion = ibadi
+	culture = bedouin_arabic
+	1650.1.1 = { birth = yes }
+	1711.10.4 = { death = yes }
+}
+304001 = {
+	name = "Al-Mahdi Muhammad"
+	dynasty = 13638 # Qasimid
+	religion = shiite
+	culture = bedouin_arabic
+	1637.10.27 = { birth = yes }
+	1718.8.2 = { death = yes }
+}
+304002 = {
+	name = "Badr ibn Jafar"
+	dynasty = 13637 # Al Kathiri
+	religion = shiite
+	culture = bedouin_arabic
+	1650.1.1 = { birth = yes }
+	1707.1.1 = { death = yes }
+}
+304003 = {
+	name = "Abdallah"
+	dynasty = 13639 # Banu Afrar
+	religion = shiite
+	culture = bedouin_arabic
+	1664.1.1 = { birth = yes }
+	1750.1.1 = { death = yes } # arbitrary choice - accession of the first documented sultan I could find
+}

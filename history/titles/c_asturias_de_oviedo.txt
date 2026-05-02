@@ -1,7 +1,13 @@
 1556.1.1 = {
-  liege = e_spain
-  holder = 100282
+	liege = d_asturias
+	holder = 312009 # Don Carlos
+}
+1568.7.24 = {
+	holder = 0
 }
 1629.10.17 = {
-  holder = 100408
+	holder = 312017 # Baltasar Carlos
+}
+1646.10.9 = {
+	holder = 0 # FIXME
 }
