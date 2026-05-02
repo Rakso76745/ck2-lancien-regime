@@ -347,6 +347,7 @@
 	father = 322018 # Maurice, Prince of Orange
 	mother = 322029 # Margaretha van Mechelen
 	culture = dutch
+	trait = bastard
 	religion = reformed
 	1602.1.1 = { birth = yes }
 	1665.2.28 = { death = yes }
